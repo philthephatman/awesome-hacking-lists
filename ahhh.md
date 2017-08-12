@@ -18,7 +18,6 @@
   - [OCaml](#ocaml)
   - [Others](#others)
   - [PHP](#php)
-  - [Perl](#perl)
   - [Perl6](#perl6)
   - [PowerShell](#powershell)
   - [Propeller Spin](#propeller spin)
@@ -29,15 +28,17 @@
 
 ## C 
 
+- [malheur](https://github.com/rieck/malheur) - A Tool for Automatic Analysis of Malware Behavior
+- [loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [pentestkoala](https://github.com/mrschyte/pentestkoala) - Modified dropbear server which acts as a client and allows authless login
-- [memz](https://github.com/rcktscnc/memz) - A Cleaner MEMZ
+- [memz](https://github.com/rcktscnc/memz) - A cleaner MEMZ
 - [DoubleAgent](https://github.com/Cybellum/DoubleAgent) - Zero-Day Code Injection and Persistence Technique
 - [vlany](https://github.com/mempodippy/vlany) - Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of  public penetration test reports released by several consulting firms and academic security groups
 - [patchkit](https://github.com/lunixbochs/patchkit) - binary patching from Python
 - [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [pafish](https://github.com/a0rtega/pafish) - Pafish is a demonstration tool that employs several techniques to detect sandboxes and analysis environments in the same way as malware families do.
-- [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/
+- [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
 - [keychaindump](https://github.com/juuso/keychaindump) - A proof-of-concept tool for reading OS X keychain passwords
 - [LiME](https://github.com/504ensicsLabs/LiME) - LiME (formerly DMD) is a Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, such as those powered by Android. The tool supports acquiring memory either to the file system of the device or over the network. LiME is unique in that it is the first tool that allows full memory captures from Android devices. It also minimizes its interaction between user and kernel space processes during acquisition, which allows it to produce memory captures that are more forensically sound than those of other tools designed for Linux memory acquisition.
 - [MacDBG](https://github.com/blankwall/MacDBG) - Simple easy to use C and python debugging framework for OSX
@@ -55,6 +56,7 @@
 
 ## C# # 
 
+- [nps](https://github.com/Ben0xA/nps) - Not PowerShell
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - PowerForensics provides an all in one platform for live disk forensic analysis
 - [PSAttack](https://github.com/jaredhaight/PSAttack) - A portable console aimed at making pentesting with PowerShell a little easier.
 - [r2dr2-udp-drdos-tool](https://github.com/daniel0x00/r2dr2-udp-drdos-tool) - DRDoS UDP amplification tool
@@ -81,12 +83,13 @@
 
 ## Go 
 
+- [hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools is an utility that disables a number of risky Windows features.
 - [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites
 - [go-mimikatz](https://github.com/vyrus001/go-mimikatz) - A wrapper around a pre-compiled version of the Mimikatz executable for the purpose of anti-virus evasion.
 - [winrm-powershell](https://github.com/mefellows/winrm-powershell) - Run Powershell remotely from the CLI
 - [pam-ussh](https://github.com/uber/pam-ussh) - uber's ssh certificate pam module
 - [EGESPLOIT](https://github.com/EgeBalci/EGESPLOIT) - EGESPLOIT is a golang library for malware development
-- [ransomware](https://github.com/mauri870/ransomware) - A windows crypto-ransomware (Academic)
+- [ransomware](https://github.com/mauri870/ransomware) - A POC Windows crypto-ransomware (Academic)
 - [w32](https://github.com/AllenDang/w32) - A wrapper of windows apis for the Go Programming Language.
 - [powershell-reverse-http](https://github.com/mauri870/powershell-reverse-http) - :innocent: A Powershell exploit, windows native service with no virus signature that open a reverse http connection via meterpreter
 - [phishery](https://github.com/ryhanson/phishery) - An SSL Enabled Basic Auth Credential Harvester with a Word Document Template URL Injector
@@ -105,7 +108,6 @@
 - [warberry](https://github.com/secgroundzero/warberry) - WarBerryPi - Tactical Exploitation
 - [memory-analysis](https://github.com/scudette/memory-analysis) - A Rekall interactive document for a Memory Analysis workshop/course.
 - [rekall-profiles](https://github.com/google/rekall-profiles) - Public Profile Repository for Rekall Memory Forensic.
-- [streisand](https://github.com/jlund/streisand) - Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [lostpass](https://github.com/cxxr/lostpass) - Pixel-perfect LastPass phishing
 - [misc](https://github.com/StalkR/misc) - Little bit of this, little bit of that
 - [threat_note](https://github.com/defpoint/threat_note) - DPS' Lightweight Investigation Notebook
@@ -117,11 +119,14 @@
 
 ## Java 
 
+- [tink](https://github.com/google/tink) - Tink is a small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks. It is written by a group of cryptographers and security engineers at Google, but it is not an official Google product.
+- [psychoPATH](https://github.com/ewilded/psychoPATH) - psychoPATH - hunting file uploads & LFI in the dark. This tool is a highly configurable payload generator detecting LFI & web root file uploads. Involves advanced path traversal evasive techniques, dynamic web root list generation, output encoding, site map-searching payload generator, LFI mode, nix & windows support, single byte generator. Now available in the Burp App Store!
+- [shelling](https://github.com/ewilded/shelling) - SHELLING - a comprehensive OS command injection payload generator
 - [bypasswaf](https://github.com/codewatchorg/bypasswaf) - Add headers to all Burp requests to bypass some WAF products
 - [BurpSuiteLoggerPlusPlus](https://github.com/nccgroup/BurpSuiteLoggerPlusPlus) - Burp Suite Logger++: Log activities of all the tools in Burp Suite
 - [JavaSerialKiller](https://github.com/NetSPI/JavaSerialKiller) - Burp extension to perform Java Deserialization Attacks
 - [SerialKillerBypassGadgetCollection](https://github.com/pwntester/SerialKillerBypassGadgetCollection) - Collection of bypass gadgets to extend and wrap ysoserial payloads
-- [firescape](https://github.com/gen0cide-/firescape) - MMORPG client and server in Java for personal research
+- [firescape](https://github.com/gen0cide/firescape) - MMORPG client and server in Java for personal research
 
 ## JavaScript 
 
@@ -137,10 +142,13 @@
 
 ## OCaml 
 
+- [bincat](https://github.com/airbus-seclab/bincat) - Binary code static analyser, with IDA integration.  Performs value and taint analysis, type reconstruction.
 - [Batsh](https://github.com/BYVoid/Batsh) - A language that compiles to Bash and Windows Batch
 
 ## Others 
 
+- [DefCon25](https://github.com/FuzzySecurity/DefCon25) - UAC 0day, all day!
+- [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening) - A curated list of awesome Security Hardening techniques for Windows.
 - [awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely
 - [CCDC](https://github.com/obscuresec/CCDC) - Scripts related to CCDC
 - [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
@@ -159,16 +167,10 @@
 ## PHP 
 
 - [FiercePhish](https://github.com/Raikia/FiercePhish) - FiercePhish is a full-fledged phishing framework to manage all phishing engagements.  It allows you to track separate phishing campaigns, schedule sending of emails, and much more.
-- [sees](https://github.com/galkan/sees) - SEES aims to increase the success rate of phishing attacks by sending emails to company users as if they are coming from the very same company’s domain.
 - [MISP](https://github.com/MISP/MISP) - MISP - Malware Information Sharing Platform & Threat Sharing
 - [Sn1per](https://github.com/1N3/Sn1per) - Automated Pentest Recon Scanner
 - [DAws](https://github.com/dotcppfile/DAws) - Advanced Web Shell
 - [webshell](https://github.com/tennc/webshell) - This is a webshell open source project
-
-## Perl 
-
-- [psychoPATH](https://github.com/ewilded/psychoPATH) - This little helper script attempts to generate all potential DOCUMENT_ROOT full paths for a given application.
-- [shelling](https://github.com/ewilded/shelling) - SHELLING - an offensive approach to the anatomy of improperly written OS command injection sanitisers
 
 ## Perl6 
 
@@ -176,6 +178,10 @@
 
 ## PowerShell 
 
+- [GPRegistryPolicy](https://github.com/PowerShell/GPRegistryPolicy) - 
+- [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - PowerShell Obfuscator
+- [IR-Tools](https://github.com/JavelinNetworks/IR-Tools) - IR-Tools - PowerShell tools for IR
+- [GoFetch](https://github.com/GoFetchAD/GoFetch) - GoFetch is a tool to automatically exercise an attack plan generated by the BloodHound application.
 - [PSKernel-Primitives](https://github.com/FuzzySecurity/PSKernel-Primitives) - Exploit primitives for PowerShell
 - [Invoke-TheHash](https://github.com/Kevin-Robertson/Invoke-TheHash) - PowerShell Pass The Hash Utils
 - [fathomless](https://github.com/xor-function/fathomless) - A collection of different programs for network red teaming.
@@ -185,7 +191,6 @@
 - [PowerShell](https://github.com/clymb3r/PowerShell) - Useful PowerShell scripts
 - [PowerTools](https://github.com/PowerShellEmpire/PowerTools) - PowerTools is a collection of PowerShell projects with a focus on offensive operations.
 - [PowerMemory](https://github.com/giMini/PowerMemory) - Exploit the credentials present in files and memory
-- [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 - [PowerSCCM](https://github.com/PowerShellMafia/PowerSCCM) - PowerSCCM - PowerShell module to interact with SCCM deployments
 - [Tater](https://github.com/Kevin-Robertson/Tater) - Tater is a PowerShell implementation of the Hot Potato Windows Privilege Escalation exploit from @breenmachine and @foxglovesec
 - [PoshRat](https://github.com/subTee/PoshRat) - PowerShell Reverse HTTPs Shell
@@ -214,6 +219,12 @@
 
 ## Python 
 
+- [scorebot](https://github.com/dichotomy/scorebot) - Scoring Engine for CTF competitions
+- [Eureka](https://github.com/MMarianus/Eureka) - Eureka is a forensic open source search tool that identifies Facebook Chats, Emails, URLs, Email Addresses and Human Language in very, very large files (mostly, in memory dumps). NOTE: To save the results into a file, please redirect the output..
+- [EquationGroupLeak](https://github.com/adamcaudill/EquationGroupLeak) - Archive of leaked Equation Group materials
+- [cuckoo-modified](https://github.com/spender-sandbox/cuckoo-modified) - Modified edition of cuckoo
+- [FSEventsParser](https://github.com/dlcowen/FSEventsParser) - Parser for OSX/iOS FSEvents Logs
+- [viper-scripts](https://github.com/pmelson/viper-scripts) - Various Modules & Scripts for use with Viper Framework
 - [manticore](https://github.com/trailofbits/manticore) - Dynamic binary analysis tool
 - [fancybear](https://github.com/rickey-g/fancybear) - Fancy Bear Source Code
 - [mimipenguin](https://github.com/huntergregal/mimipenguin) - A tool to dump the login password from the current linux user
@@ -232,6 +243,7 @@
 - [zarp](https://github.com/hatRiot/zarp) - Network Attack Tool
 - [aws_pwn](https://github.com/dagrz/aws_pwn) - A collection of AWS penetration testing junk
 - [pyshell](https://github.com/praetorian-inc/pyshell) - PyShell makes interacting with web-based command injection less painful, emulating the feel of an interactive shell as much as possible.
+- [sof-elk](https://github.com/philhagen/sof-elk) - Configuration files for the SOF-ELK VM, used in SANS FOR572
 - [EQGRP](https://github.com/samgranger/EQGRP) - Mirror
 - [PINCE](https://github.com/korcankaraokcu/PINCE) - A reverse engineering tool that'll (hopefully) supply the place of Cheat Engine for linux
 - [splunk2resilient](https://github.com/ministryofpromise/splunk2resilient) - splunk alert script to create resilient tickets
@@ -243,9 +255,9 @@
 - [simple](https://github.com/vitapluvia/simple) - 
 - [angr](https://github.com/angr/angr) - The next-generation binary analysis platform from UC Santa Barbara's Seclab!
 - [angr-doc](https://github.com/angr/angr-doc) - Documentation for the angr suite
-- [detekt](https://github.com/botherder/detekt) - Malware triaging tool
+- [detekt](https://github.com/botherder/detekt) - THIS PROJECT IS DISCONTINUED - DO NOT RUN ANYMORE
 - [Winpayloads](https://github.com/nccgroup/Winpayloads) - Undetectable Windows Payload Generation
-- [featherduster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool
+- [featherduster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction
 - [CVE-2016-3714](https://github.com/Hood3dRob1n/CVE-2016-3714) - ImaegMagick Code Execution (CVE-2016-3714)
 - [FIR](https://github.com/certsocietegenerale/FIR) - Fast Incident Response
 - [vivisect](https://github.com/vivisect/vivisect) - 
@@ -261,8 +273,9 @@
 - [PenTestScripts](https://github.com/ChrisTruncer/PenTestScripts) - Scripts that are useful for me on pen tests
 - [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [Satori](https://github.com/pasv/Satori) - Hunting system admins with Powershell/WMI
-- [HoneyPy](https://github.com/foospidy/HoneyPy) - A low interaction honeypot.
+- [HoneyPy](https://github.com/foospidy/HoneyPy) - A low to medium interaction honeypot.
 - [viper](https://github.com/viper-framework/viper) - Binary analysis and management framework
+- [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 - [urlquery_python_api](https://github.com/CIRCL/urlquery_python_api) - Python API for URL Query
 - [AlienVaultLabs](https://github.com/AlienVault-Labs/AlienVaultLabs) - Alienvault Labs Projects Random Stuff
 - [python-deepviz](https://github.com/saferbytes/python-deepviz) - python-deepviz is a python wrapper for deepviz.com REST APIs
@@ -294,7 +307,7 @@
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - Framework for Rogue Wi-Fi Access Point Attack
 - [ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 - [ghostunnel](https://github.com/square/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services
-- [Opy](https://github.com/QQuick/Opy) - Obfuscator for Python
+- [Opy](https://github.com/QQuick/Opy) - Obfuscator for Python. CURRENTLY BROKEN
 - [peel](https://github.com/frank2/peel) - PEEL is a Python library for being a Windows binary wizard. Literally. You will literally become the Gandalf of PE files.
 - [rekall](https://github.com/google/rekall) - Rekall Memory Forensic Framework
 - [pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
@@ -335,25 +348,27 @@
 
 ## Ruby 
 
+- [yawast](https://github.com/adamcaudill/yawast) - The YAWAST Antecedent Web Application Security Toolkit
+- [catphish](https://github.com/ring0lab/catphish) - CATPHISH project - For phishing and corporate espionage
 - [keyjacker](https://github.com/erran/keyjacker) - Keyjacker enumerates Mac keychains and displays plain text passwords.
 - [IntData](https://github.com/cryptobioz/IntData) - IntData is a forensic tool for fast research in the memory of your iPhone, iPad or iPod
 - [go-derper](https://github.com/sensepost/go-derper) - Memcache hacking tool.
 - [test-kitchen](https://github.com/test-kitchen/test-kitchen) - Test Kitchen is an integration tool for developing and testing infrastructure code and software on isolated target platforms.
 - [bettercap-proxy-modules](https://github.com/evilsocket/bettercap-proxy-modules) - This repository contains some bettercap transparent proxy example modules.
 - [bettercap](https://github.com/evilsocket/bettercap) - A complete, modular, portable and easily extensible MITM framework.
-- [bassethound](https://github.com/gen0cide-/bassethound) - Check the validity of email addresses
+- [bassethound](https://github.com/gen0cide/bassethound) - Check the validity of email addresses
 - [ocra](https://github.com/larsch/ocra) - One-Click Ruby Application Builder
 
 ## Shell 
 
 - [unfetter](https://github.com/unfetter-analytic/unfetter) - Main Build directory
 - [yodo](https://github.com/b3rito/yodo) - Local Privilege Escalation
-- [sof-elk](https://github.com/philhagen/sof-elk) - Configuration files for the SOF-ELK VM, used in SANS FOR572
 - [2016-security-scripts](https://github.com/inversoft/2016-security-scripts) - Scripts built from our 2016 Guide to User Data Security
 - [epictreasure](https://github.com/praetorian-inc/epictreasure) - radare, angr, pwndbg, binjitsu, ect in a box ready for pwning
 - [Linux-RDP](https://github.com/Hood3dRob1n/Linux-RDP) - Linux RDP Scanner and Bruteforcer Scripts
 - [brootkit](https://github.com/cloudsec/brootkit) - Lightweight rootkit implemented by bash shell scripts v0.10
 - [afdns](https://github.com/Kolyunya/afdns) - Ad free DNS server. A docker container with a DNS server configured to block advertisement hosts.
+- [streisand](https://github.com/jlund/streisand) - Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [random](https://github.com/obscuresec/random) - Scripts that aren't PowerShell
 - [htshells](https://github.com/wireghoul/htshells) - Self contained htaccess shells and attacks
 - [n4p](https://github.com/Cyb3r-Assassin/n4p) - Offensives network security framework for Wireless and MiTM style hacking

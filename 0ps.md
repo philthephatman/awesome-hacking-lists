@@ -30,7 +30,7 @@
 
 ## C# # 
 
-- [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - Î¢ĞÅ¹«ÖÚÆ½Ì¨SDK Senparc.Weixin for C#£¬Ö§³Ö.NET Framework¼°.NET Core¡£ÒÑÖ§³ÖÎ¢ĞÅ¹«ÖÚºÅ¡¢Ğ¡³ÌĞò¡¢ÆóÒµºÅ¡¢ÆóÒµÎ¢ĞÅ¡¢¿ª·ÅÆ½Ì¨¡¢Î¢ĞÅÖ§¸¶¡¢JSSDK¡¢Î¢ĞÅÖÜ±ß¡£ WeChat SDK for C#.
+- [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - å¾®ä¿¡å…¬ä¼—å¹³å°SDK Senparc.Weixin for C#ï¼Œæ”¯æŒ.NET FrameworkåŠ.NET Coreã€‚å·²æ”¯æŒå¾®ä¿¡å…¬ä¼—å·ã€å°ç¨‹åºã€ä¼ä¸šå·ã€ä¼ä¸šå¾®ä¿¡ã€å¼€æ”¾å¹³å°ã€å¾®ä¿¡æ”¯ä»˜ã€JSSDKã€å¾®ä¿¡å‘¨è¾¹ã€‚ WeChat SDK for C#.
 
 ## C++ 
 
@@ -38,10 +38,9 @@
 
 ## CSS 
 
-- [cobra](https://github.com/wufeifei/cobra) - Cobra - Cobra is a static code analysis system that automates the detecting vulnerabilities and security issue.(°×ºĞ´úÂë°²È«Éó¼ÆÏµÍ³)
-- [orangescan](https://github.com/0xbug/orangescan) - ÔÚÏß×ÓÓòÃûĞÅÏ¢ÊÕ¼¯¹¤¾ß
-- [hexo-theme-themia](https://github.com/kaedea/hexo-theme-themia) - ThemiaÊÇÒ»¸ö»ªÀöµÄHexoÏìÓ¦Ê½Ö÷Ìâ£¬ÓÉLouisBarranqueiro¿ª·¢µÄÖ÷ÌâTranquiPeakµÄ»ù´¡ÉÏ¸ÄÔì¶øÀ´£¬´ó²¿·Ö¹¦ÄÜ¶¼ÊÇÔ­ÓĞÖ÷ÌâµÄ£¬Ö»ÊÇÎªÁËÎÒ×Ô¼ºµÄĞèÇó×öÁËĞ¡²¿·ÖµÄĞŞ¸Ä¡£
-- [hexo-theme-yelee](https://github.com/MOxFIVE/hexo-theme-yelee) - ¼ò¶ø²»¼õ Hexo Ë«À¸²©¿ÍÖ÷Ìâ; Another simple and elegant theme for Hexo.
+- [orangescan](https://github.com/0xbug/orangescan) - åœ¨çº¿å­åŸŸåä¿¡æ¯æ”¶é›†å·¥å…·
+- [hexo-theme-themia](https://github.com/kaedea/hexo-theme-themia) - Themiaæ˜¯ä¸€ä¸ªåä¸½çš„Hexoå“åº”å¼ä¸»é¢˜ï¼Œç”±LouisBarranqueiroå¼€å‘çš„ä¸»é¢˜TranquiPeakçš„åŸºç¡€ä¸Šæ”¹é€ è€Œæ¥ï¼Œå¤§éƒ¨åˆ†åŠŸèƒ½éƒ½æ˜¯åŸæœ‰ä¸»é¢˜çš„ï¼Œåªæ˜¯ä¸ºäº†æˆ‘è‡ªå·±çš„éœ€æ±‚åšäº†å°éƒ¨åˆ†çš„ä¿®æ”¹ã€‚
+- [hexo-theme-yelee](https://github.com/MOxFIVE/hexo-theme-yelee) - ç®€è€Œä¸å‡ Hexo åŒæ åšå®¢ä¸»é¢˜; Another simple and elegant theme for Hexo.
 
 ## CoffeeScript 
 
@@ -50,32 +49,32 @@
 ## Go 
 
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-- [golocproxy](https://github.com/jijinggang/golocproxy) - ÇáÁ¿¼¶³¬Ç¿·´Ïò´úÀíÈí¼ş£¬ÓÃgoÓïÑÔ¿ª·¢£¬Í¨¹ı¹«¹²¿ÉÖªµÄ·şÎñÆ÷¶Ë¿Ú´úÀí£¬°Ñ¾ÖÓòÍøÄÚÈÎºÎÖ÷»úµÄ±¾µØ·şÎñ·¢²¼¸ø¾ÖÓòÍøÍâµÄÓÃ»§£¬¿ÉÓÃÀ´¿çÔ½¸÷ÖÖ·À»ğÇ½¡£
+- [golocproxy](https://github.com/jijinggang/golocproxy) - è½»é‡çº§è¶…å¼ºåå‘ä»£ç†è½¯ä»¶ï¼Œç”¨goè¯­è¨€å¼€å‘ï¼Œé€šè¿‡å…¬å…±å¯çŸ¥çš„æœåŠ¡å™¨ç«¯å£ä»£ç†ï¼ŒæŠŠå±€åŸŸç½‘å†…ä»»ä½•ä¸»æœºçš„æœ¬åœ°æœåŠ¡å‘å¸ƒç»™å±€åŸŸç½‘å¤–çš„ç”¨æˆ·ï¼Œå¯ç”¨æ¥è·¨è¶Šå„ç§é˜²ç«å¢™ã€‚
 
 ## HTML 
 
-- [fuzzdb](https://github.com/tennc/fuzzdb) - Ò»¸öfuzzdbÀ©Õ¹¿â
-- [GetWeixinCode](https://github.com/HADB/GetWeixinCode) - ½â¾öÎ¢ĞÅOAuth2.0ÍøÒ³ÊÚÈ¨Ö»ÄÜÉèÖÃÒ»¸ö»Øµ÷ÓòÃûµÄÎÊÌâ
-- [BroDomain](https://github.com/code-scan/BroDomain) - ĞÖµÜÓòÃû²éÑ¯
+- [fuzzdb](https://github.com/tennc/fuzzdb) - ä¸€ä¸ªfuzzdbæ‰©å±•åº“
+- [GetWeixinCode](https://github.com/HADB/GetWeixinCode) - è§£å†³å¾®ä¿¡OAuth2.0ç½‘é¡µæˆæƒåªèƒ½è®¾ç½®ä¸€ä¸ªå›è°ƒåŸŸåçš„é—®é¢˜
+- [BroDomain](https://github.com/code-scan/BroDomain) - å…„å¼ŸåŸŸåæŸ¥è¯¢
 
 ## Java 
 
 - [Cknife](https://github.com/Chora10/Cknife) - Cknife
-- [QiangHongBao](https://github.com/WooyunDota/QiangHongBao) - Î¢ĞÅ¡¢QQ×Ô¶¯ÇÀºì°üÍâ¹Ò£¨ÂÌÉ«¡¢ÎŞ¹ã¸æ£©
-- [WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) - :money_with_wings: WeChat's lucky money helper (Î¢ĞÅÇÀºì°ü²å¼ş). An Android app that helps you snatch red packets in WeChat groups.
+- [QiangHongBao](https://github.com/WooyunDota/QiangHongBao) - å¾®ä¿¡ã€QQè‡ªåŠ¨æŠ¢çº¢åŒ…å¤–æŒ‚ï¼ˆç»¿è‰²ã€æ— å¹¿å‘Šï¼‰
+- [WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) - :money_with_wings: WeChat's lucky money helper (å¾®ä¿¡æŠ¢çº¢åŒ…æ’ä»¶). An Android app that helps you snatch red packets in WeChat groups.
 - [expper](https://github.com/Raysmond/expper) - Expper website source code
 
 ## JavaScript 
 
-- [register](https://github.com/jiyis/register) - »ùÓÚLaravel5.2ºÍadminLTEÍ¨ÓÃÄ£°æ¿ª·¢µÄÒ»¸ö±¨ÃûÏµÍ³¡£¹¦ÄÜÉÏÓÃµ½ÁËgulp¼¯³ÉÇ°¶Ë×ÊÔ´£¬generator¿ìËÙ×Ô¶¯Éú³ÉºÍEntrustµÄRBACÈ¨ÏŞ¹ÜÀí¡£UIÉÏÓÃµ½ÁËselect2£¬dropzone£¬fileupload£¬toastrµÈµÈÆ¯ÁÁµÄ²å¼ş¡£Í¬Ê±ºóÌ¨Ò²Ö§³ÖExcelµÄµ½ÈçºÎµ¼³ö
-- [qiandao](https://github.com/binux/qiandao) - Ç©µ½
+- [register](https://github.com/jiyis/register) - åŸºäºLaravel5.2å’ŒadminLTEé€šç”¨æ¨¡ç‰ˆå¼€å‘çš„ä¸€ä¸ªæŠ¥åç³»ç»Ÿã€‚åŠŸèƒ½ä¸Šç”¨åˆ°äº†gulpé›†æˆå‰ç«¯èµ„æºï¼Œgeneratorå¿«é€Ÿè‡ªåŠ¨ç”Ÿæˆå’ŒEntrustçš„RBACæƒé™ç®¡ç†ã€‚UIä¸Šç”¨åˆ°äº†select2ï¼Œdropzoneï¼Œfileuploadï¼Œtoastrç­‰ç­‰æ¼‚äº®çš„æ’ä»¶ã€‚åŒæ—¶åå°ä¹Ÿæ”¯æŒExcelçš„åˆ°å¦‚ä½•å¯¼å‡º
+- [qiandao](https://github.com/binux/qiandao) - ç­¾åˆ°
 - [ant](https://github.com/antoor/ant) - code for study
-- [BlueLotus_XSSReceiver](https://github.com/firesunCN/BlueLotus_XSSReceiver) - XSSÆ½Ì¨ CTF¹¤¾ß Web°²È«¹¤¾ß
-- [liumeijun.com](https://github.com/loo2k/liumeijun.com) - ÉúÈÕÀñÎï
+- [BlueLotus_XSSReceiver](https://github.com/firesunCN/BlueLotus_XSSReceiver) - XSSå¹³å° CTFå·¥å…· Webå®‰å…¨å·¥å…·
+- [liumeijun.com](https://github.com/loo2k/liumeijun.com) - ç”Ÿæ—¥ç¤¼ç‰©
 - [node-wechat-terminal](https://github.com/goorockey/node-wechat-terminal) - Wechat client in terminal
-- [proxy-demo](https://github.com/qgy18/proxy-demo) - Node.js ÊµÏÖÁ½ÖÖ WEB ´úÀíµÄÑİÊ¾³ÌĞò¡£
+- [proxy-demo](https://github.com/qgy18/proxy-demo) - Node.js å®ç°ä¸¤ç§ WEB ä»£ç†çš„æ¼”ç¤ºç¨‹åºã€‚
 - [aljun.me](https://github.com/salamer/aljun.me) - my personal blog source
-- [nodejs-38sr](https://github.com/ForestCho/nodejs-38sr) - ÓÃExpress¿ò¼Ü¿ª·¢µÄNodeÕ¾µã
+- [nodejs-38sr](https://github.com/ForestCho/nodejs-38sr) - ç”¨Expressæ¡†æ¶å¼€å‘çš„Nodeç«™ç‚¹
 - [pxss](https://github.com/pxss/pxss) - 
 
 ## Objective-C 
@@ -84,18 +83,19 @@
 
 ## Others 
 
-- [AZScanner](https://github.com/az0ne/AZScanner) - ×Ô¶¯Â©¶´É¨ÃèÆ÷£¬×Ô¶¯×ÓÓòÃû±¬ÆÆ£¬×Ô¶¯ÅÀÈ¡×¢Èë£¬µ÷ÓÃsqlmapapi¼ì²â×¢Èë£¬¶Ë¿ÚÉ¨Ãè£¬Ä¿Â¼±¬ÆÆ£¬×ÓÍø¶Î·şÎñÌ½²â¼°Æä¶Ë¿ÚÉ¨Ãè£¬³£ÓÃ¿ò¼ÜÂ©¶´¼ì²â¡£ Automatic scanner, automatic sub domain blasting, automatic crawl injection, injection, call the sqlmapapi port scan detection, directory service detection and segment blasting, port scanning, vulnerability detection framework commonly used.
-- [Mind-Map](https://github.com/phith0n/Mind-Map) - ¸÷ÖÖ°²È«Ïà¹ØË¼Î¬µ¼Í¼ÕûÀíÊÕ¼¯
-- [Markdown](https://github.com/younghz/Markdown) - Markdown »ù±¾Óï·¨¡£
-- [tbsign_plugins](https://github.com/MoeNetwork/tbsign_plugins) - Ìù°ÉÔÆÇ©µ½²å¼ş¿â
+- [AZScanner](https://github.com/az0ne/AZScanner) - è‡ªåŠ¨æ¼æ´æ‰«æå™¨ï¼Œè‡ªåŠ¨å­åŸŸåçˆ†ç ´ï¼Œè‡ªåŠ¨çˆ¬å–æ³¨å…¥ï¼Œè°ƒç”¨sqlmapapiæ£€æµ‹æ³¨å…¥ï¼Œç«¯å£æ‰«æï¼Œç›®å½•çˆ†ç ´ï¼Œå­ç½‘æ®µæœåŠ¡æ¢æµ‹åŠå…¶ç«¯å£æ‰«æï¼Œå¸¸ç”¨æ¡†æ¶æ¼æ´æ£€æµ‹ã€‚ Automatic scanner, automatic sub domain blasting, automatic crawl injection, injection, call the sqlmapapi port scan detection, directory service detection and segment blasting, port scanning, vulnerability detection framework commonly used.
+- [Mind-Map](https://github.com/phith0n/Mind-Map) - å„ç§å®‰å…¨ç›¸å…³æ€ç»´å¯¼å›¾æ•´ç†æ”¶é›†
+- [Markdown](https://github.com/younghz/Markdown) - Markdown åŸºæœ¬è¯­æ³•ã€‚
+- [tbsign_plugins](https://github.com/MoeNetwork/tbsign_plugins) - è´´å§äº‘ç­¾åˆ°æ’ä»¶åº“
 - [Cpassword](https://github.com/pyphrb/Cpassword) - Cpassword is a about password dict create tools
 
 ## PHP 
 
 - [Hifone](https://github.com/Hifone/Hifone) - A free, open-source, self-hosted forum software based on the Laravel PHP Framework.
 - [Gitamin](https://github.com/GitaminHQ/Gitamin) - An open-source, self-hosted git repository management software based on the Laravel PHP Framework.
+- [wooyun_public](https://github.com/hanc00l/wooyun_public) - ä¹Œäº‘å…¬å¼€æ¼æ´ã€çŸ¥è¯†åº“çˆ¬è™«å’Œæœç´¢   crawl and search for wooyun.org public bug(vulnerability) and drops
 - [AwvScan](https://github.com/xibijj/AwvScan) - New On Live Web Vul Scan
-- [Tieba-Cloud-Sign](https://github.com/MoeNetwork/Tieba-Cloud-Sign) - °Ù¶ÈÌù°ÉÔÆÇ©µ½£¬ÔÚ·şÎñÆ÷ÉÏÅäÖÃºÃ¾ÍÎŞĞè½øĞĞÈÎºÎ²Ù×÷±ã¿ÉÒÔÊµÏÖÌù°ÉµÄÈ«×Ô¶¯Ç©µ½¡£ÅäºÏ²å¼şÊ¹ÓÃ»¹¿ÉÊµÏÖÔÆ¹àË®¡¢µãÔŞ¡¢·â½û¡¢É¾Ìû¡¢Éó²éµÈ¹¦ÄÜ  http://zhizhe8.net
+- [Tieba-Cloud-Sign](https://github.com/MoeNetwork/Tieba-Cloud-Sign) - ç™¾åº¦è´´å§äº‘ç­¾åˆ°ï¼Œåœ¨æœåŠ¡å™¨ä¸Šé…ç½®å¥½å°±æ— éœ€è¿›è¡Œä»»ä½•æ“ä½œä¾¿å¯ä»¥å®ç°è´´å§çš„å…¨è‡ªåŠ¨ç­¾åˆ°ã€‚é…åˆæ’ä»¶ä½¿ç”¨è¿˜å¯å®ç°äº‘çŒæ°´ã€ç‚¹èµã€å°ç¦ã€åˆ å¸–ã€å®¡æŸ¥ç­‰åŠŸèƒ½  http://zhizhe8.net
 - [workerman-todpole](https://github.com/walkor/workerman-todpole) - HTLM5+WebSocket+PHP(Workerman) , rumpetroll server writen using php
 - [GourdScan](https://github.com/code-scan/GourdScan) - 
 - [JustWriting](https://github.com/hjue/JustWriting) - markdown blog system
@@ -109,10 +109,10 @@
 ## Python 
 
 - [Pocsuite](https://github.com/knownsec/Pocsuite) - Pocsuite is an open-sourced remote vulnerability testing framework developed by the Knownsec Security Team.
-- [wooyun_public](https://github.com/hanc00l/wooyun_public) - ÎÚÔÆ¹«¿ªÂ©¶´¡¢ÖªÊ¶¿âÅÀ³æºÍËÑË÷   crawl and search for wooyun.org public bug(vulnerability) and drops
+- [cobra](https://github.com/wufeifei/cobra) - Source Code Security Audit (æºä»£ç å®‰å…¨å®¡è®¡)
 - [s0m3poc](https://github.com/0ps/s0m3poc) - a poc framework to test hosts via zoomeye sdk
 - [portscan](https://github.com/jax777/portscan) - push
-- [Blasting_dictionary](https://github.com/dc3l1ne/Blasting_dictionary) - ±¬ÆÆ×Öµä
+- [Blasting_dictionary](https://github.com/dc3l1ne/Blasting_dictionary) - çˆ†ç ´å­—å…¸
 - [pocscan](https://github.com/erevus-cn/pocscan) - Will to be a niubility scan-framework
 - [Crack-Tools](https://github.com/MyKings/Crack-Tools) - web form crack
 - [subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) - A simple and fast sub domain brute tool for pentesters
@@ -122,10 +122,10 @@
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [discuz-plugin-scan](https://github.com/Tycx2ry/discuz-plugin-scan) - discuz-plugin-scan
 - [dzscan](https://github.com/code-scan/dzscan) - Dzscan
-- [weakfilescan](https://github.com/ring04h/weakfilescan) - ¶¯Ì¬¶àÏß³ÌÃô¸ĞĞÅÏ¢Ğ¹Â¶¼ì²â¹¤¾ß
+- [weakfilescan](https://github.com/ring04h/weakfilescan) - åŠ¨æ€å¤šçº¿ç¨‹æ•æ„Ÿä¿¡æ¯æ³„éœ²æ£€æµ‹å·¥å…·
 - [wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
-- [gsmsniff](https://github.com/0ps/gsmsniff) - GSM¶ÌĞÅĞáÌ½·ÖÎöÌ×¼ş
-- [genpAss](https://github.com/RicterZ/genpAss) - ÖĞ¹úÌØÉ«µÄÈõ¿ÚÁîÉú³ÉÆ÷
+- [gsmsniff](https://github.com/0ps/gsmsniff) - GSMçŸ­ä¿¡å—…æ¢åˆ†æå¥—ä»¶
+- [genpAss](https://github.com/RicterZ/genpAss) - ä¸­å›½ç‰¹è‰²çš„å¼±å£ä»¤ç”Ÿæˆå™¨
 - [FuzSub](https://github.com/DavexPro/FuzSub) - A Tool For Fuzzing Sub-domain.
 
 ## Ruby 
