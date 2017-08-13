@@ -76,6 +76,7 @@
 
 ## C 
 
+- [seafile](https://github.com/haiwen/seafile) - File syncing and sharing software with file encryption and group sharing, emphasis on reliability and high performance.
 - [WireGuard](https://github.com/WireGuard/WireGuard) - Read-only mirror of https://git.zx2c4.com/WireGuard - https://www.wireguard.com/ . Pull requests and issues on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes is via the mailing list; see https://lists.zx2c4.com/mailman/listinfo/wireguard .
 - [tcpkit](https://github.com/git-hulk/tcpkit) - A tool analyzes tcp packets with Lua
 - [LocateIP](https://github.com/shuax/LocateIP) - 一个高效的IP数据库格式
@@ -199,6 +200,8 @@
 
 ## C++ 
 
+- [udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - An Encrpyted,Anti-Replay,Multiplexed UDP Tunnel which can help you Bypass UDP Block or QoS by tunneling UDP traffic through Fake-TCP or ICMP by using raw socket.It aslo acts as a Connection Stablizer.
+- [ssf](https://github.com/securesocketfunneling/ssf) - Secure Socket Funneling - Network tool and toolkit - TCP and UDP port forwarding, SOCKS, relay protocol, cross platform shell, standalone and cross platform
 - [pipesocks](https://github.com/pipesocks/pipesocks) - A pipe-like SOCKS5 tunnel system.
 - [extractTVpasswords](https://github.com/vah13/extractTVpasswords) - tool to extract passwords from TeamViewer memory using Frida
 - [twister-core](https://github.com/miguelfreitas/twister-core) - twister core / daemon
@@ -261,7 +264,6 @@
 - [XssApp](https://github.com/testsecer/XssApp) - 本项目是一个Xss跨站脚本测试平台，适用于白帽子对各大厂商进行Xss跨站脚本测试
 - [Arukas-API](https://github.com/malaohu/Arukas-API) - Arukas API 自动获取IP和端口，SSR服务器订阅，Arukas 监测启动
 - [HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
-- [Theme-By-Mame](https://github.com/Linux-Theme-Collection/Theme-By-Mame) - 
 - [OSX-Arc-White](https://github.com/LinxGem33/OSX-Arc-White) - a flat theme collection based on arc with transparent elements for GTK 3, GTK 2 and Unity,  Pantheon, XFCE, Mate, etc.
 - [numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme) - Numix is a modern flat theme with a combination of light and dark elements.
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -466,6 +468,8 @@
 
 ## JavaScript 
 
+- [gattacker](https://github.com/securing/gattacker) - A Node.js package for BLE (Bluetooth Low Energy) security assessment using Man-in-the-Middle and other attacks
+- [GOSINT](https://github.com/ciscocsirt/GOSINT) - The GOSINT framework is a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs).
 - [Cube-In-Electron](https://github.com/issac2015/Cube-In-Electron) - :octocat:A cross-platform web music player in Electron.
 - [Cube](https://github.com/stkevintan/Cube) - A cross-platform web music player in nw.js
 - [v2ray-config-gen](https://github.com/htfy96/v2ray-config-gen) - V2Ray Configuration generator
@@ -612,7 +616,6 @@
 - [python-cheat-sheet](https://github.com/juliangaal/python-cheat-sheet) - Python for Data Science - NumPy, Matplotlib, Pandas, SciKit Learn ...
 - [pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
 - [pycon-pandas-tutorial](https://github.com/brandon-rhodes/pycon-pandas-tutorial) - PyCon 2015 Pandas tutorial materials
-- [jupyter_hub](https://github.com/hanxlinsist/jupyter_hub) - 机器学习算法、可视化、数据分析的Python代码
 
 ## KiCad 
 
@@ -660,6 +663,9 @@
 
 ## Others 
 
+- [idaplugins-list](https://github.com/onethawt/idaplugins-list) - A list of IDA Plugins
+- [LoveImageMore](https://github.com/codingWang/LoveImageMore) - 各种技能树/图的收集整理
+- [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks.
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - :octocat: Git recipes in Chinese. 高质量的Git中文教程.
 - [awesome-mobile-CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF) - This is a curated list of mobile based CTFs, write-ups and vulnerable apps. Most of them are android based due to the popularity of the platform.
@@ -684,6 +690,7 @@
 - [la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
 - [avege](https://github.com/avege/avege) - Yet Another Redsocks Golang Fork
 - [ShadowAgentNotes](https://github.com/OneSecure/ShadowAgentNotes) - 
+- [Theme-By-Mame](https://github.com/Linux-Theme-Collection/Theme-By-Mame) - 
 - [sites](https://github.com/programthink/sites) - 【编程随想】收藏的各色网站
 - [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening) - A curated list of awesome Security Hardening techniques for Windows.
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
@@ -701,7 +708,6 @@
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [shadowsocksdeb](https://github.com/linjiesen/shadowsocksdeb) - shadowsocks-qt5的debian版本
 - [Debian_SSqt5](https://github.com/leequanjiang/Debian_SSqt5) - Debian系列linux安装shadowsocks-qt科学上网
-- [vuldocker](https://github.com/Loneyers/vuldocker) - 
 - [wooyunallbugs](https://github.com/m0l1ce/wooyunallbugs) - wooyun_all_bugs
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [SurgeRule](https://github.com/jinyu121/SurgeRule) - 一个高度可定制化的 Surge 规则集
@@ -868,6 +874,7 @@
 
 ## PHP 
 
+- [windows-php-reverse-shell](https://github.com/Dhayalanb/windows-php-reverse-shell) - Simple php reverse shell implemented using binary .
 - [Vulnerable-OTP-Application](https://github.com/mddanish/Vulnerable-OTP-Application) - Vulnerable OTP/2FA Application written in PHP using Google Authenticator
 - [DAws](https://github.com/dotcppfile/DAws) - Advanced Web Shell
 - [Jaguar](https://github.com/bigfa/Jaguar) - just a bigfa theme.
@@ -919,6 +926,9 @@
 
 ## PowerShell 
 
+- [windows-pentest](https://github.com/ankh2054/windows-pentest) - Windows Pentest Scripts
+- [AntiVirus](https://github.com/lcatro/AntiVirus) - 一个利用代码覆盖绕过杀毒软件的查杀思路..
+- [ms17-010-Scanner](https://github.com/vletoux/ms17-010-Scanner) - 
 - [Misc-Powershell-Scripts](https://github.com/rvrsh3ll/Misc-Powershell-Scripts) - Random Tools
 - [GmailPersist](https://github.com/merrillmatt011/GmailPersist) - Gmail Knocker
 - [Get-ReconInfo](https://github.com/Raikia/Get-ReconInfo) - A powershell script that prints a lot of IP and connection info to the screen
@@ -949,6 +959,11 @@
 
 ## Python 
 
+- [DET](https://github.com/PaulSec/DET) - (extensible) Data Exfiltration Toolkit (DET)
+- [Vulny-Code-Static-Analysis](https://github.com/swisskyrepo/Vulny-Code-Static-Analysis) - Basic script to detect vulnerabilities into a PHP source code
+- [onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
+- [GithubCloner](https://github.com/mazen160/GithubCloner) - A script that clones Github repositories of users and organizations.
+- [awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
 - [FileScan](https://github.com/Mosuan/FileScan) - FileScan: 敏感文件扫描 / 二次判断降低误报率 / 扫描内容规则化 / 多目录扫描
 - [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target. If you want to ask something please feel free to reach out to me at sharadkumar98780@gmail.com
 - [netease-cloud-music-dl](https://github.com/codezjx/netease-cloud-music-dl) - Netease cloud music song downloader, with full ID3 metadata, eg: front cover image, artist name, album name, song title and so on.
@@ -1529,7 +1544,7 @@
 - [nghttpx-tinyproxy](https://github.com/wangyi2005/nghttpx-tinyproxy) - 
 - [ssr-with-net-speeder](https://github.com/malaohu/ssr-with-net-speeder) - Shadowsocksr with net speeder
 - [shadowsocksr-kcptun](https://github.com/billyplus/shadowsocksr-kcptun) - shadowsocksr-kcptun
-- [ssr-bbr-docker](https://github.com/letssudormrf/ssr-bbr-docker) - Dockerfile for ssr+bbr without TAP
+- [ssr-bbr-docker](https://github.com/letssudormrf/ssr-bbr-docker) - Dockerfile for ssr+bbr_powered
 - [docker-cobaltstrike](https://github.com/war-horse/docker-cobaltstrike) - 
 - [doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 - [Fail2ban](https://github.com/FunctionClub/Fail2ban) - 最简单的防止SSH暴力破解的脚本
@@ -1656,7 +1671,7 @@
 
 - [uProxy-p2p](https://github.com/uProxy/uProxy-p2p) - Internet without borders
 - [jigsaw](https://github.com/rdkmaster/jigsaw) - Jigsaw七巧板 provides a set of web components based on Angular4+. The main purpose of Jigsaw is to help the application developers to construct complex & intensive interacting & use friendly web pages. Jigsaw is the next generation of web component set of RDK which supports developing of all applications of Big Data Product of ZTE.
-- [octohint](https://github.com/pd4d10/octohint) - A browser extension which adds IntelliSense hint for GitHub
+- [octohint](https://github.com/pd4d10/octohint) - A browser extension which brings VSCode's IntelliSense hint to GitHub
 
 ## Vim script 
 

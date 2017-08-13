@@ -980,7 +980,7 @@
 - [snapchat-decrypt](https://github.com/programa-stic/snapchat-decrypt) - Python script for decrypting stored images from Snapchat version 5.0.34.nn
 - [beeswarm](https://github.com/honeynet/beeswarm) - Honeypot deployment made easy
 - [cuckooml](https://github.com/honeynet/cuckooml) - CuckooML: Machine Learning for Cuckoo Sandbox
-- [droidbot](https://github.com/honeynet/droidbot) - A lightweight test input generator for Android
+- [droidbot](https://github.com/honeynet/droidbot) - A lightweight test input generator for Android. Similar to Monkey, but with more intelligence and cool features!
 - [honeysnap](https://github.com/honeynet/honeysnap) - 
 - [yapdns](https://github.com/honeynet/yapdns) - YAPDNS
 - [shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer
