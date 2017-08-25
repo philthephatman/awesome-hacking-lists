@@ -333,7 +333,7 @@
 - [AllTheThings](https://github.com/subTee/AllTheThings) - Includes 5 Known Application Whitelisting/ Application Control Bypass Techniques in One File.
 - [WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat 8.0
 - [moloch](https://github.com/aol/moloch) - Moloch is an open source, large scale, full packet capturing, indexing, and database system.
-- [whatsapp-phishing](https://github.com/Mawalu/whatsapp-phishing) - Qrljacking attack against the Whatapp web client
+- [whatsapp-phishing](https://github.com/Mawalu/whatsapp-phishing) - Qrljacking attack against the Whatsapp web client
 - [appmon](https://github.com/dpnishant/appmon) - Documentation:
 - [evercookie](https://github.com/samyk/evercookie) - evercookie is a javascript API that produces extremely persistent, respawning cookies in a browser. Its goal is to identify a client even after they've removed standard cookies, Flash cookies (LSOs), HTML5 storage, SilverLight storage, and others.
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
@@ -404,6 +404,7 @@
 
 ## Others 
 
+- [redteam-plan](https://github.com/magoo/redteam-plan) - Issues to consider when planning a red team exercise.
 - [attifyos](https://github.com/adi0x90/attifyos) - Attify OS - Distro for pentesting IoT devices
 - [SQL-Injection-Payloads](https://github.com/m4ll0k/SQL-Injection-Payloads) - SQL Injection Payloads for Burp Suite, OWASP Zed Attack Proxy,...
 - [Awesome-Security-Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists) - 
@@ -480,7 +481,7 @@
 - [RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) - A harvest of the Disallowed directories from the robots.txt files of the world's top websites.
 - [security-cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) - 🔒 A collection of cheatsheets for various infosec tools and topics.
 - [Resource-List](https://github.com/FuzzySecurity/Resource-List) - GitHub Project Resource List
-- [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - Information Security Reference That Doesn't Suck
+- [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [CTF-tool](https://github.com/SandySekharan/CTF-tool) - A curated list of Capture The Flag (CTF) frameworks, libraries, resources and softwares.
 - [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
@@ -596,6 +597,7 @@
 - [Kautilya](https://github.com/samratashok/Kautilya) - Kautilya - Tool for easy use of Human Interface Devices for offensive security and penetration testing.
 - [MimikatzHoneyToken](https://github.com/SMAPPER/MimikatzHoneyToken) - This is a logon script used to detect the theft of credentials by tools such as Mimikatz
 - [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - A PowerShell Module Dedicated to Reverse Engineering
+- [scripts](https://github.com/Shellntel/scripts) - 
 - [fathomless](https://github.com/xor-function/fathomless) - A collection of different programs for network red teaming.
 - [Kansa](https://github.com/davehull/Kansa) - A Powershell incident response framework
 - [PoshRAT](https://github.com/infosecsmith/PoshRAT) - PowerShell RAT over HTTP
@@ -621,12 +623,15 @@
 
 ## Python 
 
+- [raven](https://github.com/0x09AL/raven) - raven is a Linkedin information gathering tool that  can be used by pentesters to gather information about an organization employees using Linkedin.
+- [reconned](https://github.com/OrOneEqualsOne/reconned) - Bug Hunting Recon Script
+- [canisrufus](https://github.com/maldevel/canisrufus) - A stealthy Python based Windows backdoor that uses Github as a command and control server
 - [CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 - [ReconScan](https://github.com/RoliSoft/ReconScan) - Network reconnaissance and vulnerability assessment tools.
 - [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [PowerLessShell](https://github.com/Mr-Un1k0d3r/PowerLessShell) - Run PowerShell command without invoking powershell.exe
 - [nWatch](https://github.com/suraj-root/nWatch) - 
-- [the-backdoor-factory](https://github.com/secretsquirrel/the-backdoor-factory) - Patch PE, ELF, Mach-O binaries with shellcode (No longer Supported)
+- [the-backdoor-factory](https://github.com/secretsquirrel/the-backdoor-factory) - Patch PE, ELF, Mach-O binaries with shellcode (NOT Supported)
 - [DeathStar](https://github.com/byt3bl33d3r/DeathStar) - Automate getting Domain Admin using Empire (https://github.com/EmpireProject/Empire)
 - [pymultitor](https://github.com/realgam3/pymultitor) - PyMultitor - Python Multi Threaded Tor Proxy
 - [BurpSmartBuster](https://github.com/pathetiq/BurpSmartBuster) - A Burp Suite content discovery plugin that add the smart into the Buster!
@@ -650,7 +655,7 @@
 - [LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 - [Susanoo](https://github.com/ant4g0nist/Susanoo) - A REST API security testing framework.
 - [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets
-- [CORStest](https://github.com/RUB-NDS/CORStest) - A simple CORS misconfigurations checker
+- [CORStest](https://github.com/RUB-NDS/CORStest) - A simple CORS misconfiguration scanner
 - [bfac](https://github.com/mazen160/bfac) - BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.
 - [Debinject](https://github.com/UndeadSec/Debinject) - Inject malicious code into *.debs
 - [autoDANE](https://github.com/sensepost/autoDANE) - Auto Domain Admin and Network Exploitation.
@@ -780,10 +785,9 @@
 - [lightbulb-framework](https://github.com/lightbulb-framework/lightbulb-framework) - Tools for auditing WAFS
 - [DPAT](https://github.com/clr2of8/DPAT) - Domain Password Audit Tool for Pentesters
 - [malboxes](https://github.com/GoSecure/malboxes) - Builds malware analysis Windows VMs so that you don't have to.
-- [scripts](https://github.com/Shellntel/scripts) - 
 - [duckhunt](https://github.com/pmsosa/duckhunt) - :dart: Prevent RubberDucky (or other keystroke injection) attacks
 - [deep-pwning](https://github.com/cchio/deep-pwning) - Metasploit for machine learning.
-- [NoSQLMap](https://github.com/tcstool/NoSQLMap) - Automated Mongo database and NoSQL web application exploitation tool
+- [NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
 - [tftptheft](https://github.com/EnableSecurity/tftptheft) - TFTP Theft is a tool which allows one to quickly scan/bruteforce a tftp server for files and download them instantly
 - [nosqlpot](https://github.com/torque59/nosqlpot) - The NoSQL Honeypot Framework
 - [Nosql-Exploitation-Framework](https://github.com/torque59/Nosql-Exploitation-Framework) - A Python Framework For NoSQL Scanning and Exploitation
@@ -847,6 +851,7 @@
 - [exploits](https://github.com/XiphosResearch/exploits) - Miscellaneous exploit code
 - [usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
 - [osxcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X
+- [pentest](https://github.com/jivoi/pentest) - :no_entry: offsec batteries included
 - [chipsec](https://github.com/chipsec/chipsec) - Platform Security Assessment Framework
 - [Responder](https://github.com/SpiderLabs/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
 - [WebAppSec](https://github.com/ajinabraham/WebAppSec) - Web Application Security
@@ -1100,6 +1105,7 @@
 
 ## Ruby 
 
+- [SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
 - [watobo](https://github.com/siberas/watobo) - 
 - [fuzzapi](https://github.com/Fuzzapi/fuzzapi) - Fuzzapi is a tool used for REST API pentesting and uses API_Fuzzer gem
 - [timing_attack](https://github.com/ffleming/timing_attack) - Perform timing attacks against web applications
@@ -1152,6 +1158,8 @@
 
 ## Shell 
 
+- [cs-suite](https://github.com/SecurityFTW/cs-suite) - Cloud Security Suite - One stop tool for auditing the security posture of AWS infrastructure.
+- [Installer](https://github.com/OnionDecoy/Installer) - A platform to run private unannounced Honeypots as Tor Hidden Services (aka Onion Decoys) inside the Tor Network.
 - [mpc](https://github.com/g0tmi1k/mpc) - MSFvenom Payload Creator (MSFPC)
 - [tornado](https://github.com/rebellionil/tornado) - All in one MITM tool .
 - [testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
@@ -1186,7 +1194,6 @@
 - [pentestpackage](https://github.com/leonteale/pentestpackage) - a package of Pentest scripts I have made or  commonly use
 - [checksec.sh](https://github.com/slimm609/checksec.sh) - Checksec.sh
 - [Firefox-Security-Toolkit](https://github.com/mazen160/Firefox-Security-Toolkit) - A tool that transforms Firefox browsers into a penetration testing suite
-- [pentest](https://github.com/jivoi/pentest) - :no_entry: offsec batteries included
 - [Dracnmap](https://github.com/Screetsec/Dracnmap) - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and difficult to follow for new users. Hence Dracnmap is designed to perform fast scaning with the utilizing script engine of nmap and nmap can perform various automatic scanning techniques with the advanced commands.
 - [rock3tman](https://github.com/binkybear/rock3tman) - Quick script to set up VPN server and reverse VPN for Nethunter
 - [Findsploit](https://github.com/1N3/Findsploit) - Find exploits in local and online databases instantly
@@ -1231,6 +1238,7 @@
 
 ## Visual Basic 
 
+- [RobustPentestMacro](https://github.com/mgeeky/RobustPentestMacro) - This is a rich-featured Visual Basic macro code for use during Penetration Testing assignments, implementing various advanced post-exploitation techniques.
 - [winmanipulate](https://github.com/appsecco/winmanipulate) - A  simple tool to manipulate window objects in Windows
 - [adbrute](https://github.com/riyazwalikar/adbrute) - 
 
