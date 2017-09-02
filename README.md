@@ -1,7 +1,7 @@
 # awesome-hacking-tools
-# [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+# [Awesome Hacking--tools](https://github.com/udpsec/awesome-hacking-lists.git)
 
 **A collection of awesome lists for hackers, pentesters & security researchers.**
 
-Your [contributions](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/contributing.md) are always welcome !
+Your contributions are always welcome !
 
