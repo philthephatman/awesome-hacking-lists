@@ -128,7 +128,7 @@
 - [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.
 - [revsh](https://github.com/emptymonkey/revsh) - A reverse shell with terminal support, data tunneling, and advanced pivoting capabilities.
 - [exploits](https://github.com/tresacton/exploits) - Exploits that are mostly ready to use. They either require no modification or have been modified and verified as functional.
-- [elfa](https://github.com/rootlabs/elfa) - gdb (GNU debugger) anti-reversing patcher for elf
+- [elfa](https://github.com/rootlabs/elfa) - ☠️ gdb (GNU debugger) anti-reversing patcher for elf
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of  public penetration test reports released by several consulting firms and academic security groups
 - [PeiBackdoor](https://github.com/Cr4sh/PeiBackdoor) - PEI stage backdoor for UEFI compatible firmware
 - [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
@@ -677,6 +677,8 @@
 
 ## Python 
 
+- [RFCrack](https://github.com/cclabsInc/RFCrack) - A Software Defined Radio Attack Tool
+- [bucket-stream](https://github.com/eth0izzle/bucket-stream) - Find interesting Amazon S3 Buckets by watching certificate transparency logs.
 - [Tiredful-API](https://github.com/payatu/Tiredful-API) - An intentionally designed broken web application based on REST API.
 - [caldera](https://github.com/mitre/caldera) - The CALDERA automated adversary emulation system
 - [cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor) - Cloud Inquisitor - tool to enforce ownership and data security within AWS
@@ -721,7 +723,7 @@
 - [ReconScan](https://github.com/RoliSoft/ReconScan) - Network reconnaissance and vulnerability assessment tools.
 - [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [PowerLessShell](https://github.com/Mr-Un1k0d3r/PowerLessShell) - Run PowerShell command without invoking powershell.exe
-- [nWatch](https://github.com/rootlabs/nWatch) - 
+- [nWatch](https://github.com/rootlabs/nWatch) - 🔍 Tool for - Host Discovery, Port Scanning and Operating System Fingerprinting
 - [the-backdoor-factory](https://github.com/secretsquirrel/the-backdoor-factory) - Patch PE, ELF, Mach-O binaries with shellcode (NOT Supported)
 - [DeathStar](https://github.com/byt3bl33d3r/DeathStar) - Automate getting Domain Admin using Empire (https://github.com/EmpireProject/Empire)
 - [pymultitor](https://github.com/realgam3/pymultitor) - PyMultitor - Python Multi Threaded Tor Proxy
@@ -833,7 +835,7 @@
 - [hashID](https://github.com/psypanda/hashID) - Software to identify the different types of hashes -
 - [phpsploit](https://github.com/nil0x42/phpsploit) - Stealth post-exploitation framework
 - [NodeJsScan](https://github.com/ajinabraham/NodeJsScan) - NodeJsScan is a static security code scanner for Node.js applications.
-- [EaST](https://github.com/C0reL0ader/EaST) - Exploits and Security Tools Framework 2.0.0
+- [EaST](https://github.com/C0reL0ader/EaST) - Exploits and Security Tools Framework 2.0.1
 - [sipvicious](https://github.com/EnableSecurity/sipvicious) - SIPVicious suite is a set of tools that can be used to audit SIP based VoIP systems.
 - [shootback](https://github.com/aploium/shootback) - a reverse TCP tunnel let you access target behind NAT or firewall
 - [ivre](https://github.com/cea-sec/ivre) - Network recon framework.
@@ -1129,7 +1131,6 @@
 - [sshtunnel](https://github.com/pahaz/sshtunnel) - SSH tunnels to remote server.
 - [needle](https://github.com/mwrlabs/needle) - The iOS Security Testing Framework
 - [urlwatch](https://github.com/thp/urlwatch) - A tool for monitoring webpages for updates
-- [spade](https://github.com/rootlabs/spade) - APK backdoor embedder (Not Efficient, probably the worst piece of code you have ever seen)
 - [fetch-some-proxies](https://github.com/stamparm/fetch-some-proxies) - Simple Python script for fetching "some" (usable) proxies
 - [API-Tracker](https://github.com/cysinfo/API-Tracker) - API Tracker by Cysinfo Team
 - [osint_tools_security_auditing](https://github.com/jmortega/osint_tools_security_auditing) - osint_tools_security_auditing
@@ -1253,6 +1254,7 @@
 
 ## Shell 
 
+- [003Recon](https://github.com/003random/003Recon) - Some tools to automate recon - 003random
 - [recon.sh](https://github.com/jobertabma/recon.sh) - A toolset to track and organize output of reconnaissance tools
 - [yotter](https://github.com/b3rito/yotter) - yotter - bash script that performs recon and then uses dirb to discover directories that might lead to information leakage
 - [lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
