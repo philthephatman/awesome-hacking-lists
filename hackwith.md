@@ -62,6 +62,8 @@
 
 ## C 
 
+- [SpecuCheck](https://github.com/ionescu007/SpecuCheck) - SpecuCheck is a Windows utility for checking the state of the software mitigations against CVE-2017-5754 (Meltdown) and hardware mitigations against CVE-2017-5715 (Spectre)
+- [android-afl](https://github.com/ele7enxxh/android-afl) - Fuzzing Android program with american fuzzy lop (AFL)
 - [tsh](https://github.com/orangetw/tsh) - Tiny SHell is an open-source UNIX backdoor.
 - [kernelpop](https://github.com/spencerdodd/kernelpop) - kernel privilege escalation enumeration and exploitation framework
 - [krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) - 
@@ -81,7 +83,7 @@
 - [cve-2015-6639](https://github.com/laginimaineb/cve-2015-6639) - QSEE Privilege Escalation Exploit using PRDiag* commands (CVE-2015-6639)
 - [AndroidKernelExploitationPlayground](https://github.com/Fuzion24/AndroidKernelExploitationPlayground) - 
 - [JohnTheRipper](https://github.com/magnumripper/JohnTheRipper) - This is the official repo for the Jumbo version of John the Ripper. The "bleeding-jumbo" branch (default) is based on 1.8.0-Jumbo-1 (but we are literally several thousands of commits ahead of it).
-- [zmap](https://github.com/zmap/zmap) - ZMap Internet Scanner
+- [zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
 - [avet](https://github.com/govolution/avet) - AntiVirus Evasion Tool
 - [0d1n](https://github.com/CoolerVoid/0d1n) - Web security tool to make fuzzing at HTTP/S, Beta
 - [raptor_waf](https://github.com/CoolerVoid/raptor_waf) - Raptor - WAF - Web application firewall using DFA [ Current version ] - Beta
@@ -96,9 +98,8 @@
 - [parasite](https://github.com/jtripper/parasite) - Linux Runtime Process Injection Tool
 - [dumpdecrypted](https://github.com/stefanesser/dumpdecrypted) - Dumps decrypted mach-o files from encrypted iPhone applications from memory to disk. This tool is necessary for security researchers to be able to look under the hood of encryption.
 - [System-Backdoor](https://github.com/bressan3/System-Backdoor) - A backdoor socket that takes commands from a client and executes them in the server machine
-- [ExploitDatabase](https://github.com/tosone/ExploitDatabase) - Show Exploit-Database In Static HTML
 - [killerbee](https://github.com/riverloopsec/killerbee) - IEEE 802.15.4/ZigBee Security Research Toolkit
-- [TheFatRat](https://github.com/Screetsec/TheFatRat) - Thefatrat a massive exploiting tool revealed &gt;&gt; An easy tool to generate backdoor and easy tool to post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .
+- [TheFatRat](https://github.com/Screetsec/TheFatRat) - Thefatrat a massive exploiting tool &gt;&gt; An easy tool to generate backdoor and easy tool to post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .
 - [blacknurse](https://github.com/jedisct1/blacknurse) - BlackNurse attack PoC
 - [movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
 - [vlany](https://github.com/mempodippy/vlany) - Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)
@@ -155,7 +156,7 @@
 - [NativePayload_DNS](https://github.com/DamonMohammadbagher/NativePayload_DNS) - C# code for Backdoor Payloads transfer by DNS Traffic and Bypassing Anti-viruses
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - PowerForensics provides an all in one platform for live disk forensic analysis
 - [ReverseShell](https://github.com/chango77747/ReverseShell) - Simple C# reverse shell with shellcode and process injection
-- [sandbox-attacksurface-analysis-tools](https://github.com/google/sandbox-attacksurface-analysis-tools) - 
+- [sandbox-attacksurface-analysis-tools](https://github.com/google/sandbox-attacksurface-analysis-tools) - Set of tools to analyze and attack Windows sandboxes.
 - [PSAttackBuildTool](https://github.com/jaredhaight/PSAttackBuildTool) - A tool for building PS&gt;Attack, an offensive PowerShell console that makes it easy for pentesters to use PowerShell.
 - [roslyn-security-guard](https://github.com/dotnet-security-guard/roslyn-security-guard) - Roslyn analyzers that aim to help security audit on .NET applications.
 - [ransomware-simulator](https://github.com/nccgroup/ransomware-simulator) - NCC Group Ransomware Simulator
@@ -169,6 +170,8 @@
 
 ## C++ 
 
+- [cutter](https://github.com/radareorg/cutter) - A Qt and C++ GUI for radare2 reverse engineering framework
+- [poc-exp](https://github.com/ele7enxxh/poc-exp) - poc or exp of android vulnerability
 - [DNS-Persist](https://github.com/0x09AL/DNS-Persist) - DNS-Persist is a post-exploitation agent which uses DNS for command and control.
 - [noddos](https://github.com/noddos/noddos) - Noddos client
 - [gr-lora](https://github.com/BastilleResearch/gr-lora) - GNU Radio OOT module implementing the LoRa PHY, based on https://github.com/matt-knight/research/tree/master/2016_05_20_jailbreak
@@ -222,12 +225,18 @@
 
 ## Go 
 
+- [second-order](https://github.com/mhmdiaa/second-order) - Second-order subdomain takeover scanner
+- [gOSINT](https://github.com/Nhoya/gOSINT) - OSINT framework in Go
+- [goWAPT](https://github.com/dzonerzy/goWAPT) - Go Web Application Penetration Test
+- [amass](https://github.com/caffix/amass) - Subdomain Enumeration in Go
+- [merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.
 - [govwa](https://github.com/0c34/govwa) - 
 - [sg1](https://github.com/evilsocket/sg1) - A wanna be swiss army knife for data encryption, exfiltration and covert communication.
 - [moistpetal](https://github.com/propervillain/moistpetal) - Open source offensive security platform for red team, by red team.
 - [gocrack](https://github.com/fireeye/gocrack) - 
 - [emptynest](https://github.com/empty-nest/emptynest) - 
 - [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
+- [net-Shield](https://github.com/fnzv/net-Shield) - An Easy and Simple Anti-DDoS solution for VPS,Dedicated Servers and IoT devices - Beta
 - [clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
 - [hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools is a utility that disables a number of risky Windows features.
 - [zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool
@@ -266,16 +275,21 @@
 
 ## HTML 
 
+- [bugbountyguide](https://github.com/EdOverflow/bugbountyguide) - Bug Bounty Guide is a launchpad for bug bounty programs and bug bounty hunters.
+- [DetectionLab](https://github.com/clong/DetectionLab) - Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
+- [security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTPLeaks - All possible ways, a website can leak HTTP requests
 - [drek](https://github.com/chrisallenlane/drek) - A static-code-analysis tool for performing security-focused code reviews. It enables an auditor to swiftly map the attack-surface of a large application, with an emphasis on identifying development anti-patterns and footguns.
-- [domainhunter](https://github.com/minisllc/domainhunter) - Checks expired domains, bluecoat categorization, and Archive.org history to determine good candidates for phishing and C2 domain names
+- [domainhunter](https://github.com/threatexpress/domainhunter) - Checks expired domains, bluecoat categorization, and Archive.org history to determine good candidates for phishing and C2 domain names
 - [dvxte](https://github.com/davevs/dvxte) - Damn Vulnerable Xebia Training Environment
 - [mana](https://github.com/sensepost/mana) - Our mana toolkit for wifi rogue AP attacks and MitM  - see hostapd-mana too
+- [exploitpack](https://github.com/juansacco/exploitpack) - Exploit Pack -The next generation exploit framework
 - [domxssscanner](https://github.com/yaph/domxssscanner) - DOMXSS Scanner is an online tool to scan source code for DOM based XSS vulnerabilities
 - [post-exploitation-wiki](https://github.com/mubix/post-exploitation-wiki) - Post Exploitation Wiki
 - [warberry](https://github.com/secgroundzero/warberry) - WarBerryPi - Tactical Exploitation
 - [Pastejacking](https://github.com/dxa4481/Pastejacking) - A demo of overriding what's in a person's clipboard
 - [TwitGeoSpa](https://github.com/takkasila/TwitGeoSpa) - Geospatial analysis and simulation using Twitter data
+- [ExploitDatabase](https://github.com/tosone/ExploitDatabase) - Show Exploit-Database With Static HTML
 - [neet](https://github.com/JonnyHightower/neet) - Neet - Network Enumeration and Exploitation Tool
 - [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering.
 - [lorg](https://github.com/jensvoid/lorg) - Apache Logfile Security Analyzer
@@ -302,6 +316,8 @@
 
 ## Java 
 
+- [pivaa](https://github.com/HTBridge/pivaa) - 
+- [backslash-powered-scanner](https://github.com/PortSwigger/backslash-powered-scanner) - Finds unknown classes of injection vulnerabilities
 - [Inspeckage](https://github.com/ac-pm/Inspeckage) - Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)
 - [DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [reflector](https://github.com/elkokc/reflector) - Burp plugin able to find reflected XSS on page in real-time while browsing on site
@@ -323,7 +339,6 @@
 - [SecurityShepherd](https://github.com/OWASP/SecurityShepherd) - Web and mobile application security training platform
 - [wifi-bruteforcer-fsecurify](https://github.com/faizann24/wifi-bruteforcer-fsecurify) - Android application to brute force WiFi passwords without requiring a rooted device.
 - [dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
-- [exploitpack](https://github.com/juansacco/exploitpack) - Exploit Pack -The next generation exploit framework
 - [wycheproof](https://github.com/google/wycheproof) - Project Wycheproof tests crypto libraries against known attacks.
 - [dsploit](https://github.com/bluemutedwisdom/dsploit) - An Android tool to perform network analysis, port scanning, mitm attacks, etc.
 - [android](https://github.com/cSploit/android) - cSploit - The most complete and advanced IT security professional toolkit on Android.
@@ -344,6 +359,8 @@
 
 ## JavaScript 
 
+- [DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator) - Data exfiltration over DNS request covert channel
+- [archerysec](https://github.com/anandtiwarics/archerysec) - Open Source Vulnerability Assessment and Management helps developers and pentesters to perform scans and manage vulnerabilities.
 - [pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
 - [Seccubus](https://github.com/schubergphilis/Seccubus) - Easy automated vulnerability scanning, reporting and analysis
 - [Thalos](https://github.com/ecleipteon/Thalos) - Secure approach to secure file storage in untrusted environments.
@@ -361,9 +378,8 @@
 - [amiunique](https://github.com/DIVERSIFY-project/amiunique) - Learn how identifiable you are on the Internet
 - [WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat 8.0
 - [moloch](https://github.com/aol/moloch) - Moloch is an open source, large scale, full packet capturing, indexing, and database system.
-- [whatsapp-phishing](https://github.com/Mawalu/whatsapp-phishing) - Qrljacking attack against the Whatsapp web client
 - [appmon](https://github.com/dpnishant/appmon) - Documentation:
-- [evercookie](https://github.com/samyk/evercookie) - Produces extremely persistent, respawning "super" cookies in a browser, abusing over a dozen techniques. Its goal is to identify users after they've removed standard cookies and other privacy data such as Flash cookies (LSOs), HTML5 storage, SilverLight storage, and others.
+- [evercookie](https://github.com/samyk/evercookie) - Produces persistent, respawning "super" cookies in a browser, abusing over a dozen techniques. Its goal is to identify users after they've removed standard cookies and other privacy data such as Flash cookies (LSOs), HTML5 storage, SilverLight storage, and others.
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
 - [JudasDNS](https://github.com/mandatoryprogrammer/JudasDNS) - Nameserver DNS poisoning attacks made easy
 - [browser-autofill-phishing](https://github.com/anttiviljami/browser-autofill-phishing) - A simple demo of phishing by abusing the browser autofill feature
@@ -434,6 +450,9 @@
 
 ## Others 
 
+- [filterbypass](https://github.com/masatokinugawa/filterbypass) - 
+- [awesome-lockpicking](https://github.com/meitar/awesome-lockpicking) - :unlock::sunglasses: A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
+- [awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
 - [JS-SCP](https://github.com/Checkmarx/JS-SCP) - JavaScript Secure Coding Practices guide
 - [Ecommerce-Website-Security-CheckList](https://github.com/IamHDT/Ecommerce-Website-Security-CheckList) - List of considerations for commerce site auditing and security teams. This is summary of action points and areas that need to be built into the Techinical Specific Document, or will be checked in the Security testing phases.
 - [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) - A big list of Android Hackerone disclosed reports and other resources.
@@ -441,7 +460,6 @@
 - [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
 - [Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
-- [security-txt](https://github.com/securitytxt/security-txt) - A "standard" that allows websites to define security policies.
 - [Awesome-MitM](https://github.com/Chan9390/Awesome-MitM) - Curated List of MitM frameworks on GitHub
 - [Useful_Websites_For_Pentester](https://github.com/HSIS007/Useful_Websites_For_Pentester) - This repository is to make life of the pentester easy as it is a collection of the websites that can be used by pentesters for day to day studies and to remain updated.
 - [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
@@ -458,7 +476,7 @@
 - [Yalda](https://github.com/gitaziabari/Yalda) - 
 - [Tintorera](https://github.com/vulnex/Tintorera) - Source Code Intelligence
 - [AndroidTamer](https://github.com/AndroidTamer/AndroidTamer) - We Use Github Extensively and openly. So it becomes dificult to track what's what and what's where. This repository is a master repo to Help with that.
-- [Awesome-Vulnerability-Research](https://github.com/re-pronin/Awesome-Vulnerability-Research) - 🦄 A curated list of the awesome resources about the Vulnerability Research
+- [Awesome-Vulnerability-Research](https://github.com/sergey-pronin/Awesome-Vulnerability-Research) - 🦄 A curated list of the awesome resources about the Vulnerability Research
 - [android_app_security_checklist](https://github.com/b-mueller/android_app_security_checklist) - Android App Security Checklist
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [Docker-Secure-Deployment-Guidelines](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines) - Deployment checklist for securely deploying Docker
@@ -504,7 +522,6 @@
 - [best_of_stackoverflow](https://github.com/NimitS1/best_of_stackoverflow) - My curated list of best Stackoverflow questions that I have come across. Contributions are welcome!!
 - [awesome-forensics](https://github.com/cugu/awesome-forensics) - A curated list of awesome forensic analysis tools and resources
 - [penetration-testing-tools](https://github.com/Aptive/penetration-testing-tools) - Penetration Testing tools - one repo to clone them all... containing latest pen testing tools
-- [XSS.png](https://github.com/jackmasa/XSS.png) - A XSS mind map ;)
 - [CheatSheets](https://github.com/HarmJ0y/CheatSheets) - Cheat sheets for various projects.
 - [how-to-security](https://github.com/kristovatlas/how-to-security) - Advice on how to do computer things securely for non-experts
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -524,7 +541,6 @@
 - [RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) - A harvest of the Disallowed directories from the robots.txt files of the world's top websites.
 - [security-cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) - 🔒 A collection of cheatsheets for various infosec tools and topics.
 - [Resource-List](https://github.com/FuzzySecurity/Resource-List) - GitHub Project Resource List
-- [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [CTF-tool](https://github.com/SandySekharan/CTF-tool) - A curated list of Capture The Flag (CTF) frameworks, libraries, resources and softwares.
 - [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
@@ -619,6 +635,12 @@
 
 ## PowerShell 
 
+- [JAWS](https://github.com/411Hall/JAWS) - JAWS - Just Another Windows (Enum) Script
+- [mimikittenz](https://github.com/putterpanda/mimikittenz) - A post-exploitation powershell tool for extracting juicy info from memory.
+- [NetRipper](https://github.com/NytroRST/NetRipper) - NetRipper - Smart traffic sniffing for penetration testers
+- [ADRecon](https://github.com/sense-of-security/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
+- [ANGRYPUPPY](https://github.com/vysec/ANGRYPUPPY) - Bloodhound Attack Path Automation in CobaltStrike
+- [WMIOps](https://github.com/ChrisTruncer/WMIOps) - This repo is for WMIOps, a powershell script which uses WMI for various purposes across a network.
 - [ThreatHunting](https://github.com/DLACERT/ThreatHunting) - Powershell collection designed to assist in Threat Hunting Windows systems.
 - [Invoke-SocksProxy](https://github.com/p3nt4/Invoke-SocksProxy) - Socks proxy server using powershell.
 - [ACE](https://github.com/Invoke-IR/ACE) - Automated, Collection, and Enrichment Platform
@@ -677,6 +699,19 @@
 
 ## Python 
 
+- [BlackWidow](https://github.com/1N3/BlackWidow) - A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.
+- [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files
+- [Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r) - Know the dangers of credential reuse attacks.
+- [sqlipy](https://github.com/codewatchorg/sqlipy) - SQLiPy is a Python plugin for Burp Suite that integrates SQLMap using the SQLMap API.
+- [parameth](https://github.com/maK-/parameth) - This tool can be used to brute discover GET and POST parameters
+- [SPartan](https://github.com/sensepost/SPartan) - Frontpage and Sharepoint fingerprinting and attack tool.
+- [GoogD0rker](https://github.com/ZephrFish/GoogD0rker) - GoogD0rker is a tool for firing off google dorks against a target domain, it is purely for OSINT against a specific target domain. READ the readme before messaging or tweeting me.
+- [isf](https://github.com/dark-lbp/isf) - ISF(Industrial Control System Exploitation Framework)，a exploitation framework based on Python
+- [SPF](https://github.com/tatanus/SPF) - SpeedPhishing Framework
+- [bypass_waf](https://github.com/3xp10it/bypass_waf) - waf自动爆破(绕过)工具
+- [drozer](https://github.com/mwrlabs/drozer) - The Leading Security Assessment Framework for Android.
+- [linux-exploitation-course](https://github.com/nnamon/linux-exploitation-course) - A Course on Intermediate Level Linux Exploitation
+- [AVSignSeek](https://github.com/hegusung/AVSignSeek) - Tool written in python3 to determine where the AV signature is located in a binary/payload
 - [RFCrack](https://github.com/cclabsInc/RFCrack) - A Software Defined Radio Attack Tool
 - [bucket-stream](https://github.com/eth0izzle/bucket-stream) - Find interesting Amazon S3 Buckets by watching certificate transparency logs.
 - [Tiredful-API](https://github.com/payatu/Tiredful-API) - An intentionally designed broken web application based on REST API.
@@ -690,8 +725,6 @@
 - [Reverse_DNS_Shell](https://github.com/ahhh/Reverse_DNS_Shell) - A python reverse shell that uses DNS as the c2 channel
 - [iMessagesBackdoor](https://github.com/checkyfuntime/iMessagesBackdoor) - A script to help set up an event handler in order to install a persistent backdoor that can be activated by sending a message.
 - [uncaptcha](https://github.com/ecthros/uncaptcha) - Defeating Google's audio reCaptcha with 85% accuracy.
-- [PiSavar](https://github.com/WiPi-Hunter/PiSavar) - 📡 🍍Detects activities of PineAP module and starts deauthentication attack (for fake access points - WiFi Pineapple Activities Detection)
-- [PiFinger](https://github.com/WiPi-Hunter/PiFinger) - 📡🔍Searches for wifi-pineapple traces and calculate wireless network security score 🍍
 - [punydomaincheck](https://github.com/anilyuk/punydomaincheck) - Puny Domain Name Check
 - [CVE-2017-12617](https://github.com/cyberheartmi9/CVE-2017-12617) - Apache Tomcat &lt; 9.0.1 (Beta) / &lt; 8.5.23 / &lt; 8.0.47 / &lt; 7.0.8 - JSP Upload Bypass / Remote Code Execution
 - [uac-a-mola](https://github.com/ElevenPaths/uac-a-mola) - 
@@ -781,7 +814,6 @@
 - [Mimir](https://github.com/NullArray/Mimir) - OSINT Threat Intel Interface
 - [massExpConsole](https://github.com/jm33-m0/massExpConsole) - for concurrent exploiting
 - [gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
-- [net-Shield](https://github.com/fnzv/net-Shield) - An Easy and Simple Anti-DDoS solution for VPS,Dedicated Servers and IoT devices - Beta
 - [CatMyFish](https://github.com/Mr-Un1k0d3r/CatMyFish) - Search for categorized domain
 - [Forensic-Tools](https://github.com/MonroCoury/Forensic-Tools) - A collection of tools for forensic analysis
 - [WindowsExploits](https://github.com/abatchy17/WindowsExploits) - Windows exploits, mostly precompiled.
@@ -789,7 +821,7 @@
 - [pykek](https://github.com/bidord/pykek) - Kerberos Exploitation Kit
 - [VolDiff](https://github.com/aim4r/VolDiff) - VolDiff: Malware Memory Footprint Analysis based on Volatility
 - [IDS-Evasion](https://github.com/ahm3dhany/IDS-Evasion) - Evading Snort Intrusion Detection System.
-- [spoodle](https://github.com/vjex/spoodle) - A mass subdomain + poodle vulnerability scanner
+- [spoodle](https://github.com/avicoder/spoodle) - A mass subdomain (Subbrute) + poodle vulnerability scanner
 - [jackhammer](https://github.com/olacabs/jackhammer) - Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.
 - [EmailHarvester](https://github.com/maldevel/EmailHarvester) - Email addresses harvester
 - [kcshell](https://github.com/fdiskyou/kcshell) - Simple Python3 based interactive assembly/disassembly shell for various architectures powered by Keystone/Capstone.
@@ -854,8 +886,8 @@
 - [clusterd](https://github.com/hatRiot/clusterd) - application server attack toolkit
 - [WAS](https://github.com/FabioBaroni/WAS) - Automatic USB drive malware scanning tool for the security-minded person
 - [brut3k1t](https://github.com/ex0dus-0x/brut3k1t) - :artificial_satellite: brut3k1t is a framework for bruteforcing variety of protocols and services
-- [nullinux](https://github.com/m8r0wn/nullinux) - SMB null session identification and enumeration tool
-- [CAPE](https://github.com/ctxis/CAPE) - Config And Payload Extraction
+- [nullinux](https://github.com/m8r0wn/nullinux) - Internal penetration testing tool for Linux that can be used to enumerate OS information, domain information, shares, directories, and users through SMB.
+- [CAPE](https://github.com/ctxis/CAPE) - Malware Configuration And Payload Extraction
 - [bluewall](https://github.com/austin-taylor/bluewall) - Bluewall is a firewall framework designed for offensive and defensive cyber professionals.
 - [msf-remote-console](https://github.com/Luis-Hebendanz/msf-remote-console) - A remote msfconsole written in Python 2.7 to connect to the msfrcpd server of metasploit. This tool gives you the ability to load modules permanently as daemon on your server like autopwn2.
 - [waidps](https://github.com/SYWorks/waidps) - Wireless Auditing, Intrusion Detection & Prevention System
@@ -873,7 +905,7 @@
 - [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 - [flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - FakeNet-NG - Next Generation Dynamic Network Analysis Tool
 - [xrdp](https://github.com/sensepost/xrdp) - A  rudimentary remote desktop tool for the X11 protocol exploiting unauthenticated x11 sessions
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [lightbulb-framework](https://github.com/lightbulb-framework/lightbulb-framework) - Tools for auditing WAFS
 - [DPAT](https://github.com/clr2of8/DPAT) - Domain Password Audit Tool for Pentesters
 - [malboxes](https://github.com/GoSecure/malboxes) - Builds malware analysis Windows VMs so that you don't have to.
@@ -1007,7 +1039,7 @@
 - [python-paddingoracle](https://github.com/mwielgoszewski/python-paddingoracle) - A portable, padding oracle exploit API
 - [weevely3](https://github.com/epinna/weevely3) - Weaponized web shell
 - [libformatstr](https://github.com/hellman/libformatstr) - Simplify format string exploitation.
-- [gef](https://github.com/hugsy/gef) - Multi-Architecture GDB Enhanced Features for Exploit Devs & Reversers
+- [gef](https://github.com/hugsy/gef) - Multi-Architecture GDB Enhanced Features for exploit devs & reversers
 - [ADBFuzz](https://github.com/mozilla/ADBFuzz) - Fuzzing Harness for Firefox Mobile on Android
 - [IDAnt-wanna](https://github.com/strazzere/IDAnt-wanna) - ELF header abuse
 - [time_trial](https://github.com/dmayer/time_trial) - Time Trial -  A tool for performing feasibility analyses of timing attacks
@@ -1138,6 +1170,7 @@
 - [Pentesting-with-Python](https://github.com/lawsecnet/Pentesting-with-Python) - Various penetration testing tools written in Python. Based mostly on ideas and implementations presented in 'Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers' by TJ O'Connor and 'Black Hat Python' by Justin Seitz.
 - [Responder](https://github.com/lgandx/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
 - [malware-scripts](https://github.com/seifreed/malware-scripts) - Useful scripts related with malware
+- [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck
 - [Winpayloads](https://github.com/nccgroup/Winpayloads) - Undetectable Windows Payload Generation
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [des_kpt](https://github.com/h1kari/des_kpt) - Reference implementation and job creation tool for cracking DES using the crack.sh service
@@ -1166,7 +1199,7 @@
 - [multiscanner](https://github.com/mitre/multiscanner) - Modular file scanning/analysis framework
 - [waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [fierce](https://github.com/mschwager/fierce) - A DNS reconnaissance tool for locating non-contiguous IP space.
-- [LANs.py](https://github.com/DanMcInerney/LANs.py) - Inject code, jam wifi, and spy on wifi users
+- [LANs.py](https://github.com/DanMcInerney/LANs.py) - Inject code and spy on wifi users
 - [oprah-proxy](https://github.com/spaze/oprah-proxy) - Generate credentials for Opera's "browser VPN"
 - [ktcal2](https://github.com/cr0hn/ktcal2) - SSH brute forcer tool and library, using AsyncIO of Python 3.4
 - [pymetasploit](https://github.com/allfro/pymetasploit) - A full-fledged msfrpc library for Metasploit framework.
@@ -1254,6 +1287,10 @@
 
 ## Shell 
 
+- [contact.sh](https://github.com/EdOverflow/contact.sh) - An OSINT tool to find contacts in order to report security vulnerabilities.
+- [BruteX](https://github.com/1N3/BruteX) - Automatically brute force all services running on a target.
+- [Goohak](https://github.com/1N3/Goohak) - Automatically Launch Google Hacking Queries Against A Target Domain
+- [IntRec-Pack](https://github.com/NullArray/IntRec-Pack) - Intelligence and Reconnaissance Package/Bundle installer.
 - [003Recon](https://github.com/003random/003Recon) - Some tools to automate recon - 003random
 - [recon.sh](https://github.com/jobertabma/recon.sh) - A toolset to track and organize output of reconnaissance tools
 - [yotter](https://github.com/b3rito/yotter) - yotter - bash script that performs recon and then uses dirb to discover directories that might lead to information leakage
@@ -1332,7 +1369,7 @@
 
 ## TeX 
 
-- [RE-for-beginners](https://github.com/dennis714/RE-for-beginners) - "Reverse Engineering for Beginners" free book
+- [RE-for-beginners](https://github.com/DennisYurichev/RE-for-beginners) - "Reverse Engineering for Beginners" free book
 
 ## TypeScript 
 
