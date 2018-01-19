@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Arduino](#arduino)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
@@ -25,12 +26,18 @@
   - [Shell](#shell)
   - [Vue](#vue)
 
+## Arduino 
+
+- [WHID](https://github.com/evilsocket/WHID) - WiFi HID Injector - An USB Rubberducky / BadUSB On Steroids.
+- [proxygambit](https://github.com/samyk/proxygambit) - Anonymize and fracture network traffic/Internet access over a point-to-point wireless link or through TCP-&gt;GSM-&gt;wifi tunnel (advanced resurrection of ProxyHam)
+
 ## Batchfile 
 
 - [win-socks-to-Virtual-adapter](https://github.com/rufengsuixing/win-socks-to-Virtual-adapter) - 帮助你将socks代理转到一张虚拟网卡上，所有经过虚拟网卡的流量会被发送到代理
 
 ## C 
 
+- [pyrebox](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU
 - [gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim) - Software-Defined GPS Signal Simulator
 - [au3miner](https://github.com/sneurlax/au3miner) - 
 - [Kadimus](https://github.com/P0cL4bs/Kadimus) - Kadimus is a tool to check sites to lfi vulnerability , and also exploit it...
@@ -46,14 +53,16 @@
 
 ## C++ 
 
+- [srs](https://github.com/ossrs/srs) - SRS's a simplest, conceptual integrated, industrial-strength live streaming origin cluster.
 - [smartnet-scanner](https://github.com/robotastic/smartnet-scanner) - GNURadio based scanner for SmartNet II Digital radio systems.
 - [smartnet-recorder](https://github.com/robotastic/smartnet-recorder) - This project is no longer active, checkout Trunk Recorder instead
 - [StupidKeylogger](https://github.com/MinhasKamal/StupidKeylogger) - A Terrific Keystroke Recorder (keylogger-key-logger-spyware-spy-trojan-simple-virus-for-windows-10-7-xp-smart)
-- [pyflame](https://github.com/uber/pyflame) - Pyflame: A Ptracing Profiler For Python
+- [pyflame](https://github.com/uber/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python
 
 ## CSS 
 
 - [chromebackdoor](https://github.com/graniet/chromebackdoor) - Chromebackdoor is a pentest tool, this tool use a MITB technique for generate a windows executable ".exe" after launch run a malicious extension or  script on most popular browsers, and send all DOM datas on command and control.
+- [QQ-Groups-Spider](https://github.com/caspartse/QQ-Groups-Spider) - QQ Groups Spider（QQ 群爬虫）
 
 ## Go 
 
@@ -64,18 +73,21 @@
 
 ## HTML 
 
+- [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web-Security-Learning
 - [WamaCry](https://github.com/bitdust/WamaCry) - a fake WannaCry
 - [extract-html-diff](https://github.com/TeamHG-Memex/extract-html-diff) - extract difference between two html pages
 - [visualize_logs](https://github.com/keithjjones/visualize_logs) - A Python library and command line tools to provide interactive log visualization.
 
 ## Java 
 
-- [YougetGUI](https://github.com/bajingxiaozi/YougetGUI) - you-get 的Windows Java图形化界面实现
+- [autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card. Installers can be found at: http://www.sf.net/projects/autopsy/files/autopsy
 - [UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA-compliant UPnP Media Server.
 - [Android-IMSI-Catcher-Detector](https://github.com/CCrashBandicot/Android-IMSI-Catcher-Detector) - Detect and avoid IMSI-Catchers, StingRay and Silent SMS - with AIMSICD!
 
 ## JavaScript 
 
+- [deck.gl](https://github.com/uber/deck.gl) - WebGL based visualization layers
+- [nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
 - [smartnet-player](https://github.com/robotastic/smartnet-player) - A NodeJS based website that allows for the playback of captured SmartNet II Radio Transmissions
 - [viz_alibaba_2016](https://github.com/guoweish/viz_alibaba_2016) - 可视化项目开源－2016阿里天池可视化大赛－专业组－媒体特别奖
 - [DataVisual](https://github.com/wangyapu0714/DataVisual) - 数据可视化平台
@@ -90,7 +102,6 @@
 - [electron-apps](https://github.com/electron/electron-apps) - A collection of apps built on Electron
 - [dLInkCopy](https://github.com/wheato/dLInkCopy) - 
 - [simple_zoomeye](https://github.com/az0ne/simple_zoomeye) - 一个还正在完善的项目，采用分布式python扫描全国的HTTP服务
-- [PiGUI](https://github.com/scottmoss/PiGUI) - Raspberry Pi Web GUI (NodeJS)
 - [rpi-web-control](https://github.com/openhomeautomation/rpi-web-control) - Control Raspberry Pi from anywhere
 
 ## KiCad 
@@ -109,6 +120,12 @@
 
 ## Others 
 
+- [sec-jobs](https://github.com/SecYouth/sec-jobs) - 信息安全实习和校招的面经、真题和资料 减少安全选手找实习/工作的痛苦
+- [AttackDetection](https://github.com/ptresearch/AttackDetection) - Attack Detection
+- [Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - Wiki to collect Red Team infrastructure hardening resources
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- [sec-chart](https://github.com/SecWiki/sec-chart) - 安全思维导图集合
+- [Machine-Learning-for-Cyber-Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security) - Curated list of tools and resources related to the use of machine learning for cyber security
 - [RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit) - RFSec-ToolKit is a collection of Radio Frequency Communication Protocol Hacktools.
 - [documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
 - [awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc) - ✍️ A curated list of CVE PoCs.
@@ -138,12 +155,39 @@
 
 ## Python 
 
-- [pyrebox](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU
+- [passmaker](https://github.com/bit4woo/passmaker) - 可以自定义规则的密码字典生成器,支持图形界面 A password-generator that base on the rules that you specified
+- [wukong-agent](https://github.com/Canbing007/wukong-agent) - Web scan foundation framework
+- [hadoop-attack-library](https://github.com/wavestone-cdt/hadoop-attack-library) - A collection of pentest tools and resources targeting Hadoop environments
+- [fuxploider](https://github.com/almandin/fuxploider) - File upload vulnerability scanner and exploitation tool.
+- [isf](https://github.com/dark-lbp/isf) - ISF(Industrial Control System Exploitation Framework)，a exploitation framework based on Python
+- [pychat](https://github.com/onestraw/pychat) - pychat is a C/S structure chat tool with friendly UI.
+- [WebEye](https://github.com/zerokeeper/WebEye) - 
+- [findWebshell](https://github.com/he1m4n6a/findWebshell) - findWebshell是一款基于python开发的webshell检查工具，可以检查任意类型的webshell后门。
+- [routersploit](https://github.com/reverse-shell/routersploit) - The Router Exploitation Framework
+- [osprey](https://github.com/TophantTechnology/osprey) - 
+- [opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall.
+- [CVE-2017-0785](https://github.com/evilsocket/CVE-2017-0785) - 
+- [bleah](https://github.com/evilsocket/bleah) - A BLE scanner for "smart" devices hacking.
+- [LANs.py](https://github.com/DanMcInerney/LANs.py) - Inject code and spy on wifi users
+- [xerosploit](https://github.com/LionSec/xerosploit) - Efficient and advanced man in the middle framework
+- [home-assistant](https://github.com/home-assistant/home-assistant) - :house_with_garden: Open-source home automation platform running on Python 3
+- [xssfork](https://github.com/bsmali4/xssfork) - 
+- [DL_for_xss](https://github.com/SparkSharly/DL_for_xss) - Deep learnning for detection with xss
+- [koadic](https://github.com/zerosum0x0/koadic) - Koadic C3 COM Command & Control - JScript RAT
+- [WPForce](https://github.com/n00py/WPForce) - Wordpress Attack Suite
+- [massExpConsole](https://github.com/jm33-m0/massExpConsole) - for concurrent exploiting
+- [PRET](https://github.com/RUB-NDS/PRET) - Printer Exploitation Toolkit - The tool that made dumpster diving obsolete.
+- [XSStrike](https://github.com/UltimateHackers/XSStrike) - XSStrike is a program which can crawl, fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs.
+- [telnet-scanner](https://github.com/scu-igroup/telnet-scanner) - telnet服务密码撞库
+- [houliangping](https://github.com/ohmyadd/houliangping) - 
+- [probeSniffer](https://github.com/0xbug/probeSniffer) - 🔍 A tool for sniffing unencrypted wireless probe requests from devices.
+- [defplorex](https://github.com/trendmicro/defplorex) - defplorex for BlackHat Arsenal
+- [ffmpeg-avi-m3u-xbin](https://github.com/neex/ffmpeg-avi-m3u-xbin) - 
+- [qspectrumanalyzer](https://github.com/mossmann/qspectrumanalyzer) - Spectrum analyzer for RTL-SDR (GUI for rtl_power based on PyQtGraph)
 - [xgoogle](https://github.com/pkrumins/xgoogle) - Python library to Google services (google search, google sets, google translate, sponsored links)
 - [pywinrm](https://github.com/diyan/pywinrm) - Python library for Windows Remote Management (WinRM)
 - [sqli-proxy](https://github.com/OneSourceCat/sqli-proxy) - 
 - [wechat_sender](https://github.com/bluedazzle/wechat_sender) - 随时随地发送消息到微信
-- [NagaScan](https://github.com/brianwrf/NagaScan) - NagaScan is a distributed passive scanner for Web application.
 - [sfish_pt](https://github.com/superfish9/sfish_pt) - 
 - [3102](https://github.com/fooying/3102) - A domain/ip fuzzing tool for vulnerability mining
 - [DouyuTV](https://github.com/rieuse/DouyuTV) - DouyuTV弹幕，房间信息爬取，数据分析
@@ -153,7 +197,7 @@
 - [doublepulsar-c2-traffic-decryptor](https://github.com/countercept/doublepulsar-c2-traffic-decryptor) - A python2 script for processing a PCAP file to decrypt C2 traffic sent to DOUBLEPULSAR implant
 - [jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
 - [BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
-- [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - Framework for Rogue Wi-Fi Access Point Attack https://www.patreon.com/wifipumpkin
+- [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - Framework for Rogue Wi-Fi Access Point Attack
 - [massann_dahua](https://github.com/Nzt2/massann_dahua) - Masscan and Dahua parser to xml for Smart PSS
 - [Crawler-Practice-01](https://github.com/dRl-l/Crawler-Practice-01) - 从CVE中文漏洞信息库中爬取给定CVSS评分区间的漏洞名，并对其进行百度搜索，检索网页中该漏洞名出现次数
 - [SpiderKeeper](https://github.com/DormyMo/SpiderKeeper) - admin ui for scrapy/open source scrapinghub
@@ -169,7 +213,7 @@
 - [htmldiff](https://github.com/mitsuhiko/htmldiff) - Diffs arbitrary HTML inline
 - [Stitch](https://github.com/nathanlopez/Stitch) - Python Remote Administration Tool (RAT)
 - [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
-- [java_deserialization_exploits](https://github.com/CoalfireLabs/java_deserialization_exploits) - A collection of Java Deserialization Exploits
+- [java-deserialization-exploits](https://github.com/Coalfire-Research/java-deserialization-exploits) - A collection of Java Deserialization Exploits
 - [struts-pwn](https://github.com/mazen160/struts-pwn) - An exploit for Apache Struts CVE-2017-5638
 - [PyJFuzz](https://github.com/mseclab/PyJFuzz) - PyJFuzz - Python JSON Fuzzer
 - [androguard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)
@@ -177,12 +221,10 @@
 - [programming-languages-influence](https://github.com/yaph/programming-languages-influence) - Code to retrieve data for the programming languages influence visualizations from Freebase
 - [QQSpider](https://github.com/LiuXingMing/QQSpider) - QQ空间爬虫（日志、说说、个人信息）
 - [pyavbot-getready](https://github.com/omegacoleman/pyavbot-getready) - 为写avbot的python克隆做的准备工作。
-- [QQ-Groups-Spider](https://github.com/caspartse/QQ-Groups-Spider) - QQ Groups Spider（QQ 群爬虫）
 - [Github_Nuggests](https://github.com/az0ne/Github_Nuggests) - 自动爬取Github上文件敏感信息泄露，抓取邮箱密码并自动登录邮箱验证，支持126，qq，sina，163邮箱
 - [MongoDB_AutoDump](https://github.com/az0ne/MongoDB_AutoDump) - 用于快速探测未授权MongoDB数据库结构，取第一条内容，并统计数据数量。A tool for  unauthorized MongoDB database , take the first content, and the number of statistical data.
 - [joomla_exp](https://github.com/az0ne/joomla_exp) - joomla 反序列化漏洞 getshell EXP，感觉别人的用着不太对，所以自己动手造了一个
 - [autoexp_plc](https://github.com/az0ne/autoexp_plc) - omron工控设备漏洞批量验证
-- [facedetect](https://github.com/ahmetkotan/facedetect) - Face and Eye Detect
 - [YaraGenerator](https://github.com/cd3l3on/YaraGenerator) - Automatic Yara Rule Generation
 - [django-angular](https://github.com/cd3l3on/django-angular) - Let AngularJS play well with Django
 - [jboss_autoexploit](https://github.com/az0ne/jboss_autoexploit) - JBoss JMXInvokerServlet JMXInvoker 0.3 - Remote Command Execution​ 漏洞批量检测
@@ -197,12 +239,13 @@
 - [Raspberry_Pi_Web_Player](https://github.com/jialeicui/Raspberry_Pi_Web_Player) - 基于web.py开发树莓派播放器, 用网页进行控制
 - [weibo-raspberrypi-arduino](https://github.com/lvyaojia/weibo-raspberrypi-arduino) - use raspberry pi to get real-time mentions(weibo), the mentions will be as the commands to control arduino.
 - [SmartQQ-for-Raspberry-Pi](https://github.com/xqin/SmartQQ-for-Raspberry-Pi) - 基于 SmartQQ 编写, 采用QQ安全中心的二维码做为登陆条件 的WebQQ客户端
-- [CMS-Exploit-Framework](https://github.com/chuhades/CMS-Exploit-Framework) - CMS Exploit Framework
-- [binwalk](https://github.com/devttys0/binwalk) - Firmware Analysis Tool
+- [CMS-Exploit-Framework](https://github.com/Q2h1Cg/CMS-Exploit-Framework) - CMS Exploit Framework
+- [binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 
 ## Ruby 
 
-- [mastodon](https://github.com/tootsuite/mastodon) - A GNU Social-compatible microblogging server
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
+- [mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [htmldiff](https://github.com/myobie/htmldiff) - A diff library that uses html tags to show differences
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
@@ -213,7 +256,8 @@
 
 ## Vue 
 
-- [Hawkeye](https://github.com/0xbug/Hawkeye) - GitHub 泄露监控系统
+- [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3
+- [Hawkeye](https://github.com/0xbug/Hawkeye) - GitHub 泄露监控系统(Github Sensitive Information Leakage Monitor)
 
 
 ## License

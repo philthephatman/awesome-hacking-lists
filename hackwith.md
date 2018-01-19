@@ -225,6 +225,7 @@
 
 ## Go 
 
+- [certgraph](https://github.com/lanrat/certgraph) - An open source intelligence tool to crawl the graph of certificate Alternate Names
 - [second-order](https://github.com/mhmdiaa/second-order) - Second-order subdomain takeover scanner
 - [gOSINT](https://github.com/Nhoya/gOSINT) - OSINT framework in Go
 - [goWAPT](https://github.com/dzonerzy/goWAPT) - Go Web Application Penetration Test
@@ -360,7 +361,7 @@
 ## JavaScript 
 
 - [DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator) - Data exfiltration over DNS request covert channel
-- [archerysec](https://github.com/anandtiwarics/archerysec) - Open Source Vulnerability Assessment and Management helps developers and pentesters to perform scans and manage vulnerabilities.
+- [archerysec](https://github.com/archerysec/archerysec) - Open Source Vulnerability Assessment and Management helps developers and pentesters to perform scans and manage vulnerabilities.
 - [pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
 - [Seccubus](https://github.com/schubergphilis/Seccubus) - Easy automated vulnerability scanning, reporting and analysis
 - [Thalos](https://github.com/ecleipteon/Thalos) - Secure approach to secure file storage in untrusted environments.
@@ -450,6 +451,8 @@
 
 ## Others 
 
+- [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
+- [reverse-engineering-reference-manual](https://github.com/yellowbyte/reverse-engineering-reference-manual) - Here is a collage of reverse engineering topics that I find interesting
 - [filterbypass](https://github.com/masatokinugawa/filterbypass) - 
 - [awesome-lockpicking](https://github.com/meitar/awesome-lockpicking) - :unlock::sunglasses: A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
 - [awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
@@ -624,7 +627,7 @@
 - [browsersploit](https://github.com/julienbedard/browsersploit) - BrowserExploit is an advanced browser exploit pack for doing internal and external pentesting, helping gaining access to internal computers.
 - [ackack](https://github.com/SpiderLabs/ackack) - A program to monitor network traffic and detect unauthorized sessions.
 - [ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced Search & Mass Exploit Scanner- فاحص متقدم لبحث و استغلال الثغرات بالجملة
-- [Linux_Exploit_Suggester](https://github.com/PenturaLabs/Linux_Exploit_Suggester) - Linux Exploit Suggester; based on operating system release number
+- [Linux_Exploit_Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester) - Linux Exploit Suggester; based on operating system release number
 - [evilgrade](https://github.com/infobyte/evilgrade) - 
 - [dvcs-ripper](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG...
 - [nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
@@ -635,6 +638,7 @@
 
 ## PowerShell 
 
+- [WINspect](https://github.com/A-mIn3/WINspect) - Powershell-based Windows Security Auditing Toolbox
 - [JAWS](https://github.com/411Hall/JAWS) - JAWS - Just Another Windows (Enum) Script
 - [mimikittenz](https://github.com/putterpanda/mimikittenz) - A post-exploitation powershell tool for extracting juicy info from memory.
 - [NetRipper](https://github.com/NytroRST/NetRipper) - NetRipper - Smart traffic sniffing for penetration testers
@@ -699,6 +703,10 @@
 
 ## Python 
 
+- [TIDoS-Framework](https://github.com/the-Infected-Drake/TIDoS-Framework) - This is a web-penetration testing toolkit, presently suited for reconnaissance purposes.
+- [NtlmRelayToEWS](https://github.com/Arno0x/NtlmRelayToEWS) - ntlm relay attack to Exchange Web Services
+- [koadic](https://github.com/zerosum0x0/koadic) - Koadic C3 COM Command & Control - JScript RAT
+- [Noriben](https://github.com/Rurik/Noriben) - Noriben - Portable, Simple, Malware Analysis Sandbox
 - [BlackWidow](https://github.com/1N3/BlackWidow) - A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.
 - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files
 - [Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r) - Know the dangers of credential reuse attacks.
@@ -892,7 +900,7 @@
 - [msf-remote-console](https://github.com/Luis-Hebendanz/msf-remote-console) - A remote msfconsole written in Python 2.7 to connect to the msfrcpd server of metasploit. This tool gives you the ability to load modules permanently as daemon on your server like autopwn2.
 - [waidps](https://github.com/SYWorks/waidps) - Wireless Auditing, Intrusion Detection & Prevention System
 - [wifijammer](https://github.com/DanMcInerney/wifijammer) - Continuously jam all wifi clients/routers
-- [wifiphisher](https://github.com/wifiphisher/wifiphisher) - Automated victim-customized phishing attacks against Wi-Fi clients
+- [wifiphisher](https://github.com/wifiphisher/wifiphisher) - Rogue Access Point framework for Wi-Fi automatic association attacks and victim-customized phishing
 - [airpwn-ng](https://github.com/ICSec/airpwn-ng) - airpwn-ng
 - [wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
 - [CMSmap](https://github.com/Dionach/CMSmap) - 
@@ -1089,7 +1097,7 @@
 - [Ares](https://github.com/sweetsoftware/Ares) - Python botnet and backdoor
 - [armpwn](https://github.com/saelo/armpwn) - Repository to train/learn memory corruption on the ARM platform.
 - [iCrashalyzer](https://github.com/saelo/iCrashalyzer) - Tool to analyze iOS crash reports
-- [artifacts](https://github.com/ForensicArtifacts/artifacts) - ForensicArtifacts.com Artifact Repository
+- [artifacts](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics Artifact Repository
 - [goatrider](https://github.com/BinaryDefense/goatrider) - GoatRider is a simple tool that will dynamically pull down Artillery Threat Intelligence Feeds, TOR, AlienVaults OTX, and the Alexa top 1 million websites and do a comparison to a hostname file or IP file.
 - [Arya](https://github.com/HarmJ0y/Arya) - Arya is a simple obfuscator for .NET binaries.
 - [ImpDump](https://github.com/HarmJ0y/ImpDump) - This is a simple parser for/decrypter for Impacket's esentutl.py utility. It assists with decrypting hashes and hash histories from ntds.dit databases.
