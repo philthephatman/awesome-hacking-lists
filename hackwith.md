@@ -111,7 +111,7 @@
 - [USaBUSe](https://github.com/sensepost/USaBUSe) - Universal Serial aBUSe is a project to demonstrate the risks of hardware bypasses of software security by Rogan Dawes at SensePost.
 - [CVE-2016-5195](https://github.com/timwr/CVE-2016-5195) - CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android
 - [shellcodeexec](https://github.com/inquisb/shellcodeexec) - Script to execute in memory a sequence of opcodes
-- [massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance
+- [massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [wdpassport-utils](https://github.com/KenMacD/wdpassport-utils) - Code and information on how to unlock a WD My Passport drive in Linux.
 - [ExtractKeyMaster](https://github.com/laginimaineb/ExtractKeyMaster) - Exploit that extracts Qualcomm's KeyMaster keys using CVE-2015-6639 and CVE-2016-2431
 - [ThinkPwn](https://github.com/Cr4sh/ThinkPwn) - Lenovo ThinkPad System Management Mode arbitrary code execution 0day exploit
@@ -208,6 +208,7 @@
 
 ## CSS 
 
+- [hacker101](https://github.com/Hacker0x01/hacker101) - Hacker101
 - [dvna](https://github.com/appsecco/dvna) - Damn Vulnerable NodeJS Application
 - [trape](https://github.com/boxug/trape) - People tracker on the Internet: Learn to track the world, to avoid being traced.
 - [hashview](https://github.com/hashview/hashview) - A web front-end for password cracking and analytics
@@ -276,6 +277,7 @@
 
 ## HTML 
 
+- [proof-of-concepts](https://github.com/EdOverflow/proof-of-concepts) - A little collection of fun and creative proof of concepts to demonstrate the potential impact of a security vulnerability.
 - [bugbountyguide](https://github.com/EdOverflow/bugbountyguide) - Bug Bounty Guide is a launchpad for bug bounty programs and bug bounty hunters.
 - [DetectionLab](https://github.com/clong/DetectionLab) - Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
 - [security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
@@ -360,6 +362,8 @@
 
 ## JavaScript 
 
+- [injectify](https://github.com/samdenty99/injectify) - Perform advanced MiTM attacks on websites with ease. https://injectify.js.org
+- [JStillery](https://github.com/mindedsecurity/JStillery) - Advanced JavaScript Deobfuscation via Partial Evaluation
 - [DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator) - Data exfiltration over DNS request covert channel
 - [archerysec](https://github.com/archerysec/archerysec) - Open Source Vulnerability Assessment and Management helps developers and pentesters to perform scans and manage vulnerabilities.
 - [pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
@@ -451,6 +455,9 @@
 
 ## Others 
 
+- [security-policy-specification-standard](https://github.com/EdOverflow/security-policy-specification-standard) - This document proposes a way of standardising the structure, language, and grammar used in security policies.
+- [Monitoring-Systems-Cheat-Sheet](https://github.com/HD421/Monitoring-Systems-Cheat-Sheet) - A cheat sheet for pentesters and researchers about vulnerabilities in well-known monitoring systems.
+- [awesome-chinese-infosec-websites](https://github.com/FabioBaroni/awesome-chinese-infosec-websites) - A curated list of Chinese websites and personal blogs about ethical hacking and pentesting
 - [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
 - [reverse-engineering-reference-manual](https://github.com/yellowbyte/reverse-engineering-reference-manual) - Here is a collage of reverse engineering topics that I find interesting
 - [filterbypass](https://github.com/masatokinugawa/filterbypass) - 
@@ -703,6 +710,13 @@
 
 ## Python 
 
+- [lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
+- [CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind by CloudFlare using Internet-wide scan data from Censys.
+- [wavecrack](https://github.com/wavestone-cdt/wavecrack) - Wavestone's web interface for password cracking with hashcat
+- [the-endorser](https://github.com/eth0izzle/the-endorser) - An OSINT tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
+- [subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) - A simple and fast sub domain brute tool for pentesters
+- [Recon-ng-modules](https://github.com/scumsec/Recon-ng-modules) - Additional modules for recon-ng
+- [Reconnoitre](https://github.com/codingo/Reconnoitre) - A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.
 - [TIDoS-Framework](https://github.com/the-Infected-Drake/TIDoS-Framework) - This is a web-penetration testing toolkit, presently suited for reconnaissance purposes.
 - [NtlmRelayToEWS](https://github.com/Arno0x/NtlmRelayToEWS) - ntlm relay attack to Exchange Web Services
 - [koadic](https://github.com/zerosum0x0/koadic) - Koadic C3 COM Command & Control - JScript RAT
@@ -731,7 +745,7 @@
 - [BackToMe](https://github.com/H0nus/BackToMe) - Little tool made in python to create payloads for Linux, Windows and OSX with unique handler
 - [trevorc2](https://github.com/trustedsec/trevorc2) - TrevorC2 is a legitimate website (browsable) that tunnels client/server communications for covert command execution.
 - [Reverse_DNS_Shell](https://github.com/ahhh/Reverse_DNS_Shell) - A python reverse shell that uses DNS as the c2 channel
-- [iMessagesBackdoor](https://github.com/checkyfuntime/iMessagesBackdoor) - A script to help set up an event handler in order to install a persistent backdoor that can be activated by sending a message.
+- [iMessagesBackdoor](https://github.com/checkymander/iMessagesBackdoor) - A script to help set up an event handler in order to install a persistent backdoor that can be activated by sending a message.
 - [uncaptcha](https://github.com/ecthros/uncaptcha) - Defeating Google's audio reCaptcha with 85% accuracy.
 - [punydomaincheck](https://github.com/anilyuk/punydomaincheck) - Puny Domain Name Check
 - [CVE-2017-12617](https://github.com/cyberheartmi9/CVE-2017-12617) - Apache Tomcat &lt; 9.0.1 (Beta) / &lt; 8.5.23 / &lt; 8.0.47 / &lt; 7.0.8 - JSP Upload Bypass / Remote Code Execution
@@ -1213,7 +1227,7 @@
 - [pymetasploit](https://github.com/allfro/pymetasploit) - A full-fledged msfrpc library for Metasploit framework.
 - [Limon](https://github.com/monnappa22/Limon) - Limon is a sandbox developed as a research project written in python, which automatically collects, analyzes, and reports on the run time indicators of Linux malware. It allows one to inspect Linux malware before execution, during execution, and after execution (post-mortem analysis) by performing static, dynamic and memory analysis using open source tools
 - [theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure
-- [pub](https://github.com/tintinweb/pub) - police line - do not cross...
+- [pub](https://github.com/tintinweb/pub) - Vulnerability Notes, PoC Exploits and Write-Ups for security issues disclosed by tintinweb
 - [xssless](https://github.com/mandatoryprogrammer/xssless) - An automated XSS payload generator written in python.
 - [getExploit](https://github.com/Gioyik/getExploit) - :bomb: Download exploits from exploit-db.com
 - [ranger](https://github.com/funkandwagnalls/ranger) - A tool for security professionals to access and interact with remote Microsoft Windows based systems.
@@ -1295,6 +1309,7 @@
 
 ## Shell 
 
+- [Vegile](https://github.com/Screetsec/Vegile) - This tool will setting up your backdoor/rootkits when backdoor already setup it will be hidden your spesisifc process,unlimited your session in metasploit and transparent. Even when it killed, it will re-run again. There always be a procces which while run another process,So we can assume that this procces is unstopable like a Ghost in The Shell
 - [contact.sh](https://github.com/EdOverflow/contact.sh) - An OSINT tool to find contacts in order to report security vulnerabilities.
 - [BruteX](https://github.com/1N3/BruteX) - Automatically brute force all services running on a target.
 - [Goohak](https://github.com/1N3/Goohak) - Automatically Launch Google Hacking Queries Against A Target Domain
