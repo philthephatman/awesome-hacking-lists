@@ -99,7 +99,6 @@
 - [dumpdecrypted](https://github.com/stefanesser/dumpdecrypted) - Dumps decrypted mach-o files from encrypted iPhone applications from memory to disk. This tool is necessary for security researchers to be able to look under the hood of encryption.
 - [System-Backdoor](https://github.com/bressan3/System-Backdoor) - A backdoor socket that takes commands from a client and executes them in the server machine
 - [killerbee](https://github.com/riverloopsec/killerbee) - IEEE 802.15.4/ZigBee Security Research Toolkit
-- [TheFatRat](https://github.com/Screetsec/TheFatRat) - Thefatrat a massive exploiting tool &gt;&gt; An easy tool to generate backdoor and easy tool to post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .
 - [blacknurse](https://github.com/jedisct1/blacknurse) - BlackNurse attack PoC
 - [movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
 - [vlany](https://github.com/mempodippy/vlany) - Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)
@@ -319,7 +318,7 @@
 
 ## Java 
 
-- [pivaa](https://github.com/HTBridge/pivaa) - 
+- [pivaa](https://github.com/HTBridge/pivaa) - Created by High-Tech Bridge, the Purposefully Insecure and Vulnerable Android Application (PIVAA) replaces outdated DIVA for benchmark of mobile vulnerability scanners.
 - [backslash-powered-scanner](https://github.com/PortSwigger/backslash-powered-scanner) - Finds unknown classes of injection vulnerabilities
 - [Inspeckage](https://github.com/ac-pm/Inspeckage) - Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)
 - [DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
@@ -349,6 +348,7 @@
 - [shelling](https://github.com/ewilded/shelling) - SHELLING - a comprehensive OS command injection payload generator
 - [find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) - The FindBugs plugin for security audits of Java web applications and Android applications. (Also work with Groovy and Scala projects)
 - [Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) - Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities
+- [TheFatRat](https://github.com/Screetsec/TheFatRat) - Thefatrat a massive exploiting tool &gt;&gt; An easy tool to generate backdoor and easy tool to post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .
 - [jsql-injection](https://github.com/ron190/jsql-injection) - jSQL Injection is a Java application for automatic SQL database injection.
 - [leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
 - [Halcyon](https://github.com/s4n7h0/Halcyon) - First IDE for Nmap Script (NSE) Development.
@@ -362,7 +362,6 @@
 
 ## JavaScript 
 
-- [injectify](https://github.com/samdenty99/injectify) - Perform advanced MiTM attacks on websites with ease. https://injectify.js.org
 - [JStillery](https://github.com/mindedsecurity/JStillery) - Advanced JavaScript Deobfuscation via Partial Evaluation
 - [DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator) - Data exfiltration over DNS request covert channel
 - [archerysec](https://github.com/archerysec/archerysec) - Open Source Vulnerability Assessment and Management helps developers and pentesters to perform scans and manage vulnerabilities.
@@ -710,6 +709,10 @@
 
 ## Python 
 
+- [elasticintel](https://github.com/securityclippy/elasticintel) - Serverless, low cost, threat intel aggregation for enterprise or personal use, backed by ElasticSearch.
+- [LaZagneForensic](https://github.com/AlessandroZ/LaZagneForensic) - Decrypt Windows Credentials from another host
+- [AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
+- [Minesweeper](https://github.com/codingo/Minesweeper) - A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 3200 malicious cryptocurrency mining domains (cryptojacking).
 - [lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
 - [CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind by CloudFlare using Internet-wide scan data from Censys.
 - [wavecrack](https://github.com/wavestone-cdt/wavecrack) - Wavestone's web interface for password cracking with hashcat
@@ -883,7 +886,7 @@
 - [subdomain3](https://github.com/yanxiu0614/subdomain3) - A new generation of tool for discovering subdomains( ip , cdn and so on)
 - [awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
 - [EmPyre](https://github.com/EmpireProject/EmPyre) - A post-exploitation OS X/Linux agent written in Python 2.7
-- [bat-armor](https://github.com/artkond/bat-armor) - Encode powershell payload into bat files
+- [bat-armor](https://github.com/klsecservices/bat-armor) - Encode powershell payload into bat files
 - [mongoaudit](https://github.com/stampery/mongoaudit) - 🔥 A powerful MongoDB auditing and pentesting tool 🔥
 - [dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting typo squatting, phishing and corporate espionage
 - [hashID](https://github.com/psypanda/hashID) - Software to identify the different types of hashes -
@@ -1309,6 +1312,7 @@
 
 ## Shell 
 
+- [megplus](https://github.com/EdOverflow/megplus) - Automated reconnaissance wrapper — TomNomNom's meg on steroids.
 - [Vegile](https://github.com/Screetsec/Vegile) - This tool will setting up your backdoor/rootkits when backdoor already setup it will be hidden your spesisifc process,unlimited your session in metasploit and transparent. Even when it killed, it will re-run again. There always be a procces which while run another process,So we can assume that this procces is unstopable like a Ghost in The Shell
 - [contact.sh](https://github.com/EdOverflow/contact.sh) - An OSINT tool to find contacts in order to report security vulnerabilities.
 - [BruteX](https://github.com/1N3/BruteX) - Automatically brute force all services running on a target.
@@ -1396,6 +1400,7 @@
 
 ## TypeScript 
 
+- [injectify](https://github.com/samdenty99/injectify) - Perform advanced MiTM attacks on websites with ease. https://injectify.js.org
 - [outbound-rules](https://github.com/hraban/outbound-rules) - Reinventing the wheel; Content-Security-Policy
 
 ## Visual Basic 
