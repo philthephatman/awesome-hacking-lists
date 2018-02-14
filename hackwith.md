@@ -72,7 +72,7 @@
 - [limacharlie](https://github.com/refractionPOINT/limacharlie) - Endpoint monitoring stack.
 - [chipwhisperer](https://github.com/newaetech/chipwhisperer) - ChipWhisperer - the complete open-source toolchain for side-channel power analysis and glitching attacks
 - [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
-- [filewatcher](https://github.com/m3liot/filewatcher) - A simple auditing utility for macOS
+- [filewatcher](https://github.com/meliot/filewatcher) - A simple auditing utility for macOS
 - [linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) - linux-kernel-exploits Linux平台提权漏洞集合
 - [windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) - windows-kernel-exploits   Windows平台提权漏洞集合
 - [drinkme](https://github.com/emptymonkey/drinkme) - A shellcode testing harness.
@@ -276,6 +276,7 @@
 
 ## HTML 
 
+- [cssInjection](https://github.com/dxa4481/cssInjection) - Stealing CSRF tokens with CSS injection (without iFrames)
 - [proof-of-concepts](https://github.com/EdOverflow/proof-of-concepts) - A little collection of fun and creative proof of concepts to demonstrate the potential impact of a security vulnerability.
 - [bugbountyguide](https://github.com/EdOverflow/bugbountyguide) - Bug Bounty Guide is a launchpad for bug bounty programs and bug bounty hunters.
 - [DetectionLab](https://github.com/clong/DetectionLab) - Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
@@ -348,7 +349,7 @@
 - [shelling](https://github.com/ewilded/shelling) - SHELLING - a comprehensive OS command injection payload generator
 - [find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) - The FindBugs plugin for security audits of Java web applications and Android applications. (Also work with Groovy and Scala projects)
 - [Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) - Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities
-- [TheFatRat](https://github.com/Screetsec/TheFatRat) - Thefatrat a massive exploiting tool &gt;&gt; An easy tool to generate backdoor and easy tool to post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .
+- [TheFatRat](https://github.com/Screetsec/TheFatRat) - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .
 - [jsql-injection](https://github.com/ron190/jsql-injection) - jSQL Injection is a Java application for automatic SQL database injection.
 - [leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
 - [Halcyon](https://github.com/s4n7h0/Halcyon) - First IDE for Nmap Script (NSE) Development.
@@ -362,6 +363,8 @@
 
 ## JavaScript 
 
+- [StaCoAn](https://github.com/vincentcox/StaCoAn) - StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.
+- [DVHMA](https://github.com/logicalhacking/DVHMA) - Damn Vulnerable Hybrid Mobile App (DVHMA) is an hybrid mobile app (for Android) that intentionally contains vulnerabilities.
 - [JStillery](https://github.com/mindedsecurity/JStillery) - Advanced JavaScript Deobfuscation via Partial Evaluation
 - [DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator) - Data exfiltration over DNS request covert channel
 - [archerysec](https://github.com/archerysec/archerysec) - Open Source Vulnerability Assessment and Management helps developers and pentesters to perform scans and manage vulnerabilities.
@@ -394,7 +397,7 @@
 - [ssrfDetector](https://github.com/JacobReynolds/ssrfDetector) - Server-side request forgery detector
 - [datacenter-sensor](https://github.com/alexellis/datacenter-sensor) - Sensors for the datacenter to protect against intruders and high temperatures
 - [vulnerable-node](https://github.com/cr0hn/vulnerable-node) - A very vulnerable web site written in NodeJS with the purpose of have a project with identified vulnerabilities to test the quality of security analyzers tools tools
-- [evilscan](https://github.com/eviltik/evilscan) - Massive Ports Scanner
+- [evilscan](https://github.com/eviltik/evilscan) - NodeJS Massive IP Ports Scanner
 - [darkmango](https://github.com/antitree/darkmango) - An open source intelligence and analysis framework for OSINT. [Fork of the Spicy Mango project by Chris Centore]
 - [acme-no-login](https://github.com/websecurify/acme-no-login) - Demonstrates a login bypass attack against a sample MongoDB/NodeJS application
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor) - OS X Auditor is a free Mac OS X computer forensics tool
@@ -458,7 +461,7 @@
 - [Monitoring-Systems-Cheat-Sheet](https://github.com/HD421/Monitoring-Systems-Cheat-Sheet) - A cheat sheet for pentesters and researchers about vulnerabilities in well-known monitoring systems.
 - [awesome-chinese-infosec-websites](https://github.com/FabioBaroni/awesome-chinese-infosec-websites) - A curated list of Chinese websites and personal blogs about ethical hacking and pentesting
 - [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
-- [reverse-engineering-reference-manual](https://github.com/yellowbyte/reverse-engineering-reference-manual) - Here is a collage of reverse engineering topics that I find interesting
+- [reverse-engineering-reference-manual](https://github.com/yellowbyte/reverse-engineering-reference-manual) - collage of reverse engineering topics that I find interesting
 - [filterbypass](https://github.com/masatokinugawa/filterbypass) - 
 - [awesome-lockpicking](https://github.com/meitar/awesome-lockpicking) - :unlock::sunglasses: A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
 - [awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
@@ -585,6 +588,7 @@
 
 ## PHP 
 
+- [caesarRAT](https://github.com/0blio/caesarRAT) - HTTP-based RAT
 - [pentest-tools](https://github.com/gwen001/pentest-tools) - Custom pentesting tools
 - [NG-NetMS](https://github.com/opt-oss/NG-NetMS) - NG-NetMS is a new end-to-end network management platform for your Linux servers, Cisco, Juniper, HP and Extreme routers, switches and firewalls.
 - [Vulnerable-OTP-Application](https://github.com/mddanish/Vulnerable-OTP-Application) - Vulnerable OTP/2FA Application written in PHP using Google Authenticator
@@ -709,15 +713,17 @@
 
 ## Python 
 
+- [ID-entify](https://github.com/BillyV4/ID-entify) - Search for information related to a domain: Emails - IP addresses - Domains - Information on WEB technology - Type of Firewall - NS and MX records - Nmap to IP addresses and Domains.
+- [InSpy](https://github.com/gojhonny/InSpy) - A LinkedIn enumeration tool
 - [elasticintel](https://github.com/securityclippy/elasticintel) - Serverless, low cost, threat intel aggregation for enterprise or personal use, backed by ElasticSearch.
-- [LaZagneForensic](https://github.com/AlessandroZ/LaZagneForensic) - Decrypt Windows Credentials from another host
+- [LaZagneForensic](https://github.com/AlessandroZ/LaZagneForensic) - Windows passwords decryption from dump files
 - [AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
-- [Minesweeper](https://github.com/codingo/Minesweeper) - A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 3200 malicious cryptocurrency mining domains (cryptojacking).
+- [Minesweeper](https://github.com/codingo/Minesweeper) - A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 3700 malicious cryptocurrency mining domains (cryptojacking).
 - [lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
 - [CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind by CloudFlare using Internet-wide scan data from Censys.
 - [wavecrack](https://github.com/wavestone-cdt/wavecrack) - Wavestone's web interface for password cracking with hashcat
 - [the-endorser](https://github.com/eth0izzle/the-endorser) - An OSINT tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
-- [subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) - A simple and fast sub domain brute tool for pentesters
+- [subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) - A fast sub domain brute tool for pentesters
 - [Recon-ng-modules](https://github.com/scumsec/Recon-ng-modules) - Additional modules for recon-ng
 - [Reconnoitre](https://github.com/codingo/Reconnoitre) - A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.
 - [TIDoS-Framework](https://github.com/the-Infected-Drake/TIDoS-Framework) - This is a web-penetration testing toolkit, presently suited for reconnaissance purposes.
@@ -740,8 +746,8 @@
 - [RFCrack](https://github.com/cclabsInc/RFCrack) - A Software Defined Radio Attack Tool
 - [bucket-stream](https://github.com/eth0izzle/bucket-stream) - Find interesting Amazon S3 Buckets by watching certificate transparency logs.
 - [Tiredful-API](https://github.com/payatu/Tiredful-API) - An intentionally designed broken web application based on REST API.
-- [caldera](https://github.com/mitre/caldera) - The CALDERA automated adversary emulation system
-- [cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor) - Cloud Inquisitor - tool to enforce ownership and data security within AWS
+- [caldera](https://github.com/mitre/caldera) - An automated adversary emulation system
+- [cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor) - Enforce ownership and data security within AWS
 - [spaces-finder](https://github.com/appsecco/spaces-finder) - A tool to hunt for publicly accessible DigitalOcean Spaces
 - [Tiny-URL-Fuzzer](https://github.com/orangetw/Tiny-URL-Fuzzer) - A tiny and cute URL fuzzer
 - [streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
@@ -834,7 +840,7 @@
 - [detectem](https://github.com/alertot/detectem) - detectem - detect software and its version on websites.
 - [Seth](https://github.com/SySS-Research/Seth) - Perform a MitM attack and extract clear text credentials from RDP connections
 - [scanless](https://github.com/vesche/scanless) - online port scan scraper
-- [shcheck](https://github.com/m3liot/shcheck) - Just a small tool to check security headers
+- [shcheck](https://github.com/meliot/shcheck) - Just a small tool to check security headers
 - [PhishingKitHunter](https://github.com/t4d/PhishingKitHunter) - Find phishing kits which use your brand/organization's files and image.
 - [Mimir](https://github.com/NullArray/Mimir) - OSINT Threat Intel Interface
 - [massExpConsole](https://github.com/jm33-m0/massExpConsole) - for concurrent exploiting
@@ -917,7 +923,7 @@
 - [msf-remote-console](https://github.com/Luis-Hebendanz/msf-remote-console) - A remote msfconsole written in Python 2.7 to connect to the msfrcpd server of metasploit. This tool gives you the ability to load modules permanently as daemon on your server like autopwn2.
 - [waidps](https://github.com/SYWorks/waidps) - Wireless Auditing, Intrusion Detection & Prevention System
 - [wifijammer](https://github.com/DanMcInerney/wifijammer) - Continuously jam all wifi clients/routers
-- [wifiphisher](https://github.com/wifiphisher/wifiphisher) - Rogue Access Point framework for Wi-Fi automatic association attacks and victim-customized phishing
+- [wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [airpwn-ng](https://github.com/ICSec/airpwn-ng) - airpwn-ng
 - [wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
 - [CMSmap](https://github.com/Dionach/CMSmap) - 
@@ -1018,7 +1024,7 @@
 - [htcap](https://github.com/segment-srl/htcap) - htcap is a web application scanner able to crawl single page application (SPA) in a recursive manner by intercepting ajax calls and DOM changes.
 - [aws_pwn](https://github.com/dagrz/aws_pwn) - A collection of AWS penetration testing junk
 - [VBAMacroPWD](https://github.com/waleedassar/VBAMacroPWD) - Python scripts to remove, change, and crack Office 97-2003/Office 2007/Office 2010/Office 2013 Macro Passwords
-- [dagda](https://github.com/eliasgranderubio/dagda) - a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor running docker containers for detecting anomalous activities
+- [dagda](https://github.com/eliasgranderubio/dagda) - a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities
 - [wePWNise](https://github.com/mwrlabs/wePWNise) - WePWNise generates architecture independent VBA code to be used in Office documents or templates and automates bypassing application control and exploit mitigation software.
 - [vba-dynamic-hook](https://github.com/eset/vba-dynamic-hook) - VBA Dynamic Hook dynamically analyzes VBA macros inside Office documents by hooking function calls
 - [WAFNinja](https://github.com/khalilbijjou/WAFNinja) - WAFNinja is a tool which contains two functions to attack Web Application Firewalls.
