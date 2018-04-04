@@ -366,6 +366,7 @@
 
 ## Go 
 
+- [CHAOS](https://github.com/tiagorlampert/CHAOS) - :fire: CHAOS allow generate payloads and control remote Windows systems.
 - [cointop](https://github.com/miguelmota/cointop) - Interactive terminal based UI application for tracking cryptocurrencies
 - [godht](https://github.com/lyyyuna/godht) - 
 - [shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) - go port of shadowsocks
@@ -394,7 +395,7 @@
 - [ft](https://github.com/mattn/ft) - File Transferer
 - [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [switcher](https://github.com/crabkun/switcher) - 端口复用工具，能让HTTP/HTTPS/SSH/RDP/SOCKS5/HTTPProxy等跑在同一个端口上，支持复用本地或远程端口
-- [secureoperator](https://github.com/fardog/secureoperator) - A DNS-protocol proxy for Google's DNS-over-HTTPS
+- [secureoperator](https://github.com/fardog/secureoperator) - A DNS-protocol proxy for DNS-over-HTTPS providers, such as Google and Cloudflare
 - [ben](https://github.com/drish/ben) - Your benchmark assistant, written in Go.
 - [gOSINT](https://github.com/Nhoya/gOSINT) - OSINT framework in Go
 - [NATBypass](https://github.com/cw1997/NATBypass) - 一款lcx在golang下的实现
@@ -482,7 +483,7 @@
 - [x-patrol](https://github.com/MiSecurity/x-patrol) - github泄露扫描系统
 - [security_whitepapers](https://github.com/bl4de/security_whitepapers) - Collection of misc IT Security related whitepapers, presentations, slides - hacking, bug bounty, web application security, XSS, CSRF, SQLi
 - [linux-explorer](https://github.com/intezer/linux-explorer) - Easy-to-use live forensics toolbox for Linux endpoints
-- [geek-navigation](https://github.com/geekape/geek-navigation) - 极客猿梦导航，响应式静态导航页面
+- [geek-navigation](https://github.com/geekape/geek-navigation) - :star:极客猿梦导航，响应式静态导航页面
 - [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering.
 - [CV](https://github.com/Wscats/CV) - :see_no_evil:《切图仔面试宝典》
 - [HadoopAndSparkDataStudy](https://github.com/chu888chu888/HadoopAndSparkDataStudy) - 这是一本关于大数据学习记录的手册,主要针对初学者.做为一个老IT工作者,学习是一件很辛苦的事情.希望这本手册对帮助大家快速的学习与认识大数据(特指Hadoop Spark),为了不让初学者一下接触爆炸式的新概念,我们会以实验先行,概念跟进的方式进行课程学习,这样有利于大家快速进入状态,而不至于一直深陷逻辑概念出不来,但是每个人的学习方式不一样,仁者见仁智者见智吧.大家如果有意见请给我发邮件chu888chu888@qq.com — 楚广明
@@ -553,6 +554,7 @@
 
 ## Java 
 
+- [mssql-jdbc](https://github.com/Microsoft/mssql-jdbc) - The Microsoft JDBC Driver for SQL Server is a Type 4 JDBC driver that provides database connectivity with SQL Server through the standard JDBC application program interfaces (APIs).
 - [ideaagent](https://github.com/mrshawnho/ideaagent) - IntelliJ IDEA 辅助工具
 - [MybatisPlugin-Crack-Javassist](https://github.com/An0nymous0/MybatisPlugin-Crack-Javassist) - Javassist实现的破解IDEA MybatisPlugin修改字节码工具，仅供学习用途。
 - [lombok-intellij-plugin](https://github.com/mplushnikov/lombok-intellij-plugin) - Lombok Plugin for IntelliJ IDEA
@@ -660,7 +662,7 @@
 
 - [insight](https://github.com/creditease-sec/insight) - 洞察-宜信集应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的平台。
 - [shiro-example](https://github.com/zhangkaitao/shiro-example) - 跟我学Shiro
-- [Yosoro](https://github.com/IceEnd/Yosoro) - 📓Moe Cloud Driver Markdown NoteBook Desktop App.
+- [Yosoro](https://github.com/IceEnd/Yosoro) - 📓Beautiful Cloud Driver Markdown NoteBook Desktop App.
 - [scan_monitor](https://github.com/jax777/scan_monitor) - ip 域名 端口扫描 服务刺探  单机版
 - [WebRTC-Leak](https://github.com/VoidSec/WebRTC-Leak) - Check if your VPN leaks your IP address via the WebRTC technology
 - [APT_CyberCriminal_Campagin_Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) - APT & CyberCriminal Campaign Collection
@@ -928,6 +930,8 @@
 
 ## Others 
 
+- [CS_Chinese_support](https://github.com/Ridter/CS_Chinese_support) - Cobalt strike 修改支持回显中文。
+- [SecurityAdvisories](https://github.com/Roave/SecurityAdvisories) - :closed_lock_with_key: Security advisories as a simple composer exclusion list, regularly updated
 - [awesome-blockchain-articles](https://github.com/wecodexyz/awesome-blockchain-articles) - A collection of awesome blockchain articles. Good learning resources about blockchain.
 - [lpeworkshop](https://github.com/sagishahar/lpeworkshop) - Windows / Linux Local Privilege Escalation Workshop
 - [software](https://github.com/mafutian/software) - 破解版工具/软件
@@ -1196,7 +1200,6 @@
 - [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [learn-hacking](https://github.com/tiancode/learn-hacking) - 开始学习Kali Linux 各种破解教程 渗透测试 逆向工程 HackThisSite挑战问题解答
 - [IoT-Security-Wiki](https://github.com/exploitprotocol/IoT-Security-Wiki) - 
-- [Surge](https://github.com/lhie1/Surge) - Weibo：@lhie1 | Twitter：@lhie1x
 - [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
 - [awesome-raspberry-pi-zh](https://github.com/1021683053/awesome-raspberry-pi-zh) - 树莓派工具，镜像，教程，文章
 - [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
@@ -1228,6 +1231,7 @@
 
 ## PHP 
 
+- [security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories
 - [oneindex](https://github.com/donwa/oneindex) - Onedrive Directory Index
 - [FruityWifi](https://github.com/xtr4nge/FruityWifi) - FruityWiFi is a wireless network auditing tool. The application can be installed in any Debian based system adding the extra packages. Tested in Debian, Kali Linux, Kali Linux ARM (Raspberry Pi), Raspbian (Raspberry Pi), Pwnpi (Raspberry Pi), Bugtraq, NetHunter.
 - [wphunter](https://github.com/Jamalc0m/wphunter) - WPHunter A Wordpress Vulnerability Scanner
@@ -1377,6 +1381,7 @@
 
 ## Python 
 
+- [Awesome-TensorFlow-Chinese](https://github.com/fendouai/Awesome-TensorFlow-Chinese) - Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：522785813，微信群二维码：http://www.tensorflownews.com/
 - [NagaScan](https://github.com/5up3rc/NagaScan) - NagaScan is a distributed passive scanner for Web application.
 - [SMBRat](https://github.com/operatorequals/SMBRat) - A Windows Remote Administration Tool in Visual Basic
 - [BugBountySubdomains](https://github.com/bonkc/BugBountySubdomains) - Tools to gather subdomains from Bug Bounty programs
@@ -1384,7 +1389,7 @@
 - [patchwork](https://github.com/getpatchwork/patchwork) - Patchwork is a web-based patch tracking system designed to facilitate the contribution and management of contributions to an open-source project.
 - [FakeDns](https://github.com/Crypt0s/FakeDns) - A regular-expression based python MITM DNS server with support for DNS Rebinding attacks
 - [lalascan](https://github.com/blackye/lalascan) - 自主开发的分布式web漏洞扫描框架，集合webkit爬虫，Subdomain子域名发现，sqli、反射xss、Domxss等owasp top10漏洞扫描和边界资产发现能力。同时为通用CMS POC扫描提供了插件扩展平台
-- [plus1s.live](https://github.com/HFO4/plus1s.live) - 🐸ASCII在线视屏流搭建脚本
+- [plus1s.live](https://github.com/HFO4/plus1s.live) - 🐸ASCII在线视频流搭建脚本
 - [pyrexecd](https://github.com/euske/pyrexecd) - Standalone SSH server for Windows
 - [pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
 - [PT-help](https://github.com/Rhilip/PT-help) - 
@@ -2023,7 +2028,7 @@
 - [genPass](https://github.com/he1m4n6a/genPass) - 渗透测试中关于字典生成和整理辅助的工具
 - [SAKS-tutorials](https://github.com/spoonysonny/SAKS-tutorials) - SAKS Tutorials
 - [pycookiecheat](https://github.com/n8henrie/pycookiecheat) - Borrow cookies from your browser's authenticated session for use in Python scripts.
-- [ipcheck](https://github.com/tomg555/ipcheck) - Serivce that sends you an email when your WAN address changes
+- [ipcheck](https://github.com/SpiderDisco/ipcheck) - Serivce that sends you an email when your WAN address changes
 - [qqwry-python3](https://github.com/animalize/qqwry-python3) - 在纯真IP数据库（qqwry.dat）查询IP归属地， for python 3.0+，已上传至pypi。
 - [taobao_bra_crawler](https://github.com/nladuo/taobao_bra_crawler) - a taobao web crawler just for fun.
 - [GitPrey](https://github.com/repoog/GitPrey) - Searching sensitive files and contents in GitHub associated to company name or other key words
@@ -2420,7 +2425,7 @@
 - [MemcacheDos](https://github.com/Srar/MemcacheDos) - Memcache 反射DDOS攻击脚本经供学习参考使用
 - [Scout](https://github.com/HandsomeOne/Scout) - 可能是东半球最灵活的 URL 监控系统
 - [clover](https://github.com/coderfox/clover) - ShadowSocks User Interface
-- [QTGate-Desktop-Client](https://github.com/QTGate/QTGate-Desktop-Client) - 
+- [QTGate-Desktop-Client](https://github.com/QTGate/QTGate-Desktop-Client) - Become a trustworthy ally for the Internet Freedom
 - [uProxy-p2p](https://github.com/UWNetworksLab/uProxy-p2p) - Internet without borders
 - [jigsaw](https://github.com/rdkmaster/jigsaw) - Jigsaw七巧板 provides a set of web components based on Angular5+. The main purpose of Jigsaw is to help the application developers to construct complex & intensive interacting & user friendly web pages. Jigsaw is supporting the development of all applications of Big Data Product of ZTE.
 - [octohint](https://github.com/pd4d10/octohint) - The missing IntelliSense hint feature for GitHub
