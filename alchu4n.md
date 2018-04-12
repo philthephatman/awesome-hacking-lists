@@ -85,7 +85,7 @@
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [gocrack](https://github.com/fireeye/gocrack) - 
 - [DBShield](https://github.com/nim4/DBShield) - Database firewall written in Go
-- [x-crack](https://github.com/netxfly/x-crack) - x-crack - Weak password scanner, Support: FTP/SSH/MSSQL/MYSQL/PostGreSQL/REDIS/ElasticSearch/MONGODB
+- [x-crack](https://github.com/netxfly/x-crack) - x-crack - Weak password scanner, Support: FTP/SSH/SNMP/SSQL/MYSQL/PostGreSQL/REDIS/ElasticSearch/MONGODB
 - [crack_ssh](https://github.com/netxfly/crack_ssh) - go写的协程版的ssh\redis\mongodb弱口令破解工具
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [dnsbrute](https://github.com/Q2h1Cg/dnsbrute) - a fast domain brute tool
@@ -188,6 +188,7 @@
 
 ## Others 
 
+- [awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) - 🎨 A curated list of awesome resources for digital designers.
 - [awesome-mysql-cn](https://github.com/LynnChen1989/awesome-mysql-cn) - MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [sec-chart](https://github.com/SecWiki/sec-chart) - 安全思维导图集合
@@ -207,7 +208,6 @@
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [web-hacking-101-zh](https://github.com/wizardforcel/web-hacking-101-zh) - :book: [译] Web Hacking 101 中文版
 - [Pentest-and-Development-Tips](https://github.com/3gstudent/Pentest-and-Development-Tips) - A collection of pentest and development tips
-- [phith0n-Mind-Map](https://github.com/CHYbeta/phith0n-Mind-Map) - 
 - [Awesome-Hacking-Tools](https://github.com/m4ll0k/Awesome-Hacking-Tools) - Awesome Hacking Tools
 - [XSS-Filter-Evasion-Cheat-Sheet-CN](https://github.com/l3m0n/XSS-Filter-Evasion-Cheat-Sheet-CN) - XSS_Filter_Evasion_Cheat_Sheet 中文版
 - [pentest_study](https://github.com/l3m0n/pentest_study) - 从零开始内网渗透学习
@@ -282,6 +282,8 @@
 
 ## Python 
 
+- [routersploit](https://github.com/reverse-shell/routersploit) - The Router Exploitation Framework
+- [S7scan](https://github.com/jiangsir404/S7scan) - a pentest scanner, To make excellent tools / 一个集七种功能的漏洞综合检测利用工具, 希望可以打造出一款优秀的渗透工具
 - [portscan](https://github.com/jax777/portscan) - push
 - [w9scan](https://github.com/boy-hack/w9scan) - 学习python，学习黑客
 - [yawf](https://github.com/phplaber/yawf) - 一个基于 OWASP 开源的 Web 漏洞模糊测试工具
