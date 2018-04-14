@@ -340,7 +340,7 @@
 - [transmission-web-control](https://github.com/ronggang/transmission-web-control) - Transmission Web Control is a custom web UI. The project began in Google Code.
 - [blog](https://github.com/rozbo/blog) - my super blog lite -- just one page. use vue with github api !
 - [hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even) - 🚀 A super concise theme for Hugo https://blog.olowolo.com/example-site/
-- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - 💻 A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
+- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - 💻 List of applications, alfred workflows and various tools that make my macOS experience even more amazing
 - [QQ-Groups-Spider](https://github.com/caspartse/QQ-Groups-Spider) - QQ Groups Spider（QQ 群爬虫）
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [justdelete.me](https://github.com/justdeleteme/justdelete.me) - A directory of direct links to delete your account from web services.
@@ -453,7 +453,7 @@
 - [cronsun](https://github.com/shunfei/cronsun) - A Distributed, Fault-Tolerant Cron-Style Job System.
 - [fsql](https://github.com/kshvmdn/fsql) - Search through your filesystem with SQL-esque queries.
 - [blockchain_guide](https://github.com/yeasy/blockchain_guide) - Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
-- [node](https://github.com/MysteriumNetwork/node) - Decentralised VPN built on blockchain
+- [node](https://github.com/MysteriumNetwork/node) - Mysterium Node - VPN server and client for Mysterium Network
 - [ebreader](https://github.com/zhiqing-lee/ebreader) - 一个让你可以在浏览器中阅读Epub电子书的CLI程序，使用Golang编写
 - [pilosa](https://github.com/pilosa/pilosa) - Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
 - [kr](https://github.com/kryptco/kr) - kr | SSH + Git commit/tag signing using a key stored in Krypton.
@@ -1707,7 +1707,7 @@
 - [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 - [wikiextractor](https://github.com/attardi/wikiextractor) - A tool for extracting plain text from Wikipedia dumps
 - [bypass_waf](https://github.com/3xp10it/bypass_waf) - waf自动爆破(绕过)工具
-- [crawler-user-agents](https://github.com/monperrus/crawler-user-agents) - Lists syntactic patterns of HTTP user-agents used by bots/robots/crawlers/spiders. pull-request welcome. if you like it, star it :star::star::star:
+- [crawler-user-agents](https://github.com/monperrus/crawler-user-agents) - Lists syntactic patterns of HTTP user-agents used by bots/robots/crawlers/spiders. pull-request welcome :star:
 - [PocCollect](https://github.com/nanshihui/PocCollect) - a plenty of poc based on python
 - [pyfiscan](https://github.com/fgeek/pyfiscan) - Free web-application vulnerability and version scanner
 - [dnsAutoRebinding](https://github.com/Tr3jer/dnsAutoRebinding) - ssrf、ssrfIntranetFuzz、dnsRebinding、recordEncode、dnsPoisoning、Support ipv4/ipv6
@@ -2272,7 +2272,7 @@
 - [dcs-tools](https://github.com/aktos-io/dcs-tools) - Tools for making remote Linux node management easy
 - [make-ngrok](https://github.com/Yaoshicn/make-ngrok) - One bash to rule ngrok all. 一键编译 Ngrok 全平台客户端。
 - [LinuxShellScript](https://github.com/WangYihang/LinuxShellScript) - LinuxShell编程笔记
-- [blackip](https://github.com/maravento/blackip) - Blackip for Ipset / Squid
+- [blackip](https://github.com/maravento/blackip) - Blacklist IPs for Ipset / Squid
 - [RaspberryPi-script](https://github.com/conanwhf/RaspberryPi-script) - RaspberryPi 2-B script
 - [alpine-caddy](https://github.com/ZZROTDesign/alpine-caddy) - Alpine Linux Docker Container running Caddyserver
 - [Caddy-Web-Server-Installer](https://github.com/sayem314/Caddy-Web-Server-Installer) - Script to manage Caddy web server

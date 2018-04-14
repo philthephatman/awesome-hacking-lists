@@ -223,6 +223,7 @@
 
 ## Go 
 
+- [Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) - Golang for Security Professionals
 - [gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [SubOver](https://github.com/Ice3man543/SubOver) - A Powerful Subdomain Takeover Tool
 - [go-deliver](https://github.com/0x09AL/go-deliver) - Go-deliver is a payload delivery tool coded in Go.
@@ -469,7 +470,7 @@
 - [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [AwesomeXSS](https://github.com/UltimateHackers/AwesomeXSS) - Awesome XSS stuff
-- [LeakVM](https://github.com/XekriCorp/LeakVM) - Research & Pentesting Framework for Android, Run security tests instantly
+- [LeakVM](https://github.com/XekriCorp/LeakVM) - A better way to discover insecure infrastructure
 - [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
 - [assessment-mindset](https://github.com/dsopas/assessment-mindset) - Security Mindmap that could be useful for the infosec community when doing pentest, bug bounty or red-team assessments.
 - [lpeworkshop](https://github.com/sagishahar/lpeworkshop) - Windows / Linux Local Privilege Escalation Workshop
@@ -730,6 +731,7 @@
 
 ## Python 
 
+- [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
 - [DomainRecon](https://github.com/x73x61x6ex6ax61x79/DomainRecon) - 
 - [DomLink](https://github.com/vysec/DomLink) - A tool to link a domain with registered organisation names and emails, to other domains.
 - [Astra](https://github.com/flipkart-incubator/Astra) - Automated Security Testing For REST API's
@@ -1303,7 +1305,6 @@
 - [timing_attack](https://github.com/ffleming/timing_attack) - Perform timing attacks against web applications
 - [dradis-ce](https://github.com/dradis/dradis-ce) - Dradis Framework: Colllaboration and reporting for IT Security teams
 - [metasploit-framework](https://github.com/godinezj/metasploit-framework) - Metasploit Framework
-- [smbexec](https://github.com/pentestgeek/smbexec) - 
 - [aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [Serpico](https://github.com/SerpicoProject/Serpico) - SimplE RePort wrIting and COllaboration tool
 - [pentest-lab](https://github.com/Sliim/pentest-lab) - Pentest Lab on OpenStack with Heat, Chef provisioning and Docker
