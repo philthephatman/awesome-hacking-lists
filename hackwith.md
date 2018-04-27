@@ -29,6 +29,7 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
+  - [Pascal](#pascal)
   - [Perl](#perl)
   - [Perl6](#perl6)
   - [PowerShell](#powershell)
@@ -85,7 +86,7 @@
 - [icmptunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets.
 - [docker-tor-hiddenservice-nginx](https://github.com/opsxcq/docker-tor-hiddenservice-nginx) - Easily setup a hidden service inside the Tor network
 - [pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
-- [radare2](https://github.com/radare/radare2) - unix-like reverse engineering framework and commandline tools
+- [radare2](https://github.com/radare/radare2) - unix-like reverse engineering framework and commandline tools security
 - [Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 - [icmpsh](https://github.com/inquisb/icmpsh) - Simple reverse ICMP shell
 - [PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
@@ -171,14 +172,13 @@
 - [WHID](https://github.com/whid-injector/WHID) - WiFi HID Injector - An USB Rubberducky / BadUSB On Steroids.
 - [noddos](https://github.com/noddos/noddos) - Noddos client
 - [gr-lora](https://github.com/BastilleResearch/gr-lora) - GNU Radio OOT module implementing the LoRa PHY, based on https://github.com/matt-knight/research/tree/master/2016_05_20_jailbreak
-- [CBM](https://github.com/UnaPibaGeek/CBM) - Car Backdoor Maker - by @UnaPibaGeek & @holesec
+- [CBM](https://github.com/UnaPibaGeek/CBM) - Car Backdoor Maker
 - [rattler](https://github.com/sensepost/rattler) - Automated DLL Enumerator
 - [fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - FastNetMon community - very fast DDoS analyzer with sflow/netflow/mirror support
 - [AV_Kernel_Vulns](https://github.com/bee13oy/AV_Kernel_Vulns) - Pocs for Antivirus Software‘s Kernel Vulnerabilities
 - [gargoyle](https://github.com/JLospinoso/gargoyle) - A memory scanning evasion technique
 - [edb-debugger](https://github.com/eteran/edb-debugger) - edb is a cross platform x86/x86-64 debugger.
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
-- [exploits](https://github.com/kacperszurek/exploits) - 
 - [Richkware](https://github.com/richkmeli/Richkware) - Framework for building Windows malware, written in C++
 - [modsniff](https://github.com/Rha25/modsniff) - Sniffing modbus commands as a SLAVE
 - [iaito](https://github.com/hteso/iaito) - This project has been moved to:
@@ -223,6 +223,7 @@
 
 ## Go 
 
+- [subfinder](https://github.com/Ice3man543/subfinder) - SubFinder is a subdomain discovery tool that can discover massive amounts of valid subdomains for any target. It has a simple modular architecture and has been aimed as a successor to sublist3r project.
 - [Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) - Golang for Security Professionals
 - [gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [SubOver](https://github.com/Ice3man543/SubOver) - A Powerful Subdomain Takeover Tool
@@ -278,6 +279,7 @@
 
 ## HTML 
 
+- [xss-payload-list](https://github.com/ismailtasdelen/xss-payload-list) - Cross Site Scripting ( XSS ) Vulnerability Payload List 🚀
 - [uxss-db](https://github.com/Metnew/uxss-db) - 🔪 Universal Cross-site Scripting DB  [+ other browser vulnerabilities]
 - [Droid-Application-Fuzz-Framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework) - Android application fuzzing framework with fuzzers and crash monitor.
 - [cssInjection](https://github.com/dxa4481/cssInjection) - Stealing CSRF tokens with CSS injection (without iFrames)
@@ -303,7 +305,6 @@
 - [AVDetection](https://github.com/vah13/AVDetection) - A simple way for detection the remote user's antivirus
 - [dirtycow.github.io](https://github.com/dirtycow/dirtycow.github.io) - Dirty COW
 - [DVRF](https://github.com/praetorian-inc/DVRF) - The Damn Vulnerable Router Firmware Project
-- [Plugme-Immunity](https://github.com/JohnTroony/Plugme-Immunity) - Immunity Debugger Plugins
 - [cve-2016-0189](https://github.com/theori-io/cve-2016-0189) - Proof-of-Concept exploit for CVE-2016-0189 (VBScript Memory Corruption in IE11)
 - [Excess-XSS](https://github.com/JakobKallin/Excess-XSS) - A comprehensive tutorial on cross-site scripting
 - [sectalks](https://github.com/sectalks/sectalks) - CTFs, solutions and presentations
@@ -351,7 +352,7 @@
 - [android](https://github.com/cSploit/android) - cSploit - The most complete and advanced IT security professional toolkit on Android.
 - [autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
 - [shelling](https://github.com/ewilded/shelling) - SHELLING - a comprehensive OS command injection payload generator
-- [find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) - The FindBugs plugin for security audits of Java web applications and Android applications. (Also work with Groovy and Scala projects)
+- [find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) - :bug: The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Groovy and Scala projects)
 - [Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) - Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities
 - [TheFatRat](https://github.com/Screetsec/TheFatRat) - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .
 - [jsql-injection](https://github.com/ron190/jsql-injection) - jSQL Injection is a Java application for automatic SQL database injection.
@@ -467,6 +468,7 @@
 
 ## Others 
 
+- [awesome-firmware-security](https://github.com/PreOS-Security/awesome-firmware-security) - Awesome Firmware Security & Other Helpful Documents
 - [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [AwesomeXSS](https://github.com/UltimateHackers/AwesomeXSS) - Awesome XSS stuff
@@ -604,6 +606,7 @@
 
 ## PHP 
 
+- [hashtopolis](https://github.com/s3inlc/hashtopolis) - A Hashcat wrapper for distributed hashcracking
 - [IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, fuzz lists and file uploads
 - [caesarRAT](https://github.com/0blio/caesarRAT) - An HTTP based RAT (Remote Administration Tool) that allows you to remotely control devices from your browser
 - [pentest-tools](https://github.com/gwen001/pentest-tools) - Custom pentesting tools
@@ -637,6 +640,10 @@
 - [Sn1per](https://github.com/1N3/Sn1per) - Automated Pentest Recon Scanner
 - [waf-detector](https://github.com/shieldfy/waf-detector) - small script to detect web application firewall on any website
 
+## Pascal 
+
+- [sandcat](https://github.com/felipedaragon/sandcat) - An open-source, pentest and developer-oriented web browser, using the power of Lua
+
 ## Perl 
 
 - [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ best tool for Information Gathering 🔎
@@ -666,6 +673,7 @@
 
 ## PowerShell 
 
+- [adaudit](https://github.com/phillips321/adaudit) - Powershell script to do domain auditing automation
 - [THRecon](https://github.com/TonyPhipps/THRecon) - Threat Hunting Reconnaissance Toolkit
 - [WINspect](https://github.com/A-mIn3/WINspect) - Powershell-based Windows Security Auditing Toolbox
 - [JAWS](https://github.com/411Hall/JAWS) - JAWS - Just Another Windows (Enum) Script
@@ -731,8 +739,12 @@
 
 ## Python 
 
+- [arm_now](https://github.com/nongiach/arm_now) - arm_now is a qemu powered tool that allows instant setup of VM for reversing/running binaries built for different CPU architectures.
+- [SMBrute](https://github.com/m4ll0k/SMBrute) - SMB Protocol Bruteforce
+- [RTA](https://github.com/flipkart-incubator/RTA) - Red team Arsenal - An intelligent scanner to detect security vulnerabilities in company's layer 7 assets.
+- [CredKing](https://github.com/ustayready/CredKing) - Password spraying using AWS Lambda for IP rotation
 - [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
-- [DomainRecon](https://github.com/x73x61x6ex6ax61x79/DomainRecon) - 
+- [DomainRecon](https://github.com/x73x61x6ex6ax61x79/DomainRecon) - Based on URL, collect the subdomains using various tools like Sublist3r, recon-ng etc.. And check for subdomain take over and Run the EyeWitness to take the screenshot of all the found subdomains.
 - [DomLink](https://github.com/vysec/DomLink) - A tool to link a domain with registered organisation names and emails, to other domains.
 - [Astra](https://github.com/flipkart-incubator/Astra) - Automated Security Testing For REST API's
 - [Sanitiz3r](https://github.com/sawzeeyy/Sanitiz3r) - A python script that filters, checks the validity, generates clickable link(s) of subdomain(s), and reports their status
@@ -803,7 +815,7 @@
 - [objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [DirtyTooth-RaspberryPi](https://github.com/ElevenPaths/DirtyTooth-RaspberryPi) - 
 - [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target. If you want to ask something please feel free to reach out to me at sharad@osint-spy.com
-- [ThunderShell](https://github.com/Mr-Un1k0d3r/ThunderShell) - PowerShell based RAT
+- [ThunderShell](https://github.com/Mr-Un1k0d3r/ThunderShell) - Python / PowerShell based RAT
 - [tinfoleak](https://github.com/espi0n/tinfoleak) - Get detailed information about a Twitter user activity
 - [redsails](https://github.com/BeetleChunks/redsails) - RedSails is a Python based post-exploitation project aimed at bypassing host based security monitoring and logging. DerbyCon 2017 Talk: https://www.youtube.com/watch?v=Ul8uPvlOsug
 - [domato](https://github.com/google/domato) - DOM fuzzer
@@ -823,7 +835,6 @@
 - [canisrufus](https://github.com/maldevel/canisrufus) - A stealthy Python based Windows backdoor that uses Github as a command and control server
 - [CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 - [ReconScan](https://github.com/RoliSoft/ReconScan) - Network reconnaissance and vulnerability assessment tools.
-- [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [PowerLessShell](https://github.com/Mr-Un1k0d3r/PowerLessShell) - Run PowerShell command without invoking powershell.exe
 - [nWatch](https://github.com/rootlabs/nWatch) - 🔍 Tool for - Host Discovery, Port Scanning and Operating System Fingerprinting
 - [the-backdoor-factory](https://github.com/secretsquirrel/the-backdoor-factory) - Patch PE, ELF, Mach-O binaries with shellcode (NOT Supported)
@@ -901,6 +912,7 @@
 - [tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
 - [Zulu](https://github.com/nccgroup/Zulu) - The Zulu fuzzer
 - [plasma](https://github.com/plasma-disassembler/plasma) - Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
+- [exploits](https://github.com/kacperszurek/exploits) - 
 - [trsh](https://github.com/fnzv/trsh) - Telegram Remote-Shell
 - [pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications
 - [WinHotspot](https://github.com/Chan9390/WinHotspot) - A free open source python program to start WiFi hotspot in Windows without any external software
@@ -1131,7 +1143,7 @@
 - [AndroBugs_Framework](https://github.com/AndroBugs/AndroBugs_Framework) - AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or hackers find potential security vulnerabilities in Android applications. No need to install on Windows.
 - [androguard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)
 - [3DSX-IDA-PRO-Loader](https://github.com/0xEBFE/3DSX-IDA-PRO-Loader) - IDA PRO Loader for 3DSX files
-- [angr](https://github.com/angr/angr) - The next-generation binary analysis platform from UC Santa Barbara's Seclab!
+- [angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [antivmdetection](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder
 - [DET](https://github.com/sensepost/DET) - (extensible) Data Exfiltration Toolkit (DET)
 - [API-InstagramLocation](https://github.com/PaulSec/API-InstagramLocation) - Python OSINT Tool to retrieve pictures from a specific location using Instagram API
@@ -1368,6 +1380,7 @@
 - [lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
 - [cs-suite](https://github.com/SecurityFTW/cs-suite) - Cloud Security Suite - One stop tool for auditing the security posture of AWS & GCP infrastructure.
 - [Installer](https://github.com/OnionDecoy/Installer) - A platform to run private unannounced Honeypots as Tor Hidden Services (aka Onion Decoys) inside the Tor Network.
+- [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [mpc](https://github.com/g0tmi1k/mpc) - MSFvenom Payload Creator (MSFPC)
 - [tornado](https://github.com/rebellionil/tornado) - All in one MITM tool .
 - [testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
