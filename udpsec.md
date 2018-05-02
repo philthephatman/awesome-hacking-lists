@@ -72,11 +72,12 @@
 
 ## AutoHotkey 
 
+- [smpic](https://github.com/kookob/smpic) - Windows下面的SM.MS图床上传工具
 - [qimage-win](https://github.com/jiwenxing/qimage-win) - windows版本markdown一键贴图工具，支持本地文件、截图、网络图片一键上传七牛云并返回图片引用，让markdown中贴图变成一种享受。
 
 ## Batchfile 
 
-- [fuckcdn](https://github.com/Tai7sy/fuckcdn) - CDN真实IP扫描，易语言开发高效率，鄙视一波python和shell脚本
+- [fuckcdn](https://github.com/Tai7sy/fuckcdn) - CDN真实IP扫描，易语言开发
 - [APTSimulator](https://github.com/NextronSystems/APTSimulator) - A toolset to make a system look as if it was the victim of an APT attack
 - [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) - Revoke China certificates.
 - [domain-admin-crack](https://github.com/auspbro/domain-admin-crack) - :cactus: 入域电脑用户本地提权
@@ -160,7 +161,6 @@
 - [ios-kexec-utils](https://github.com/axi0mX/ios-kexec-utils) - boot LLB/iBoot/iBSS/iBEC image from a jailbroken iOS kernel
 - [filewatcher](https://github.com/meliot/filewatcher) - A simple auditing utility for macOS
 - [HSEVD-ArbitraryOverwrite](https://github.com/Cn33liz/HSEVD-ArbitraryOverwrite) - HackSys Extreme Vulnerable Driver -  ArbitraryOverwrite Exploit
-- [Pcap_DNSProxy](https://github.com/chengr28/Pcap_DNSProxy) - Pcap_DNSProxy, a local DNS server based on WinPcap and LibPcap
 - [sudo-CVE-2017-1000367](https://github.com/c0d3z3r0/sudo-CVE-2017-1000367) - 
 - [linux-exploits](https://github.com/maya6/linux-exploits) - exploits
 - [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.
@@ -222,6 +222,8 @@
 
 ## C# # 
 
+- [WSSAT](https://github.com/YalcinYolalan/WSSAT) - WEB SERVICE SECURITY ASSESSMENT TOOL
+- [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 - [SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
 - [Destroy-Windows-10-Spying](https://github.com/Nummer/Destroy-Windows-10-Spying) - Destroy Windows Spying tool
 - [PenCrawLer](https://github.com/TheM4hd1/PenCrawLer) - An Advanced Web Crawler and DirBuster
@@ -314,6 +316,7 @@
 - [HackSysDriverExploits](https://github.com/sam-b/HackSysDriverExploits) - 
 - [psi](https://github.com/psi-im/psi) - XMPP client
 - [librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
+- [Pcap_DNSProxy](https://github.com/chengr28/Pcap_DNSProxy) - Pcap_DNSProxy, a local DNS server based on WinPcap and LibPcap
 - [AV_Kernel_Vulns](https://github.com/bee13oy/AV_Kernel_Vulns) - Pocs for Antivirus Software‘s Kernel Vulnerabilities
 - [captcha-break](https://github.com/nladuo/captcha-break) - captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.
 - [From-System-authority-to-Medium-authority](https://github.com/3gstudent/From-System-authority-to-Medium-authority) - Penetration test
@@ -390,10 +393,11 @@
 
 ## Go 
 
+- [goproxy](https://github.com/snail007/goproxy) - Proxy is a high performance HTTP(S), websocket, TCP, UDP, Socks5 proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,集成外部API。
 - [overture](https://github.com/shawn1m/overture) - A DNS server/forwarder/dispatcher written in Go
 - [gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
 - [telegramd](https://github.com/nebulaim/telegramd) - Unofficial open source telegram server written in golang
-- [subfinder](https://github.com/Ice3man543/subfinder) - SubFinder is a subdomain discovery tool that can discover massive amounts of valid subdomains for any target. It has a simple modular architecture and has been aimed as a successor to sublist3r project.
+- [subfinder](https://github.com/Ice3man543/subfinder) - SubFinder is a subdomain discovery tool that can enumerate massive amounts of valid subdomains for any target. It has a simple modular architecture and has been aimed as a successor to sublist3r project.
 - [app-env-docker](https://github.com/baidu-security/app-env-docker) - 基于 Docker 的真实应用测试环境
 - [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [rfd-checker](https://github.com/dsopas/rfd-checker) - RFD Checker - security CLI tool to test Reflected File Download issues
@@ -509,6 +513,7 @@
 
 ## HTML 
 
+- [JavaWiki](https://github.com/iwannarun/JavaWiki) - 不定期收集与JAVA有关书籍或文章
 - [shiro-example](https://github.com/zhangkaitao/shiro-example) - 跟我学Shiro（我的公众号：kaitao-1234567，我的新书：《亿级流量网站架构核心技术》）
 - [fuzzdb](https://github.com/tennc/fuzzdb) - 一个fuzzdb扩展库
 - [wordpress-vulscan](https://github.com/SkullTech/wordpress-vulscan) - WordPress vulnerability scanner
@@ -693,6 +698,8 @@
 
 ## JavaScript 
 
+- [InsectsAwake](https://github.com/jeffzh3ng/InsectsAwake) - Network Vulnerability Scanner
+- [DeerResume](https://github.com/geekcompany/DeerResume) - MarkDown在线简历工具，可在线预览、编辑和生成PDF。[DeerCV.com随时可能登陆不上，请备份数据]
 - [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by electron-vue
 - [marktext](https://github.com/marktext/marktext) - 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.
 - [userguide](https://github.com/UbuntuBar/userguide) - Ubuntu 吧用户指南
@@ -974,6 +981,9 @@
 
 ## Others 
 
+- [kali-linux-cheatsheet](https://github.com/NoorQureshi/kali-linux-cheatsheet) - Kali Linux Cheat Sheet for Penetration Testers
+- [50weekly](https://github.com/ihtml5/50weekly) - 50weekly 发现高质量的前端资源  第九周内容已更新
+- [The-Security-Handbook-Kali-Linux](https://github.com/DictionaryHouse/The-Security-Handbook-Kali-Linux) - A useful reference guide and a handbook of security basics for those starting out.
 - [Cyberspace_Security_Learning](https://github.com/q1271964185/Cyberspace_Security_Learning) - 在学习CTF、网络安全路上整合自己博客和一些资料，持续更新~
 - [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) - 网络空间安全相关的RSS订阅
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
@@ -996,7 +1006,7 @@
 - [software](https://github.com/mafutian/software) - 破解版工具/软件
 - [Vulnerability-Env](https://github.com/omg2hei/Vulnerability-Env) - 收集国内外开源CMS存在漏洞的各种版本
 - [various_domain_list](https://github.com/neoFelhz/various_domain_list) - A various list of domain
-- [crash-course-computer-science-chinese](https://github.com/1c7/crash-course-computer-science-chinese) - :fire: 计算机科学速成课 | Crash Course Computer Science （1c7/Cheng Zheng 是翻译@糖醋陈皮）
+- [crash-course-computer-science-chinese](https://github.com/1c7/crash-course-computer-science-chinese) - :computer: 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)
 - [GFWdata](https://github.com/passling/GFWdata) - 个人收集整理科学上网的资料,保持更新,原项目误删了,PR别人也没反应,现在fork回来继续更
 - [tenant-point](https://github.com/soulteary/tenant-point) - 租房要点，适用于北上广深杭，欢迎补充。
 - [awesome-vmp](https://github.com/lmy375/awesome-vmp) - 虚拟机分析相关资料
@@ -1052,7 +1062,7 @@
 - [awesome-chatbot-list](https://github.com/fateleak/awesome-chatbot-list) - 最酷的深度学习聊天机器人资源集合 Awesome chatbot resource list
 - [vTemplate](https://github.com/KiriKira/vTemplate) - v2ray的模板们
 - [awesome-bots](https://github.com/abdelhai/awesome-bots) - Awesome Links about bots.
-- [NSMindMap](https://github.com/MiYogurt/NSMindMap) - 网络安全基础知识思维导图
+- [NSMindMap](https://github.com/MiYogurt/NSMindMap) - ☯️ 网络安全基础知识思维导图、大学笔记（Network security Mind Map）
 - [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks) - A Collection of Hacks in IoT Space so that we can address them (hopefully).
 - [articles-translator](https://github.com/neal1991/articles-translator) - :books:Translate the distinct technical blogs. Please star or watch. Welcome to join me.
 - [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) - This repo contains hourly-updated data dumps of Hackerone/Bugcrowd scopes that are eligible for reports
@@ -1289,6 +1299,7 @@
 
 ## PHP 
 
+- [Bigfa](https://github.com/jozhn/Bigfa) - Typecho简约但精致的主题。A theme for Typecho
 - [weblogger](https://github.com/wupco/weblogger) - 针对ctf线下赛流量抓取(php)、真实环境流量抓取分析的工具
 - [url-shorter](https://github.com/littleplus/url-shorter) - A modern, safe and simple url shorter
 - [ysfaka](https://github.com/assimon/ysfaka) - 新版自动发卡系统
@@ -1453,6 +1464,12 @@
 
 ## Python 
 
+- [WinPwnage](https://github.com/rootm0s/WinPwnage) - 💻 Elevate, UAC bypass, persistence, privilege escalation, dll hijack techniques
+- [Gitmails](https://github.com/giovanifss/Gitmails) - An information gathering tool to collect git commit emails in version control host services
+- [WHP](https://github.com/51x/WHP) - Micro$oft Windows Hacking Pack
+- [ProxyPool](https://github.com/Nyloner/ProxyPool) - 高匿代理IP池
+- [GetExpiredDomains](https://github.com/3gstudent/GetExpiredDomains) - Search for available domain from expireddomains.net
+- [CVE-2018-7600](https://github.com/pimps/CVE-2018-7600) - Exploit for Drupal 7 &lt;= 7.57 CVE-2018-7600
 - [jni_helper](https://github.com/feicong/jni_helper) - Android SO自动化分析工具
 - [hackbox](https://github.com/samhaxr/hackbox) - HackBox is the combination of awesome techniques.
 - [AsyncHttpsDNS](https://github.com/lifetyper/AsyncHttpsDNS) - DNS Over Https Powered By Asyncio
@@ -2273,6 +2290,8 @@
 
 ## Shell 
 
+- [optimize-ubuntu](https://github.com/bitleaf/optimize-ubuntu) - Optimize Ubuntu for usability, security, privacy and stability
+- [AutoNSE](https://github.com/m4ll0k/AutoNSE) - Massive NSE (Nmap Scripting Engine) AutoSploit and AutoScanner
 - [ant](https://github.com/uxbug/ant) - Linux服务器信息收集脚本
 - [blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
 - [Block-IPs-from-countries](https://github.com/YKilin/Block-IPs-from-countries) - A linux bash script help you block or unblock IPs from countries
@@ -2281,7 +2300,7 @@
 - [Archlinux-Installer](https://github.com/si9ma/Archlinux-Installer) - Arch Linux Installer
 - [dotfiles-and-scripts](https://github.com/Karmenzind/dotfiles-and-scripts) - dotfiles and scripts
 - [twisted-honeypots](https://github.com/lanjelot/twisted-honeypots) - SSH, FTP and Telnet honeypots based on Twisted
-- [ArchWSL](https://github.com/yuk7/ArchWSL) - Install ArchLinux as a WSL Instance and Launch it (for Windows 10 FCU 64bit or later)
+- [ArchWSL](https://github.com/yuk7/ArchWSL) - Install ArchLinux as a WSL Instance (for Windows 10 FCU 64bit or later)
 - [filebrowser](https://github.com/233boy/filebrowser) - Filebrowser 一键安装脚本
 - [lnmp](https://github.com/licess/lnmp) - Auto compile and install LNMP/LNMPA/LAMP on CentOS/RHEL/Fedora/Aliyun/Amazon,Debian/Ubuntu/Raspbian/Deepin/Mint Linux. Easy install,upgrade and use.
 - [CloudFlare_DNS_Record](https://github.com/nanqinlang-script/CloudFlare_DNS_Record) - Script to modify DNS Record via CloudFlare
@@ -2356,7 +2375,7 @@
 - [gfwlist2privoxy](https://github.com/zfl9/gfwlist2privoxy) - gfwlist2privoxy shell脚本，自动转换为privoxy的格式
 - [vps2arch](https://github.com/drizzt/vps2arch) - The fastest way to convert a VPS to Arch Linux!
 - [docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
-- [china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IP地址库(每日更新)
+- [china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IP地址库-每日更新
 - [searx-with-dnscrypt](https://github.com/veerendra2/searx-with-dnscrypt) - Searx metadata search engine meets dnscrypt in Docker
 - [script](https://github.com/oooldking/script) - Some Linux scripts
 - [adapta-kde](https://github.com/PapirusDevelopmentTeam/adapta-kde) - Adapta KDE customization
@@ -2419,7 +2438,7 @@
 - [linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [remastersys](https://github.com/mutse/remastersys) - Remastersys Tool for Backup Your Ubuntu System
 - [debian-custom-iso-scripts](https://github.com/weaknetlabs/debian-custom-iso-scripts) - These are scripts I made to help with the design and customization of a Debian ISO (Primarily WeakerThan Linux)
-- [LinuxRespin](https://github.com/ch1x0r/LinuxRespin) - Fork of remastersys - updates
+- [LinuxRespin](https://github.com/ch1x0r/LinuxRespin) - Official Fork of remastersys - updates
 - [STIG-4-Debian](https://github.com/hardenedlinux/STIG-4-Debian) - Security Technical Implementation Guide for Debian
 - [hack_tools_for_me](https://github.com/rootphantomer/hack_tools_for_me) - 自己为了方便收集的小工具
 - [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script. See also https://github.com/riobard/zsh-powerline

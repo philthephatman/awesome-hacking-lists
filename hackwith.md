@@ -223,7 +223,7 @@
 
 ## Go 
 
-- [subfinder](https://github.com/Ice3man543/subfinder) - SubFinder is a subdomain discovery tool that can discover massive amounts of valid subdomains for any target. It has a simple modular architecture and has been aimed as a successor to sublist3r project.
+- [subfinder](https://github.com/Ice3man543/subfinder) - SubFinder is a subdomain discovery tool that can enumerate massive amounts of valid subdomains for any target. It has a simple modular architecture and has been aimed as a successor to sublist3r project.
 - [Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) - Golang for Security Professionals
 - [gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [SubOver](https://github.com/Ice3man543/SubOver) - A Powerful Subdomain Takeover Tool
@@ -323,6 +323,7 @@
 
 ## Java 
 
+- [BudHook](https://github.com/bmax121/BudHook) - An Android hook framework written like Xposed,based on YAHFA.
 - [modjoda](https://github.com/modzero/modjoda) - Java Object Deserialization on Android
 - [pivaa](https://github.com/HTBridge/pivaa) - Created by High-Tech Bridge, the Purposefully Insecure and Vulnerable Android Application (PIVAA) replaces outdated DIVA for benchmark of mobile vulnerability scanners.
 - [backslash-powered-scanner](https://github.com/PortSwigger/backslash-powered-scanner) - Finds unknown classes of injection vulnerabilities
@@ -459,7 +460,7 @@
 
 ## Objective-C 
 
-- [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic
+- [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall that aims to block unauthorized (outgoing) network traffic
 - [macOS-10.12.2-Exp-via-mach_voucher](https://github.com/zhengmin1989/macOS-10.12.2-Exp-via-mach_voucher) - Local Privilege Escalation for macOS 10.12.2 via mach_voucher and XNU port Feng Shui
 - [Keychain-Dumper](https://github.com/ptoomey3/Keychain-Dumper) - A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken
 - [OS-X-10.11.6-Exp-via-PEGASUS](https://github.com/zhengmin1989/OS-X-10.11.6-Exp-via-PEGASUS) - Local privilege escalation for OS X 10.11.6 via PEGASUS
@@ -933,7 +934,7 @@
 - [dockerscan](https://github.com/cr0hn/dockerscan) - Docker security analysis & hacking tools
 - [cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
 - [spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot, the open source footprinting and intelligence-gathering  tool.
-- [Veil](https://github.com/Veil-Framework/Veil) - Veil 3.0
+- [Veil](https://github.com/Veil-Framework/Veil) - Veil 3.1.X (Check version info in Veil at runtime)
 - [rext](https://github.com/j91321/rext) - Router EXploitation Toolkit - small toolkit for easy creation and usage of various python scripts that work with embedded devices.
 - [HEVD-Exploits](https://github.com/sizzop/HEVD-Exploits) - Various exploits for the HackSys Extreme Vulnerable Driver
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -1045,7 +1046,7 @@
 - [osint_poc](https://github.com/antitree/osint_poc) - Various OSINT based scripts that demonstrate basic functions of analytics, filtering, and visualizing
 - [IPGeoLocation](https://github.com/maldevel/IPGeoLocation) - Retrieve IP Geolocation information
 - [XssPy](https://github.com/faizann24/XssPy) - XssPy - Web Application XSS Scanner
-- [tlsfuzzer](https://github.com/tomato42/tlsfuzzer) - TLS test suite and fuzzer
+- [tlsfuzzer](https://github.com/tomato42/tlsfuzzer) - SSL and TLS protocol test suite and fuzzer
 - [SimplyEmail](https://github.com/SimplySecurity/SimplyEmail) - Email recon made fast and easy, with a framework to build on
 - [Skype-Maltego-Client](https://github.com/NoobieDog/Skype-Maltego-Client) - A set of local skype transforms for Maltego to utilise Skype and search the directory
 - [PyAnonymousFTP](https://github.com/killswitch-GUI/PyAnonymousFTP) - Anonymous FTP Scanner Script- Generates IP's between two ranges, scans 21 and attempts a anonymous connection
@@ -1436,7 +1437,7 @@
 - [LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
 - [airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
-- [docker-monitor](https://github.com/Kentik/docker-monitor) - Scripts and configuration to help you monitor your Docker containers
+- [docker-monitor](https://github.com/kentik/docker-monitor) - Scripts and configuration to help you monitor your Docker containers
 - [Mobile-MOV-Fuzz](https://github.com/Nexuist/Mobile-MOV-Fuzz) - Automated fuzzing of .mov files on iOS.
 - [lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [vagrant-pentester](https://github.com/p00gz/vagrant-pentester) - Vagrant / Puppet based vulnerable web application suite - needs updating
