@@ -142,7 +142,6 @@
 
 ## C# # 
 
-- [SpookFlare](https://github.com/hlldz/SpookFlare) - Meterpreter loader generator with multiple features for bypassing client-side and network-side countermeasures.
 - [browser-security-whitepaper-2017](https://github.com/x41sec/browser-security-whitepaper-2017) - X41 Browser Security White Paper - Tools and PoCs
 - [PowerShdll](https://github.com/p3nt4/PowerShdll) - Run PowerShell with rundll32. Bypass software restrictions.
 - [inVtero.net](https://github.com/ShaneK2/inVtero.net) - inVtero.net: A high speed (Gbps) Forensics, Memory integrity & assurance.  Includes offensive & defensive memory capabilities.  Find/Extract processes, hypervisors (including nested) in memory dumps using microarchitechture independent Virtual Machiene Introspection techniques
@@ -237,7 +236,7 @@
 - [govwa](https://github.com/0c34/govwa) - 
 - [sg1](https://github.com/evilsocket/sg1) - A wanna be swiss army knife for data encryption, exfiltration and covert communication.
 - [moistpetal](https://github.com/propervillain/moistpetal) - Open source offensive security platform for red team, by red team.
-- [gocrack](https://github.com/fireeye/gocrack) - 
+- [gocrack](https://github.com/fireeye/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
 - [emptynest](https://github.com/empty-nest/emptynest) - 
 - [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
 - [net-Shield](https://github.com/fnzv/net-Shield) - An Easy and Simple Anti-DDoS solution for VPS,Dedicated Servers and IoT devices - Beta
@@ -254,7 +253,7 @@
 - [shadowd](https://github.com/reconquest/shadowd) - Secure login distribution service
 - [gobotnet](https://github.com/andrewaeva/gobotnet) - Pure HTTP and DNS Botnet written in Golang for Windows.
 - [phishery](https://github.com/ryhanson/phishery) - An SSL Enabled Basic Auth Credential Harvester with a Word Document Template URL Injector
-- [lonely-shell](https://github.com/vesche/lonely-shell) - minimal https reverse shell
+- [lonely-shell](https://github.com/vesche/lonely-shell) - poc https reverse shell
 - [audit](https://github.com/genuinetools/audit) - For auditing what collaborators, hooks, and deploy keys you have added on all your GitHub repositories.
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [ec2-vuls-config](https://github.com/ohsawa0515/ec2-vuls-config) - ec2-vuls-config is useful cli to create config file for Vuls in Amazon EC2.
@@ -469,11 +468,11 @@
 
 ## Others 
 
+- [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) - Virtual Machine for Adversary Emulation and Threat Hunting
 - [awesome-firmware-security](https://github.com/PreOS-Security/awesome-firmware-security) - Awesome Firmware Security & Other Helpful Documents
 - [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [AwesomeXSS](https://github.com/UltimateHackers/AwesomeXSS) - Awesome XSS stuff
-- [LeakVM](https://github.com/XekriCorp/LeakVM) - A better way to discover insecure infrastructure
 - [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
 - [assessment-mindset](https://github.com/dsopas/assessment-mindset) - Security Mindmap that could be useful for the infosec community when doing pentest, bug bounty or red-team assessments.
 - [lpeworkshop](https://github.com/sagishahar/lpeworkshop) - Windows / Linux Local Privilege Escalation Workshop
@@ -607,6 +606,7 @@
 
 ## PHP 
 
+- [kurukshetra](https://github.com/a0xnirudh/kurukshetra) - Kurukshetra - A framework for teaching secure coding by means of interactive problem solving.
 - [hashtopolis](https://github.com/s3inlc/hashtopolis) - A Hashcat wrapper for distributed hashcracking
 - [IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, fuzz lists and file uploads
 - [caesarRAT](https://github.com/0blio/caesarRAT) - An HTTP based RAT (Remote Administration Tool) that allows you to remotely control devices from your browser
@@ -740,6 +740,7 @@
 
 ## Python 
 
+- [Bad-Pdf](https://github.com/deepzec/Bad-Pdf) - Steal Net-NTLM Hashes with Bad-PDF
 - [arm_now](https://github.com/nongiach/arm_now) - arm_now is a qemu powered tool that allows instant setup of VM for reversing/running binaries built for different CPU architectures.
 - [SMBrute](https://github.com/m4ll0k/SMBrute) - SMB Protocol Bruteforce
 - [RTA](https://github.com/flipkart-incubator/RTA) - Red team Arsenal - An intelligent scanner to detect security vulnerabilities in company's layer 7 assets.
@@ -799,6 +800,7 @@
 - [caldera](https://github.com/mitre/caldera) - An automated adversary emulation system
 - [cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor) - Enforce ownership and data security within AWS
 - [spaces-finder](https://github.com/appsecco/spaces-finder) - A tool to hunt for publicly accessible DigitalOcean Spaces
+- [SpookFlare](https://github.com/hlldz/SpookFlare) - Loader, dropper generator with multiple features for bypassing client-side and network-side countermeasures.
 - [Tiny-URL-Fuzzer](https://github.com/orangetw/Tiny-URL-Fuzzer) - A tiny and cute URL fuzzer
 - [kernelpop](https://github.com/spencerdodd/kernelpop) - kernel privilege escalation enumeration and exploitation framework
 - [streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
@@ -899,7 +901,6 @@
 - [Forensic-Tools](https://github.com/MonroCoury/Forensic-Tools) - A collection of tools for forensic analysis
 - [WindowsExploits](https://github.com/abatchy17/WindowsExploits) - Windows exploits, mostly precompiled.
 - [PEST](https://github.com/ym2011/PEST) - this is some pentest script based on python, just simple but useful, maybe it can help you do something else. just have a try
-- [pykek](https://github.com/bidord/pykek) - Kerberos Exploitation Kit
 - [VolDiff](https://github.com/aim4r/VolDiff) - VolDiff: Malware Memory Footprint Analysis based on Volatility
 - [IDS-Evasion](https://github.com/ahm3dhany/IDS-Evasion) - Evading Snort Intrusion Detection System.
 - [spoodle](https://github.com/avicoder/spoodle) - A mass subdomain (Subbrute) + poodle vulnerability scanner
@@ -1266,7 +1267,7 @@
 - [PyMal](https://github.com/cysinfo/PyMal) - PyMal is a python based interactive Malware Analysis Framework. It is built on the top of three pure python programes Pefile, Pydbg and Volatility.
 - [vulners-scanner](https://github.com/videns/vulners-scanner) - Vulnerability scanner based on vulners.com audit API
 - [Sysvol_Hunter](https://github.com/MaroGenio/Sysvol_Hunter) - Automating Exploitation Of Sysvol Password Weakness
-- [google_explorer](https://github.com/anarcoder/google_explorer) - Google mass exploit robot in python
+- [google_explorer](https://github.com/anarcoder/google_explorer) - Mass exploitation tool in python
 - [NSAEQGRPFortinetVerify](https://github.com/fnatalucci/NSAEQGRPFortinetVerify) - Tools for check NSA EGBL exploit against Fortinet Firewall
 - [datasploit](https://github.com/DataSploit/datasploit) - An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc.,  aggregate all the raw data, and give data in multiple formats.
 - [python-react](https://github.com/markfinger/python-react) - Server-side rendering of React components
@@ -1276,7 +1277,7 @@
 - [manitree](https://github.com/antitree/manitree) - AndroidManifest.xml security auditor
 - [VolatilityProfileScan](https://github.com/P1kachu/VolatilityProfileScan) - Volatility plugins to determine informations relative to a memory dump
 - [detux](https://github.com/detuxsandbox/detux) - The Multiplatform Linux Sandbox
-- [routersploit](https://github.com/reverse-shell/routersploit) - The Router Exploitation Framework
+- [routersploit](https://github.com/threat9/routersploit) - The Router Exploitation Framework
 - [SimpleEmailSpoofer](https://github.com/lunarca/SimpleEmailSpoofer) - A simple Python CLI to spoof emails.
 - [waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [fierce](https://github.com/mschwager/fierce) - A DNS reconnaissance tool for locating non-contiguous IP space.
@@ -1367,6 +1368,7 @@
 
 ## Shell 
 
+- [HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK
 - [lazyrecon](https://github.com/nahamsec/lazyrecon) - This script is intended to automate your reconnaissance process in an organized fashion
 - [RAI](https://github.com/obscuritylabs/RAI) - Rapid Attack Infrastructure (RAI)
 - [DevSecOps-Studio](https://github.com/teacheraio/DevSecOps-Studio) - Virtual environment for learning DevSecOps
