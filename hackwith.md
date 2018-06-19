@@ -7,6 +7,7 @@
 
   - [Assembly](#assembly)
   - [Batchfile](#batchfile)
+  - [Bro](#bro)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -31,9 +32,11 @@
   - [PHP](#php)
   - [Pascal](#pascal)
   - [Perl](#perl)
+  - [Perl 6](#perl 6)
   - [Perl6](#perl6)
   - [PowerShell](#powershell)
   - [Prolog](#prolog)
+  - [Propeller Spin](#propeller spin)
   - [Python](#python)
   - [Roff](#roff)
   - [Ruby](#ruby)
@@ -42,6 +45,7 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Smali](#smali)
+  - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Visual Basic](#visual basic)
@@ -57,8 +61,14 @@
 - [RDPInception](https://github.com/mdsecactivebreach/RDPInception) - A proof of concept for the RDP Inception Attack
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - A Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 
+## Bro 
+
+- [bro](https://github.com/bro/bro) - Bro is a powerful network analysis framework that is much different from the typical IDS you may know.  Official mirror of git.bro.org/bro.git .
+
 ## C 
 
+- [ble_ctf](https://github.com/hackgnar/ble_ctf) - A Bluetooth low energy capture the flag
+- [DECAF](https://github.com/sycurelab/DECAF) - DECAF(short for Dynamic Executable Code Analysis Framework) is a binary analysis platform based on QEMU.  This is also the home of the DroidScope dynamic Android malware analysis platform. DroidScope is now an extension to DECAF.
 - [iGoat-Swift](https://github.com/OWASP/iGoat-Swift) - OWASP iGoat (Swift) - A Damn Vulnerable Swift Application for iOS
 - [fi6s](https://github.com/sfan5/fi6s) - IPv6 network scanner designed to be fast
 - [igoat](https://github.com/OWASP/igoat) - OWASP iGoat - A Learning Tool for iOS App Pentesting and Security by Swaroop Yermalkar
@@ -116,13 +126,12 @@
 - [AndroidKernelExploitationPlayground](https://github.com/nguyenduc1222/AndroidKernelExploitationPlayground) - 
 - [pcp](https://github.com/TLINDEN/pcp) - Pretty Curved Privacy
 - [naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
-- [t50](https://github.com/fredericopissarra/t50) - mixed packet injector tool
 - [haka](https://github.com/haka-security/haka) - Haka runtime
 - [UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 - [metasploit-payloads](https://github.com/rapid7/metasploit-payloads) - Unified repository for different Metasploit Framework payloads
 - [ctf](https://github.com/trailofbits/ctf) - CTF Field Guide
 - [Android_Kernel_CVE_POCs](https://github.com/ScottyBauer/Android_Kernel_CVE_POCs) - A list of my CVE's with POCs
-- [My-Gray-Hacker-Resources](https://github.com/bt3gl/My-Gray-Hacker-Resources) - Useful for CTFs, wargames, pentesting. Educational purposes. Or for fun. Or profit.
+- [Gray-Hacker-Resources](https://github.com/bt3gl/Gray-Hacker-Resources) - 👾Useful for CTFs, wargames, pentesting. For fun or profit. 👾
 - [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.
 - [revsh](https://github.com/emptymonkey/revsh) - A reverse shell with terminal support, data tunneling, and advanced pivoting capabilities.
 - [exploits](https://github.com/tresacton/exploits) - Exploits that are mostly ready to use. They either require no modification or have been modified and verified as functional.
@@ -167,6 +176,8 @@
 
 ## C++ 
 
+- [GRFICS](https://github.com/djformby/GRFICS) - Graphical Realism Framework for Industrial Control Simulations
+- [anwi](https://github.com/SanketKarpe/anwi) - ANWI - All New Wireless IDS
 - [ProcessHider](https://github.com/M00nRise/ProcessHider) - Post-exploitation tool for hiding processes from monitoring applications
 - [cutter](https://github.com/radareorg/cutter) - A Qt and C++ GUI for radare2 reverse engineering framework
 - [poc-exp](https://github.com/ele7enxxh/poc-exp) - poc or exp of android vulnerability
@@ -207,7 +218,6 @@
 ## CSS 
 
 - [CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
-- [hacker101](https://github.com/Hacker0x01/hacker101) - Hacker101
 - [dvna](https://github.com/appsecco/dvna) - Damn Vulnerable NodeJS Application
 - [trape](https://github.com/boxug/trape) - People tracker on the Internet: Learn to track the world, to avoid being traced.
 - [hashview](https://github.com/hashview/hashview) - A web front-end for password cracking and analytics
@@ -225,6 +235,8 @@
 
 ## Go 
 
+- [malice](https://github.com/maliceio/malice) - VirusTotal Wanna Be - Now with 100% more Hipster
+- [hideNsneak](https://github.com/rmikehodges/hideNsneak) - 
 - [tracy](https://github.com/nccgroup/tracy) - A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
 - [subfinder](https://github.com/Ice3man543/subfinder) - SubFinder is a subdomain discovery tool that can enumerate massive amounts of valid subdomains for any target. It has a simple modular architecture and has been aimed as a successor to sublist3r project.
 - [Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) - Golang for Security Professionals
@@ -236,7 +248,6 @@
 - [gOSINT](https://github.com/Nhoya/gOSINT) - OSINT framework in Go
 - [goWAPT](https://github.com/dzonerzy/goWAPT) - Go Web Application Penetration Test
 - [amass](https://github.com/caffix/amass) - In-depth subdomain enumeration written in Go
-- [merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.
 - [govwa](https://github.com/0c34/govwa) - 
 - [sg1](https://github.com/evilsocket/sg1) - A wanna be swiss army knife for data encryption, exfiltration and covert communication.
 - [moistpetal](https://github.com/propervillain/moistpetal) - Open source offensive security platform for red team, by red team.
@@ -244,6 +255,7 @@
 - [emptynest](https://github.com/empty-nest/emptynest) - 
 - [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
 - [net-Shield](https://github.com/fnzv/net-Shield) - An Easy and Simple Anti-DDoS solution for VPS,Dedicated Servers and IoT devices - Beta
+- [gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 - [clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
 - [hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools is a utility that disables a number of risky Windows features.
 - [zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool
@@ -290,6 +302,7 @@
 - [cssInjection](https://github.com/dxa4481/cssInjection) - Stealing CSRF tokens with CSS injection (without iFrames)
 - [proof-of-concepts](https://github.com/EdOverflow/proof-of-concepts) - A little collection of fun and creative proof of concepts to demonstrate the potential impact of a security vulnerability.
 - [bugbountyguide](https://github.com/EdOverflow/bugbountyguide) - Bug Bounty Guide is a launchpad for bug bounty programs and bug bounty hunters.
+- [archerysec](https://github.com/archerysec/archerysec) - Open Source Vulnerability Assessment and Management helps developers and pentesters to perform scans and manage vulnerabilities.
 - [DetectionLab](https://github.com/clong/DetectionLab) - Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
 - [security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTPLeaks - All possible ways, a website can leak HTTP requests
@@ -328,6 +341,10 @@
 
 ## Java 
 
+- [replicator](https://github.com/PortSwigger/replicator) - Burp extension to help developers replicate findings from pen tests
+- [mallet](https://github.com/sensepost/mallet) - 
+- [Walrus](https://github.com/TeamWalrus/Walrus) - An Android app that lets you use your access control card cloning devices in the field.
+- [DeepViolet](https://github.com/spoofzu/DeepViolet) - Tool for introspection of SSL\TLS sessions
 - [uitkyk](https://github.com/brompwnie/uitkyk) - Runtime memory analysis framework to identify Android malware
 - [BudHook](https://github.com/bmax121/BudHook) - An Android hook framework written like Xposed,based on YAHFA.
 - [modjoda](https://github.com/modzero/modjoda) - Java Object Deserialization on Android
@@ -338,7 +355,7 @@
 - [simplify](https://github.com/CalebFenton/simplify) - Generic Android Deobfuscator
 - [reflector](https://github.com/elkokc/reflector) - Burp plugin able to find reflected XSS on page in real-time while browsing on site
 - [burplay](https://github.com/SpiderLabs/burplay) - Burplay is a Burp Extension allowing for replaying any number of requests using same modifications definition. Its main purpose is to aid in searching for Privilege Escalation issues.
-- [HandyCollaborator](https://github.com/federicodotta/HandyCollaborator) - Burp Suite plugin created for using Collaborator tool during manual testing
+- [HandyCollaborator](https://github.com/federicodotta/HandyCollaborator) - Burp Suite plugin created for using Collaborator tool during manual testing in a comfortable way!
 - [android-vts](https://github.com/AndroidVTS/android-vts) - Android Vulnerability Test Suite - In the spirit of open data collection, and with the help of the community, let's take a pulse on the state of Android security. NowSecure presents an on-device app to test for recent device vulnerabilities.
 - [threadfix](https://github.com/denimgroup/threadfix) - ThreadFix is a software vulnerability aggregation and management system that helps organizations aggregate vulnerability data, generate virtual patches, and interact with software defect tracking systems.
 - [csp-auditor](https://github.com/GoSecure/csp-auditor) - Burp and ZAP plugin to analyse Content-Security-Policy headers or generate template CSP configuration from crawling a Website
@@ -348,7 +365,7 @@
 - [burp-vulners-scanner](https://github.com/vulnersCom/burp-vulners-scanner) - Vulnerability scanner based on vulners.com search API
 - [owasp-orizon](https://github.com/thesp0nge/owasp-orizon) - Owasp Orizon is a source code static analyzer tool designed to spot security issues in Java applications.
 - [xssValidator](https://github.com/nVisium/xssValidator) - This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.
-- [PwnBack](https://github.com/k4ch0w/PwnBack) - Burp Extender plugin that generates a sitemap of a website using Wayback Machine
+- [PwnBack](https://github.com/P3GLEG/PwnBack) - Burp Extender plugin that generates a sitemap of a website using Wayback Machine
 - [zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
 - [Burp-Non-HTTP-Extension](https://github.com/summitt/Burp-Non-HTTP-Extension) - Non-HTTP Protocol Extension (NoPE) Proxy and DNS for Burp Suite.
 - [IIS-ShortName-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) - latest version of scanners for IIS short filename (8.3) disclosure vulnerability
@@ -376,13 +393,14 @@
 
 ## JavaScript 
 
+- [DockerSecurityPlayground](https://github.com/giper45/DockerSecurityPlayground) - A Microservices-based framework for the study of network security
+- [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [r2frida](https://github.com/nowsecure/r2frida) - Radare2 and Frida better together.
 - [bountydash](https://github.com/avlidienbrunn/bountydash) - BountyDash is a tool to combine your rewards from all platforms, giving you insights about your progress and bug hunting patterns.
 - [StaCoAn](https://github.com/vincentcox/StaCoAn) - StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.
 - [DVHMA](https://github.com/logicalhacking/DVHMA) - Damn Vulnerable Hybrid Mobile App (DVHMA) is an hybrid mobile app (for Android) that intentionally contains vulnerabilities.
 - [JStillery](https://github.com/mindedsecurity/JStillery) - Advanced JavaScript Deobfuscation via Partial Evaluation
 - [DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator) - Data exfiltration over DNS request covert channel
-- [archerysec](https://github.com/archerysec/archerysec) - Open Source Vulnerability Assessment and Management helps developers and pentesters to perform scans and manage vulnerabilities.
 - [pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
 - [Seccubus](https://github.com/schubergphilis/Seccubus) - Easy automated vulnerability scanning, reporting and analysis
 - [Thalos](https://github.com/ecleipteon/Thalos) - Secure approach to secure file storage in untrusted environments.
@@ -478,11 +496,13 @@
 
 ## Others 
 
+- [ada](https://github.com/ANELKAOS/ada) - Android Automation Tool
+- [Dejavu](https://github.com/bhdresh/Dejavu) - DejaVU - Open Source Deception Framework
 - [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) - Virtual Machine for Adversary Emulation and Threat Hunting
 - [awesome-firmware-security](https://github.com/PreOS-Security/awesome-firmware-security) - Awesome Firmware Security & Other Helpful Documents
 - [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
-- [AwesomeXSS](https://github.com/UltimateHackers/AwesomeXSS) - Awesome XSS stuff
+- [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) - Awesome XSS stuff
 - [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
 - [assessment-mindset](https://github.com/dsopas/assessment-mindset) - Security Mindmap that could be useful for the infosec community when doing pentest, bug bounty or red-team assessments.
 - [lpeworkshop](https://github.com/sagishahar/lpeworkshop) - Windows / Linux Local Privilege Escalation Workshop
@@ -588,7 +608,7 @@
 - [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
 - [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 - [awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
-- [awesome-reversing](https://github.com/fdivrp/awesome-reversing) - A curated list of awesome reversing resources
+- [awesome-reversing](https://github.com/tylerha97/awesome-reversing) - A curated list of awesome reversing resources
 - [awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
@@ -615,6 +635,7 @@
 
 ## PHP 
 
+- [ektotal](https://github.com/nao-sec/ektotal) - [BHUSA 2018 Arsenal] Integrated tool to analyze Drive-by Download attack
 - [kurukshetra](https://github.com/a0xnirudh/kurukshetra) - Kurukshetra - A framework for teaching secure coding by means of interactive problem solving.
 - [hashtopolis](https://github.com/s3inlc/hashtopolis) - A Hashcat wrapper for distributed hashcracking
 - [IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, fuzz lists and file uploads
@@ -640,7 +661,7 @@
 - [octopus](https://github.com/aszone/octopus) - Is a project of file for attack other sites on server.
 - [regexp-security-cheatsheet](https://github.com/attackercan/regexp-security-cheatsheet) - 
 - [dvws](https://github.com/snoopysecurity/dvws) - Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities.
-- [SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
+- [SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
 - [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 - [Wordpress-scanner](https://github.com/RamadhanAmizudin/Wordpress-scanner) - Wordpress Vulnerability Scanner
@@ -656,7 +677,7 @@
 
 ## Perl 
 
-- [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ best tool for Information Gathering 🔎
+- [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
 - [XAttacker](https://github.com/Moham3dRiahi/XAttacker) - X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
 - [psad](https://github.com/mrash/psad) - psad: Intrusion Detection and Log Analysis with iptables
 - [dnsenum](https://github.com/fwaeytens/dnsenum) - dnsenum is a perl script that enumerates DNS information
@@ -677,6 +698,10 @@
 - [dvcs-ripper](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG...
 - [nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 
+## Perl 6 
+
+- [joomscan](https://github.com/rezasp/joomscan) - OWASP Joomla Vulnerability Scanner Project
+
 ## Perl6 
 
 - [IoTSeeker](https://github.com/rapid7/IoTSeeker) - Created by Jin Qian via the GitHub Connector
@@ -689,9 +714,10 @@
 - [JAWS](https://github.com/411Hall/JAWS) - JAWS - Just Another Windows (Enum) Script
 - [mimikittenz](https://github.com/putterpanda/mimikittenz) - A post-exploitation powershell tool for extracting juicy info from memory.
 - [NetRipper](https://github.com/NytroRST/NetRipper) - NetRipper - Smart traffic sniffing for penetration testers
+- [merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.
 - [ADRecon](https://github.com/sense-of-security/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
 - [ANGRYPUPPY](https://github.com/vysec/ANGRYPUPPY) - Bloodhound Attack Path Automation in CobaltStrike
-- [WMIOps](https://github.com/ChrisTruncer/WMIOps) - This repo is for WMIOps, a powershell script which uses WMI for various purposes across a network.
+- [WMIOps](https://github.com/FortyNorthSecurity/WMIOps) - This repo is for WMIOps, a powershell script which uses WMI for various purposes across a network.
 - [Invoke-SocksProxy](https://github.com/p3nt4/Invoke-SocksProxy) - Socks proxy server using powershell.
 - [ACE](https://github.com/Invoke-IR/ACE) - Automated, Collection, and Enrichment Platform
 - [FruityC2](https://github.com/xtr4nge/FruityC2) - FruityC2 is a post-exploitation (and open source) framework based on the deployment of agents on compromised machines. Agents are managed from a web interface under the control of an operator.
@@ -747,17 +773,35 @@
 
 - [owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) - OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository)
 
+## Propeller Spin 
+
+- [jtagulator](https://github.com/grandideastudio/jtagulator) - JTAGulator: Assisted discovery of on-chip debug interfaces
+
 ## Python 
 
+- [house](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
+- [ICU](https://github.com/003random/ICU) - An Extended, Modulair, Host Discovery Framework
+- [BeRoot](https://github.com/AlessandroZ/BeRoot) - Privilege Escalation Project - Windows / Linux / Mac
+- [trommel](https://github.com/CERTCC/trommel) - TROMMEL: Sift Through Embedded Device Files to Identify Potential Vulnerable Indicators
+- [machine_learning_security](https://github.com/13o-bbr-bbq/machine_learning_security) - Source code about machine learning and security.
+- [bta](https://github.com/airbus-seclab/bta) - Open source Active Directory security audit framework.
+- [chiron-elk](https://github.com/jzadeh/chiron-elk) - 
+- [Chiron](https://github.com/aatlasis/Chiron) - Chiron - An IPv6 Security Assessment framework with advanced IPv6 Extension Headers manipulation capabilities.
+- [armory](https://github.com/depthsecurity/armory) - 
+- [fwaudit](https://github.com/PreOS-Security/fwaudit) - Platform Firmware Auditing Tool
+- [tumblerf](https://github.com/riverloopsec/tumblerf) - tumbleRF: a unified fuzzing framework for low-level RF and HW protocol/PHY/MAC analysis
+- [rastrea2r](https://github.com/rastrea2r/rastrea2r) - Collecting & Hunting for IOCs with gusto and style
+- [adversarial-robustness-toolbox](https://github.com/IBM/adversarial-robustness-toolbox) - This is a library dedicated to adversarial machine learning. Its purpose is to allow rapid crafting and analysis of attacks and defense methods for machine learning models. The Adversarial Robustness Toolbox provides an implementation for many state-of-the-art methods for attacking and defending classifiers. https://developer.ibm.com/code/open/projects/adversarial-robustness-toolbox/
+- [Resilient-ML-Research-Platform](https://github.com/intel/Resilient-ML-Research-Platform) - 
 - [AggressorScripts](https://github.com/harleyQu1nn/AggressorScripts) - Collection of Aggressor scripts for Cobalt Strike 3.0+ pulled from multiple sources
 - [s3-inspector](https://github.com/kromtech/s3-inspector) - Tool to check AWS S3 bucket permissions
-- [shellen](https://github.com/merrychap/shellen) - Interactive shellcoding environment to easily craft shellcodes
+- [shellen](https://github.com/merrychap/shellen) - :cherry_blossom: Interactive shellcoding environment to easily craft shellcodes
 - [watchdog](https://github.com/flipkart-incubator/watchdog) - Watchdog - A Comprehensive Security Scanning and a Vulnerability Management Tool.
 - [drupwn](https://github.com/immunIT/drupwn) - Drupal enumeration & exploitation tool
 - [sink-logger](https://github.com/bayotop/sink-logger) - Transparently log all data passed into known JavaScript sinks - Sink Logger extension for Burp.
 - [ShellPop](https://github.com/0x00-0x00/ShellPop) - Pop shells like a master.
 - [Bad-Pdf](https://github.com/deepzec/Bad-Pdf) - Steal Net-NTLM Hashes using Bad-PDF
-- [arm_now](https://github.com/nongiach/arm_now) - arm_now is a qemu powered tool that allows instant setup of VM for reversing/running binaries built for different CPU architectures.
+- [arm_now](https://github.com/nongiach/arm_now) - arm_now is a qemu powered tool that allows instant setup of virtual machines on arm cpu, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose.
 - [SMBrute](https://github.com/m4ll0k/SMBrute) - SMB Protocol Bruteforce
 - [RTA](https://github.com/flipkart-incubator/RTA) - Red team Arsenal - An intelligent scanner to detect security vulnerabilities in company's layer 7 assets.
 - [CredKing](https://github.com/ustayready/CredKing) - Password spraying using AWS Lambda for IP rotation
@@ -772,18 +816,17 @@
 - [ctfr](https://github.com/UnaPibaGeek/ctfr) - Abusing Certificate Transparency logs for getting HTTPS websites subdomains.
 - [S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for open S3 buckets and dump
 - [dotdotslash](https://github.com/jcesarstef/dotdotslash) - Search for Directory Traversal Vulnerabilities
-- [Striker](https://github.com/UltimateHackers/Striker) - Striker is an offensive information and vulnerability scanner.
+- [Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
 - [EvilOSX](https://github.com/Marten4n6/EvilOSX) - A pure python, post-exploitation, RAT (Remote Administration Tool) for macOS / OSX.
 - [msdat](https://github.com/quentinhardy/msdat) - MSDAT: Microsoft SQL Database Attacking Tool
 - [One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetration testing operations
-- [TopHat](https://github.com/Eitenne/TopHat) - Fully undetected backdoor with RSA Encrypted shell
 - [hate_crack](https://github.com/trustedsec/hate_crack) - A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
 - [ID-entify](https://github.com/BillyV4/ID-entify) - Search for information related to a domain: Emails - IP addresses - Domains - Information on WEB technology - Type of Firewall - NS and MX records - Nmap to IP addresses and Domains.
 - [InSpy](https://github.com/gojhonny/InSpy) - A LinkedIn enumeration tool
 - [elasticintel](https://github.com/securityclippy/elasticintel) - Serverless, low cost, threat intel aggregation for enterprise or personal use, backed by ElasticSearch.
 - [LaZagneForensic](https://github.com/AlessandroZ/LaZagneForensic) - Windows passwords decryption from dump files
 - [AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
-- [Minesweeper](https://github.com/codingo/Minesweeper) - A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 5600 malicious cryptocurrency mining domains (cryptojacking).
+- [Minesweeper](https://github.com/codingo/Minesweeper) - A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 6100+ malicious cryptocurrency mining domains (cryptojacking).
 - [lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
 - [CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind by CloudFlare using Internet-wide scan data from Censys.
 - [wavecrack](https://github.com/wavestone-cdt/wavecrack) - Wavestone's web interface for password cracking with hashcat
@@ -887,7 +930,7 @@
 - [owtf](https://github.com/owtf/owtf) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient @owtfp http://owtf.org
 - [pyfiscan](https://github.com/fgeek/pyfiscan) - Free web-application vulnerability and version scanner
 - [security_monkey](https://github.com/Netflix/security_monkey) - Security Monkey
-- [XSStrike](https://github.com/UltimateHackers/XSStrike) - XSStrike is an advanced XSS detection and exploitation suite.
+- [XSStrike](https://github.com/s0md3v/XSStrike) - XSS Scanner equipped with powerful fuzzing engine & intelligent payload generator
 - [ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
 - [DropboxC2C](https://github.com/0x09AL/DropboxC2C) - DropboxC2C is a post-exploitation agent which uses Dropbox Infrastructure for command and control operations.
 - [LFISuite](https://github.com/D35m0nd142/LFISuite) - Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner
@@ -912,9 +955,9 @@
 - [Mimir](https://github.com/NullArray/Mimir) - OSINT Threat Intel Interface
 - [massExpConsole](https://github.com/jm33-m0/massExpConsole) - for concurrent exploiting
 - [gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
-- [CatMyFish](https://github.com/Mr-Un1k0d3r/CatMyFish) - Search for categorized domain
+- [CatMyPhish](https://github.com/Mr-Un1k0d3r/CatMyPhish) - Search for categorized domain
 - [Forensic-Tools](https://github.com/MonroCoury/Forensic-Tools) - A collection of tools for forensic analysis
-- [WindowsExploits](https://github.com/abatchy17/WindowsExploits) - Windows exploits, mostly precompiled.
+- [WindowsExploits](https://github.com/abatchy17/WindowsExploits) - Windows exploits, mostly precompiled. Not being updated. Check https://github.com/SecWiki/windows-kernel-exploits instead.
 - [PEST](https://github.com/ym2011/PEST) - this is some pentest script based on python, just simple but useful, maybe it can help you do something else. just have a try
 - [VolDiff](https://github.com/aim4r/VolDiff) - VolDiff: Malware Memory Footprint Analysis based on Volatility
 - [IDS-Evasion](https://github.com/ahm3dhany/IDS-Evasion) - Evading Snort Intrusion Detection System.
@@ -1326,6 +1369,7 @@
 ## Ruby 
 
 - [envizon](https://github.com/evait-security/envizon) - network visualization tool with focus on red / blue team requirements
+- [hacker101](https://github.com/Hacker0x01/hacker101) - Hacker101
 - [virtual-host-discovery](https://github.com/jobertabma/virtual-host-discovery) - A script to enumerate virtual hosts on a server.
 - [ps1encode](https://github.com/CroweCybersecurity/ps1encode) - Script used to generate and encode a PowerShell based Metasploit payloads.
 - [SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
@@ -1336,7 +1380,6 @@
 - [metasploit-framework](https://github.com/godinezj/metasploit-framework) - Metasploit Framework
 - [aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [pentest-lab](https://github.com/Sliim/pentest-lab) - Pentest Lab on OpenStack with Heat, Chef provisioning and Docker
-- [gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 - [HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability Scanner
 - [yasuo](https://github.com/0xsauby/yasuo) - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network
 - [Cartero](https://github.com/Section9Labs/Cartero) - Cartero - Social Engineering Framework
@@ -1354,7 +1397,7 @@
 - [phishlulz](https://github.com/antisnatchor/phishlulz) - 
 - [commit-watcher](https://github.com/srcclr/commit-watcher) - Find interesting and potentially hazardous commits in git projects
 - [pentest-env](https://github.com/Sliim/pentest-env) - Pentest environment deployer (kali linux + targets) using vagrant and chef.
-- [rubocop](https://github.com/bbatsov/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.
+- [rubocop](https://github.com/rubocop-hq/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.
 - [viproy-voipkit](https://github.com/fozavci/viproy-voipkit) - VIPROY - VoIP Pen-Test Kit for Metasploit Framework
 - [birdwatcher](https://github.com/michenriksen/birdwatcher) - Data analysis and OSINT framework for Twitter
 - [HashData](https://github.com/sam-b/HashData) - A command line Hash Identifying tool.
@@ -1362,7 +1405,7 @@
 - [vsaudit](https://github.com/eurialo/vsaudit) - VOIP Security Audit Framework
 - [XXEinjector](https://github.com/enjoiz/XXEinjector) - Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods.
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
-- [wordpress-exploit-framework](https://github.com/rastating/wordpress-exploit-framework) - A Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
+- [wordpress-exploit-framework](https://github.com/rastating/wordpress-exploit-framework) - A Ruby framework designed to aid in the penetration testing of WordPress systems.
 - [arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
 - [sploitkit](https://github.com/tresacton/sploitkit) - A suite of CLI tools I built to automate some of the tedious parts of exploit development (specifically, crafting Buffer Overflow Exploits)
 - [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner
@@ -1371,7 +1414,7 @@
 
 - [bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
 - [syncookied](https://github.com/LTD-Beget/syncookied) - syn flood protection
-- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - A curated list of linters, code quality checkers, and other static analysis tools  for various programming languages
 
 ## SQLPL 
 
@@ -1383,6 +1426,8 @@
 
 ## Shell 
 
+- [snake](https://github.com/countercept/snake) - snake - a malware storage zoo
+- [MicroRenovator](https://github.com/syncsrc/MicroRenovator) - Pre-OS microcode updater
 - [ReconPi](https://github.com/x1mdev/ReconPi) - ReconPi - A lightweight recon tool that performs extensive scanning with the latest tools.
 - [HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK
 - [lazyrecon](https://github.com/nahamsec/lazyrecon) - This script is intended to automate your reconnaissance process in an organized fashion
@@ -1412,7 +1457,6 @@
 - [dockerrootplease](https://github.com/chrisfosterelli/dockerrootplease) - Gives you root on the hostOS, if you're a member of the 'docker' group.
 - [malrecon](https://github.com/0utrider/malrecon) - MalRecon - Basic Malware Reconnaissance and Analysis Tool
 - [Meterpreter_Paranoid_Mode-SSL](https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL) - Meterpreter Paranoid Mode - SSL/TLS connections
-- [hispagatos-enumerator](https://github.com/ReK2Fernandez/hispagatos-enumerator) - Bash script that runs most of the external enumeration with some logic
 - [oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing of open source software
 - [PenTestKit](https://github.com/maldevel/PenTestKit) - Useful tools and scripts used during Penetration Tests.
 - [Pentest-Scripts](https://github.com/bitvijays/Pentest-Scripts) - Github for the scripts utilised during Penetration test
@@ -1467,6 +1511,10 @@
 ## Smali 
 
 - [kwetza](https://github.com/sensepost/kwetza) - Python script to inject existing Android applications with a Meterpreter payload.
+
+## Swift 
+
+- [DVIA-v2](https://github.com/prateek147/DVIA-v2) - Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetration testing skills in a legal environment. This project is developed and maintained by @prateekg147. The vulnerabilities and solutions covered in this app are tested up to iOS 11. The current version is writen in Swift and has the following vulnerabilities.
 
 ## TeX 
 
