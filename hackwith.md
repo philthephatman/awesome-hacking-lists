@@ -23,6 +23,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Julia](#julia)
+  - [Jupyter Notebook](#jupyter notebook)
   - [Logos](#logos)
   - [Lua](#lua)
   - [Makefile](#makefile)
@@ -92,6 +93,7 @@
 - [AndroidKernelExploitationPlayground](https://github.com/Fuzion24/AndroidKernelExploitationPlayground) - 
 - [JohnTheRipper](https://github.com/magnumripper/JohnTheRipper) - This is the official repo for the Jumbo version of John the Ripper. The "bleeding-jumbo" branch (default) is based on 1.8.0-Jumbo-1 (but we are literally several thousands of commits ahead of it).
 - [zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
+- [mimipenguin](https://github.com/huntergregal/mimipenguin) - A tool to dump the login password from the current linux user
 - [avet](https://github.com/govolution/avet) - AntiVirus Evasion Tool
 - [0d1n](https://github.com/CoolerVoid/0d1n) - Web security tool to make fuzzing at HTTP/S, Beta
 - [raptor_waf](https://github.com/CoolerVoid/raptor_waf) - Raptor - WAF - Web application firewall using DFA [ Current version ] - Beta
@@ -135,7 +137,7 @@
 - [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.
 - [revsh](https://github.com/emptymonkey/revsh) - A reverse shell with terminal support, data tunneling, and advanced pivoting capabilities.
 - [exploits](https://github.com/tresacton/exploits) - Exploits that are mostly ready to use. They either require no modification or have been modified and verified as functional.
-- [elfa](https://github.com/rootlabs/elfa) - ☠️ gdb (GNU debugger) anti-reversing patcher for elf
+- [elfa](https://github.com/rootlabs/elfa) - ☠️ gdb (GNU debugger) anti-reversing patcher for ELF (based on IOActive's research)
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of  public penetration test reports released by several consulting firms and academic security groups
 - [PeiBackdoor](https://github.com/Cr4sh/PeiBackdoor) - PEI stage backdoor for UEFI compatible firmware
 - [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
@@ -177,7 +179,7 @@
 ## C++ 
 
 - [GRFICS](https://github.com/djformby/GRFICS) - Graphical Realism Framework for Industrial Control Simulations
-- [anwi](https://github.com/SanketKarpe/anwi) - ANWI - All New Wireless IDS
+- [anwi](https://github.com/anwi-wips/anwi) - ANWI - All New Wireless IDS
 - [ProcessHider](https://github.com/M00nRise/ProcessHider) - Post-exploitation tool for hiding processes from monitoring applications
 - [cutter](https://github.com/radareorg/cutter) - A Qt and C++ GUI for radare2 reverse engineering framework
 - [poc-exp](https://github.com/ele7enxxh/poc-exp) - poc or exp of android vulnerability
@@ -236,9 +238,9 @@
 ## Go 
 
 - [malice](https://github.com/maliceio/malice) - VirusTotal Wanna Be - Now with 100% more Hipster
-- [hideNsneak](https://github.com/rmikehodges/hideNsneak) - 
+- [hideNsneak-deprecated](https://github.com/rmikehodges/hideNsneak-deprecated) - 
 - [tracy](https://github.com/nccgroup/tracy) - A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
-- [subfinder](https://github.com/Ice3man543/subfinder) - SubFinder is a subdomain discovery tool that can enumerate massive amounts of valid subdomains for any target. It has a simple modular architecture and has been aimed as a successor to sublist3r project.
+- [subfinder](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) - Golang for Security Professionals
 - [gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [SubOver](https://github.com/Ice3man543/SubOver) - A Powerful Subdomain Takeover Tool
@@ -465,6 +467,10 @@
 
 - [detectem](https://github.com/alertot/detectem) - detectem - detect software and its version on websites.
 
+## Jupyter Notebook 
+
+- [HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK
+
 ## Logos 
 
 - [iSpy](https://github.com/BishopFox/iSpy) - A reverse engineering framework for iOS
@@ -492,7 +498,7 @@
 - [Keychain-Dumper](https://github.com/ptoomey3/Keychain-Dumper) - A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken
 - [OS-X-10.11.6-Exp-via-PEGASUS](https://github.com/zhengmin1989/OS-X-10.11.6-Exp-via-PEGASUS) - Local privilege escalation for OS X 10.11.6 via PEGASUS
 - [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS) - ChatSecure is a free and open source encrypted chat client for iOS that supports OTR and OMEMO encryption over XMPP.
-- [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for Mac OS X
+- [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for macOS
 
 ## Others 
 
@@ -536,7 +542,7 @@
 - [Yalda](https://github.com/gitaziabari/Yalda) - 
 - [Tintorera](https://github.com/vulnex/Tintorera) - Source Code Intelligence
 - [AndroidTamer](https://github.com/AndroidTamer/AndroidTamer) - We Use Github Extensively and openly. So it becomes dificult to track what's what and what's where. This repository is a master repo to Help with that.
-- [Awesome-Vulnerability-Research](https://github.com/sergey-pronin/Awesome-Vulnerability-Research) - 🦄 A curated list of the awesome resources about the Vulnerability Research
+- [Awesome-Vulnerability-Research](https://github.com/secruity/Awesome-Vulnerability-Research) - 🦄 A curated list of the awesome resources about the Vulnerability Research
 - [android_app_security_checklist](https://github.com/b-mueller/android_app_security_checklist) - Android App Security Checklist
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [Docker-Secure-Deployment-Guidelines](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines) - Deployment checklist for securely deploying Docker
@@ -756,7 +762,7 @@
 - [luckystrike](https://github.com/curi0usJack/luckystrike) - A PowerShell based utility for the creation of malicious Office macro documents.
 - [OWA-Toolkit](https://github.com/johnnyDEP/OWA-Toolkit) - Powershell module to assist in attacking Exchange/Outlook Web Access
 - [dvta](https://github.com/secvulture/dvta) - Damn Vulnerable Thick Client App
-- [nishang](https://github.com/samratashok/nishang) - Nishang - PowerShell for penetration testing and offensive security.
+- [nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for penetration testing and offensive security.
 - [MailSniper](https://github.com/dafthack/MailSniper) - MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email, or by an administrator to search the mailboxes of every user in a domain.
 - [HatDBG](https://github.com/enddo/HatDBG) - Minimal WIN32 Debugger in powershell
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
@@ -800,7 +806,7 @@
 - [drupwn](https://github.com/immunIT/drupwn) - Drupal enumeration & exploitation tool
 - [sink-logger](https://github.com/bayotop/sink-logger) - Transparently log all data passed into known JavaScript sinks - Sink Logger extension for Burp.
 - [ShellPop](https://github.com/0x00-0x00/ShellPop) - Pop shells like a master.
-- [Bad-Pdf](https://github.com/deepzec/Bad-Pdf) - Steal Net-NTLM Hashes using Bad-PDF
+- [Bad-Pdf](https://github.com/deepzec/Bad-Pdf) - Steal Net-NTLM Hash using Bad-PDF
 - [arm_now](https://github.com/nongiach/arm_now) - arm_now is a qemu powered tool that allows instant setup of virtual machines on arm cpu, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose.
 - [SMBrute](https://github.com/m4ll0k/SMBrute) - SMB Protocol Bruteforce
 - [RTA](https://github.com/flipkart-incubator/RTA) - Red team Arsenal - An intelligent scanner to detect security vulnerabilities in company's layer 7 assets.
@@ -817,7 +823,7 @@
 - [S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for open S3 buckets and dump
 - [dotdotslash](https://github.com/jcesarstef/dotdotslash) - Search for Directory Traversal Vulnerabilities
 - [Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
-- [EvilOSX](https://github.com/Marten4n6/EvilOSX) - A pure python, post-exploitation, RAT (Remote Administration Tool) for macOS / OSX.
+- [EvilOSX](https://github.com/Marten4n6/EvilOSX) - An evil RAT (Remote Administration Tool) for macOS / OS X.
 - [msdat](https://github.com/quentinhardy/msdat) - MSDAT: Microsoft SQL Database Attacking Tool
 - [One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetration testing operations
 - [hate_crack](https://github.com/trustedsec/hate_crack) - A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
@@ -989,7 +995,6 @@
 - [exploit-database-bin-sploits](https://github.com/offensive-security/exploit-database-bin-sploits) - Exploit Database binary exploits located in the /sploits directory
 - [evilginx](https://github.com/kgretzky/evilginx) - Man-in-the-middle attack framework used for phishing credentials and session cookies of any web service.
 - [punter](https://github.com/nethunteros/punter) - Hunt domain names using DNSDumpster, WHOIS, Reverse WHOIS, Shodan, Crimeflare
-- [mimipenguin](https://github.com/huntergregal/mimipenguin) - A tool to dump the login password from the current linux user
 - [dockerscan](https://github.com/cr0hn/dockerscan) - Docker security analysis & hacking tools
 - [cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
 - [spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot, the open source footprinting and intelligence-gathering  tool.
@@ -1397,7 +1402,7 @@
 - [phishlulz](https://github.com/antisnatchor/phishlulz) - 
 - [commit-watcher](https://github.com/srcclr/commit-watcher) - Find interesting and potentially hazardous commits in git projects
 - [pentest-env](https://github.com/Sliim/pentest-env) - Pentest environment deployer (kali linux + targets) using vagrant and chef.
-- [rubocop](https://github.com/rubocop-hq/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.
+- [rubocop](https://github.com/rubocop-hq/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [viproy-voipkit](https://github.com/fozavci/viproy-voipkit) - VIPROY - VoIP Pen-Test Kit for Metasploit Framework
 - [birdwatcher](https://github.com/michenriksen/birdwatcher) - Data analysis and OSINT framework for Twitter
 - [HashData](https://github.com/sam-b/HashData) - A command line Hash Identifying tool.
@@ -1429,7 +1434,6 @@
 - [snake](https://github.com/countercept/snake) - snake - a malware storage zoo
 - [MicroRenovator](https://github.com/syncsrc/MicroRenovator) - Pre-OS microcode updater
 - [ReconPi](https://github.com/x1mdev/ReconPi) - ReconPi - A lightweight recon tool that performs extensive scanning with the latest tools.
-- [HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK
 - [lazyrecon](https://github.com/nahamsec/lazyrecon) - This script is intended to automate your reconnaissance process in an organized fashion
 - [RAI](https://github.com/obscuritylabs/RAI) - Rapid Attack Infrastructure (RAI)
 - [DevSecOps-Studio](https://github.com/teacheraio/DevSecOps-Studio) - Virtual environment for learning DevSecOps
@@ -1446,7 +1450,7 @@
 - [Installer](https://github.com/OnionDecoy/Installer) - A platform to run private unannounced Honeypots as Tor Hidden Services (aka Onion Decoys) inside the Tor Network.
 - [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [mpc](https://github.com/g0tmi1k/mpc) - MSFvenom Payload Creator (MSFPC)
-- [tornado](https://github.com/rebellionil/tornado) - All in one MITM tool .
+- [tornado](https://github.com/rebe11ion/tornado) - All in one MITM tool .
 - [testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [graudit](https://github.com/wireghoul/graudit) - Grep rough audit - source code auditing tool
 - [HoneyPi](https://github.com/mattymcfatty/HoneyPi) - 
