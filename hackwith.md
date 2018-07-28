@@ -80,6 +80,7 @@
 - [yersinia](https://github.com/tomac/yersinia) - A framework for layer 2 attacks
 - [eaphammer](https://github.com/s0lst1c3/eaphammer) - Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.
 - [chipwhisperer](https://github.com/newaetech/chipwhisperer) - ChipWhisperer - the complete open-source toolchain for side-channel power analysis and glitching attacks
+- [nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 - [filewatcher](https://github.com/meliot/filewatcher) - A simple auditing utility for macOS
 - [linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) - linux-kernel-exploits Linux平台提权漏洞集合
@@ -237,6 +238,8 @@
 
 ## Go 
 
+- [gosec](https://github.com/securego/gosec) - Golang security checker
+- [pathbrute](https://github.com/milo2012/pathbrute) - Pathbrute
 - [malice](https://github.com/maliceio/malice) - VirusTotal Wanna Be - Now with 100% more Hipster
 - [hideNsneak-deprecated](https://github.com/rmikehodges/hideNsneak-deprecated) - 
 - [tracy](https://github.com/nccgroup/tracy) - A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
@@ -247,7 +250,7 @@
 - [go-deliver](https://github.com/0x09AL/go-deliver) - Go-deliver is a payload delivery tool coded in Go.
 - [certgraph](https://github.com/lanrat/certgraph) - An open source intelligence tool to crawl the graph of certificate Alternate Names
 - [second-order](https://github.com/mhmdiaa/second-order) - Second-order subdomain takeover scanner
-- [gOSINT](https://github.com/Nhoya/gOSINT) - OSINT framework in Go
+- [gOSINT](https://github.com/Nhoya/gOSINT) - OSINT Swiss Army Knife
 - [goWAPT](https://github.com/dzonerzy/goWAPT) - Go Web Application Penetration Test
 - [amass](https://github.com/caffix/amass) - In-depth subdomain enumeration written in Go
 - [govwa](https://github.com/0c34/govwa) - 
@@ -477,7 +480,6 @@
 
 ## Lua 
 
-- [nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [icsmaster](https://github.com/w3h/icsmaster) - ICS/SCADA Security Resource（整合工控安全相关资源）
 - [linux-native-backdoors](https://github.com/ulissescastro/linux-native-backdoors) - Repository holding all alternatives of *nix backdoors.
 - [shodan-hq-nse](https://github.com/glennzw/shodan-hq-nse) - Shodan HQ nmap plugin - passively scan targets
@@ -832,7 +834,7 @@
 - [elasticintel](https://github.com/securityclippy/elasticintel) - Serverless, low cost, threat intel aggregation for enterprise or personal use, backed by ElasticSearch.
 - [LaZagneForensic](https://github.com/AlessandroZ/LaZagneForensic) - Windows passwords decryption from dump files
 - [AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
-- [Minesweeper](https://github.com/codingo/Minesweeper) - A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 6100+ malicious cryptocurrency mining domains (cryptojacking).
+- [Minesweeper](https://github.com/codingo/Minesweeper) - A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 9200+ malicious cryptocurrency mining domains (cryptojacking).
 - [lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
 - [CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind by CloudFlare using Internet-wide scan data from Censys.
 - [wavecrack](https://github.com/wavestone-cdt/wavecrack) - Wavestone's web interface for password cracking with hashcat
@@ -993,7 +995,7 @@
 - [cowrie](https://github.com/micheloosterhof/cowrie) - Cowrie SSH/Telnet Honeypot
 - [AutOSINT](https://github.com/bharshbarger/AutOSINT) - Tool to automate common OSINT tasks
 - [exploit-database-bin-sploits](https://github.com/offensive-security/exploit-database-bin-sploits) - Exploit Database binary exploits located in the /sploits directory
-- [evilginx](https://github.com/kgretzky/evilginx) - Man-in-the-middle attack framework used for phishing credentials and session cookies of any web service.
+- [evilginx](https://github.com/kgretzky/evilginx) - PLEASE USE NEW VERSION: https://github.com/kgretzky/evilginx2
 - [punter](https://github.com/nethunteros/punter) - Hunt domain names using DNSDumpster, WHOIS, Reverse WHOIS, Shodan, Crimeflare
 - [dockerscan](https://github.com/cr0hn/dockerscan) - Docker security analysis & hacking tools
 - [cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
@@ -1288,7 +1290,7 @@
 - [pentest_scripts](https://github.com/milo2012/pentest_scripts) - 
 - [spoofcheck](https://github.com/BishopFox/spoofcheck) - Simple script that checks a domain for email protections
 - [firminator_backend](https://github.com/misterch0c/firminator_backend) - The first open source vulnerability scanner for firmwares
-- [BruteXSS](https://github.com/shawarkhanethicalhacker/BruteXSS) - BruteXSS - Cross-Site Scripting Bruteforcer
+- [BruteXSS](https://github.com/shawarkhanethicalhacker-zz/BruteXSS) - BruteXSS - Cross-Site Scripting Bruteforcer
 - [burpy](https://github.com/debasishm89/burpy) - Portable and flexible web application security assessment tool.It parses Burp Suite log and performs various tests depending on the module provided and finally generate a HTML report.
 - [hack_audio_captcha](https://github.com/debasishm89/hack_audio_captcha) - Collection of Scripts written to Solve/Crack Audio reCapcha Challenges
 - [IEFuzz](https://github.com/debasishm89/IEFuzz) - A static Internet Explorer Fuzzer.
@@ -1321,7 +1323,7 @@
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [des_kpt](https://github.com/h1kari/des_kpt) - Reference implementation and job creation tool for cracking DES using the crack.sh service
 - [chapcrack](https://github.com/moxie0/chapcrack) - 
-- [D-TECT](https://github.com/shawarkhanethicalhacker/D-TECT) - D-TECT - Pentesting the Modern Web
+- [D-TECT](https://github.com/shawarkhanethicalhacker-zz/D-TECT) - D-TECT - Pentesting the Modern Web
 - [LHF](https://github.com/blindfuzzy/LHF) - A modular recon tool for pentesting
 - [dymerge](https://github.com/k4m4/dymerge) - 🔓 A dynamic dictionary merger for successful dictionary based attacks.
 - [ARTLAS](https://github.com/mthbernardes/ARTLAS) - Apache Real Time Logs Analyzer System
@@ -1330,7 +1332,7 @@
 - [PyMal](https://github.com/cysinfo/PyMal) - PyMal is a python based interactive Malware Analysis Framework. It is built on the top of three pure python programes Pefile, Pydbg and Volatility.
 - [vulners-scanner](https://github.com/videns/vulners-scanner) - Vulnerability scanner based on vulners.com audit API
 - [Sysvol_Hunter](https://github.com/MaroGenio/Sysvol_Hunter) - Automating Exploitation Of Sysvol Password Weakness
-- [google_explorer](https://github.com/PurpleHaz3/google_explorer) - Mass exploitation tool in python
+- [google_explorer](https://github.com/errorbased/google_explorer) - Mass exploitation tool in python
 - [NSAEQGRPFortinetVerify](https://github.com/fnatalucci/NSAEQGRPFortinetVerify) - Tools for check NSA EGBL exploit against Fortinet Firewall
 - [datasploit](https://github.com/DataSploit/datasploit) - An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc.,  aggregate all the raw data, and give data in multiple formats.
 - [python-react](https://github.com/markfinger/python-react) - Server-side rendering of React components
@@ -1395,7 +1397,7 @@
 - [ritm](https://github.com/argos83/ritm) - Ruby In The Middle (HTTP/HTTPS interception proxy)
 - [whitewidow](https://github.com/WhitewidowScanner/whitewidow) - SQL Vulnerability Scanner
 - [letsencrypt-fromscratch](https://github.com/alexpeattie/letsencrypt-fromscratch) - A guide to creating a LetsEncrypt client from scratch in &lt; 150 lines of Ruby
-- [browser-backdoor](https://github.com/IMcPwn/browser-backdoor) - BrowserBackdoor is an Electron Application with a JavaScript WebSocket Backdoor and a Ruby Command-Line Listener
+- [browser-backdoor](https://github.com/CarletonStuberg/browser-backdoor) - BrowserBackdoor is an Electron Application with a JavaScript WebSocket Backdoor and a Ruby Command-Line Listener
 - [brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
 - [WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
 - [beartrap](https://github.com/chrisbdaemon/beartrap) - 
@@ -1498,7 +1500,7 @@
 - [iRET](https://github.com/S3Jensen/iRET) - 
 - [authy-ssh](https://github.com/authy/authy-ssh) - Easy two-factor authentication for ssh servers
 - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
-- [lair-docker](https://github.com/ryhanson/lair-docker) - Lair Framework dockerized.
+- [lair-docker](https://github.com/lair-framework/lair-docker) - Lair Framework dockerized.
 - [pwndsh](https://github.com/SafeBreach-Labs/pwndsh) - Post-exploitation framework (and an interactive shell) developed in Bash shell scripting
 - [LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
 - [airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
@@ -1526,7 +1528,7 @@
 
 ## TypeScript 
 
-- [injectify](https://github.com/samdenty99/injectify) - Perform advanced MiTM attacks on websites with ease. https://injectify.js.org
+- [injectify](https://github.com/samdenty99/injectify) - Perform advanced MiTM attacks on websites with ease 💉
 - [outbound-rules](https://github.com/hraban/outbound-rules) - Reinventing the wheel; Content-Security-Policy
 
 ## Visual Basic 
