@@ -39,6 +39,7 @@
   - [PowerShell](#powershell)
   - [Propeller Spin](#propeller-spin)
   - [Python](#python)
+  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SQLPL](#sqlpl)
@@ -164,7 +165,7 @@
 - [NativePayload_DNS](https://github.com/DamonMohammadbagher/NativePayload_DNS) - C# code for Backdoor Payloads transfer by DNS Traffic and Bypassing Anti-viruses
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - PowerForensics provides an all in one platform for live disk forensic analysis
 - [ReverseShell](https://github.com/chango77747/ReverseShell) - Simple C# reverse shell with shellcode and process injection
-- [sandbox-attacksurface-analysis-tools](https://github.com/google/sandbox-attacksurface-analysis-tools) - Set of tools to analyze and attack Windows sandboxes.
+- [sandbox-attacksurface-analysis-tools](https://github.com/googleprojectzero/sandbox-attacksurface-analysis-tools) - Set of tools to analyze and attack Windows sandboxes.
 - [PSAttackBuildTool](https://github.com/jaredhaight/PSAttackBuildTool) - A tool for building PS&gt;Attack, an offensive PowerShell console that makes it easy for pentesters to use PowerShell.
 - [roslyn-security-guard](https://github.com/dotnet-security-guard/roslyn-security-guard) - Roslyn analyzers that aim to help security audit on .NET applications.
 - [ransomware-simulator](https://github.com/nccgroup/ransomware-simulator) - NCC Group Ransomware Simulator
@@ -238,6 +239,7 @@
 
 ## Go 
 
+- [kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls
 - [gosec](https://github.com/securego/gosec) - Golang security checker
 - [pathbrute](https://github.com/milo2012/pathbrute) - Pathbrute
 - [malice](https://github.com/maliceio/malice) - VirusTotal Wanna Be - Now with 100% more Hipster
@@ -314,6 +316,7 @@
 - [bugbountyguide](https://github.com/EdOverflow/bugbountyguide) - Bug Bounty Guide is a launchpad for bug bounty programs and bug bounty hunters.
 - [archerysec](https://github.com/archerysec/archerysec) - Open Source Vulnerability Assessment and Management helps developers and pentesters to perform scans and manage vulnerabilities.
 - [DetectionLab](https://github.com/clong/DetectionLab) - Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
+- [ADRecon](https://github.com/sense-of-security/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
 - [security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTPLeaks - All possible ways, a website can leak HTTP requests
 - [drek](https://github.com/chrisallenlane/drek) - A static-code-analysis tool for performing security-focused code reviews. It enables an auditor to swiftly map the attack-surface of a large application, with an emphasis on identifying development anti-patterns and footguns.
@@ -461,7 +464,7 @@
 - [domain-regex](https://github.com/johno/domain-regex) - A regular expression for most valid domains (including the latest TLDs)
 - [gattacker](https://github.com/securing/gattacker) - A Node.js package for BLE (Bluetooth Low Energy) security assessment using Man-in-the-Middle and other attacks
 - [vsaq](https://github.com/google/vsaq) - VSAQ is an interactive questionnaire application to assess the security programs of third parties.
-- [sleepy-puppy](https://github.com/Netflix/sleepy-puppy) - Sleepy Puppy XSS Payload Management Framework
+- [sleepy-puppy](https://github.com/Netflix-Skunkworks/sleepy-puppy) - Sleepy Puppy XSS Payload Management Framework
 - [diff-gui](https://github.com/antojoseph/diff-gui) - GUI for Frida -Scripts
 - [OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [Brosec](https://github.com/gabemarshall/Brosec) - Brosec - An interactive reference tool to help security professionals utilize useful payloads and commands.
@@ -732,7 +735,6 @@
 - [mimikittenz](https://github.com/putterpanda/mimikittenz) - A post-exploitation powershell tool for extracting juicy info from memory.
 - [NetRipper](https://github.com/NytroRST/NetRipper) - NetRipper - Smart traffic sniffing for penetration testers
 - [merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.
-- [ADRecon](https://github.com/sense-of-security/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
 - [ANGRYPUPPY](https://github.com/vysec/ANGRYPUPPY) - Bloodhound Attack Path Automation in CobaltStrike
 - [WMIOps](https://github.com/FortyNorthSecurity/WMIOps) - This repo is for WMIOps, a powershell script which uses WMI for various purposes across a network.
 - [Invoke-SocksProxy](https://github.com/p3nt4/Invoke-SocksProxy) - Socks proxy server using powershell.
@@ -828,7 +830,7 @@
 - [BuQuikker](https://github.com/Quikko/BuQuikker) - Supports multi threading for the bucketeer script
 - [python-sandboxapi](https://github.com/InQuest/python-sandboxapi) - Minimal, consistent Python API for building integrations with malware sandboxes.
 - [ctfr](https://github.com/UnaPibaGeek/ctfr) - Abusing Certificate Transparency logs for getting HTTPS websites subdomains.
-- [S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for open S3 buckets and dump
+- [S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for open AWS S3 buckets and dump the contents
 - [dotdotslash](https://github.com/jcesarstef/dotdotslash) - Search for Directory Traversal Vulnerabilities
 - [Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
 - [EvilOSX](https://github.com/Marten4n6/EvilOSX) - An evil RAT (Remote Administration Tool) for macOS / OS X.
@@ -877,7 +879,7 @@
 - [Tiny-URL-Fuzzer](https://github.com/orangetw/Tiny-URL-Fuzzer) - A tiny and cute URL fuzzer
 - [kernelpop](https://github.com/spencerdodd/kernelpop) - kernel privilege escalation enumeration and exploitation framework
 - [streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
-- [BackToMe](https://github.com/cyndery/BackToMe) - Little tool made in python to create payloads for Linux, Windows and OSX with unique handler
+- [BackToMe](https://github.com/h0nus/BackToMe) - Little tool made in python to create payloads for Linux, Windows and OSX with unique handler
 - [trevorc2](https://github.com/trustedsec/trevorc2) - TrevorC2 is a legitimate website (browsable) that tunnels client/server communications for covert command execution.
 - [Reverse_DNS_Shell](https://github.com/ahhh/Reverse_DNS_Shell) - A python reverse shell that uses DNS as the c2 channel
 - [iMessagesBackdoor](https://github.com/checkymander/iMessagesBackdoor) - A script to help set up an event handler in order to install a persistent backdoor that can be activated by sending a message.
@@ -894,7 +896,7 @@
 - [ThunderShell](https://github.com/Mr-Un1k0d3r/ThunderShell) - Python / PowerShell based RAT
 - [tinfoleak](https://github.com/espi0n/tinfoleak) - Get detailed information about a Twitter user activity
 - [redsails](https://github.com/BeetleChunks/redsails) - RedSails is a Python based post-exploitation project aimed at bypassing host based security monitoring and logging. DerbyCon 2017 Talk: https://www.youtube.com/watch?v=Ul8uPvlOsug
-- [domato](https://github.com/google/domato) - DOM fuzzer
+- [domato](https://github.com/googleprojectzero/domato) - DOM fuzzer
 - [binaryalert](https://github.com/airbnb/binaryalert) - BinaryAlert: Serverless, Real-time & Retroactive Malware Detection
 - [aws-extender](https://github.com/VirtueSecurity/aws-extender) - AWS Extender (Cloud Storage Tester) is a Burp plugin to assess permissions of cloud storage containers on AWS, Google Cloud and Azure.
 - [dorkbot](https://github.com/utiso/dorkbot) - Command-line tool to scan Google search results for vulnerabilities
@@ -913,7 +915,7 @@
 - [PowerLessShell](https://github.com/Mr-Un1k0d3r/PowerLessShell) - Run PowerShell command without invoking powershell.exe
 - [nWatch](https://github.com/s0cket7/nWatch) - 🔍 Tool for - Host Discovery, Port Scanning and Operating System Fingerprinting
 - [the-backdoor-factory](https://github.com/secretsquirrel/the-backdoor-factory) - Patch PE, ELF, Mach-O binaries with shellcode (NOT Supported)
-- [DeathStar](https://github.com/byt3bl33d3r/DeathStar) - Automate getting Domain Admin using Empire (https://github.com/EmpireProject/Empire)
+- [DeathStar](https://github.com/byt3bl33d3r/DeathStar) - Automate getting Domain Admin using Empire
 - [pymultitor](https://github.com/realgam3/pymultitor) - PyMultitor - Python Multi Threaded Tor Proxy
 - [BurpSmartBuster](https://github.com/pathetiq/BurpSmartBuster) - A Burp Suite content discovery plugin that add the smart into the Buster!
 - [kubebot](https://github.com/anshumanbh/kubebot) - A security testing Slackbot built with a Kubernetes backend on the Google Cloud Platform
@@ -998,14 +1000,14 @@
 - [MITMf](https://github.com/byt3bl33d3r/MITMf) - Framework for Man-In-The-Middle attacks
 - [fuzzbunch](https://github.com/fuzzbunch/fuzzbunch) - NSA finest tool
 - [pshtt](https://github.com/dhs-ncats/pshtt) - Scan domains and return data based on HTTPS best practices
-- [cowrie](https://github.com/micheloosterhof/cowrie) - Cowrie SSH/Telnet Honeypot
+- [cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot
 - [AutOSINT](https://github.com/bharshbarger/AutOSINT) - Tool to automate common OSINT tasks
 - [exploit-database-bin-sploits](https://github.com/offensive-security/exploit-database-bin-sploits) - Exploit Database binary exploits located in the /sploits directory
 - [evilginx](https://github.com/kgretzky/evilginx) - PLEASE USE NEW VERSION: https://github.com/kgretzky/evilginx2
 - [punter](https://github.com/nethunteros/punter) - Hunt domain names using DNSDumpster, WHOIS, Reverse WHOIS, Shodan, Crimeflare
 - [dockerscan](https://github.com/cr0hn/dockerscan) - Docker security analysis & hacking tools
 - [cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
-- [spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot, the open source footprinting and intelligence-gathering  tool.
+- [spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot, the most complete OSINT collection and reconnaissance tool.
 - [Veil](https://github.com/Veil-Framework/Veil) - Veil 3.1.X (Check version info in Veil at runtime)
 - [rext](https://github.com/j91321/rext) - Router EXploitation Toolkit - small toolkit for easy creation and usage of various python scripts that work with embedded devices.
 - [HEVD-Exploits](https://github.com/sizzop/HEVD-Exploits) - Various exploits for the HackSys Extreme Vulnerable Driver
@@ -1375,6 +1377,10 @@
 - [climber](https://github.com/raffaele-forte/climber) - Check UNIX/Linux systems for privilege escalation
 - [Metaphor](https://github.com/NorthBit/Metaphor) - Metaphor - Stagefright with ASLR bypass
 
+## Roff 
+
+- [checksec.sh](https://github.com/slimm609/checksec.sh) - Checksec.sh
+
 ## Ruby 
 
 - [envizon](https://github.com/evait-security/envizon) - network visualization tool with focus on red / blue team requirements
@@ -1417,7 +1423,7 @@
 - [wordpress-exploit-framework](https://github.com/rastating/wordpress-exploit-framework) - A Ruby framework designed to aid in the penetration testing of WordPress systems.
 - [arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
 - [sploitkit](https://github.com/tresacton/sploitkit) - A suite of CLI tools I built to automate some of the tedious parts of exploit development (specifically, crafting Buffer Overflow Exploits)
-- [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner
+- [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a free, for non-commercial use, black box WordPress vulnerability scanner written for security professionals and blog maintainers to test the security of their sites.
 
 ## Rust 
 
@@ -1441,7 +1447,7 @@
 - [lazyrecon](https://github.com/nahamsec/lazyrecon) - This script is intended to automate your reconnaissance process in an organized fashion
 - [RAI](https://github.com/obscuritylabs/RAI) - Rapid Attack Infrastructure (RAI)
 - [DevSecOps-Studio](https://github.com/teacheraio/DevSecOps-Studio) - Virtual environment for learning DevSecOps
-- [megplus](https://github.com/EdOverflow/megplus) - Automated reconnaissance wrapper — TomNomNom's meg on steroids.
+- [megplus](https://github.com/EdOverflow/megplus) - Automated reconnaissance wrapper — TomNomNom's meg on steroids. [DEPRECATED]
 - [Vegile](https://github.com/Screetsec/Vegile) - This tool will setting up your backdoor/rootkits when backdoor already setup it will be hidden your spesisifc process,unlimited your session in metasploit and transparent. Even when it killed, it will re-run again. There always be a procces which while run another process,So we can assume that this procces is unstopable like a Ghost in The Shell
 - [contact.sh](https://github.com/EdOverflow/contact.sh) - An OSINT tool to find contacts in order to report security vulnerabilities.
 - [BruteX](https://github.com/1N3/BruteX) - Automatically brute force all services running on a target.
@@ -1484,7 +1490,6 @@
 - [NSA_b_gone](https://github.com/tobykurien/NSA_b_gone) - A Linux shell script to improve your privacy online
 - [VulApps](https://github.com/Medicean/VulApps) - 快速搭建各种漏洞环境(Various vulnerability environment)
 - [pentestpackage](https://github.com/leonteale/pentestpackage) - a package of Pentest scripts I have made or  commonly use
-- [checksec.sh](https://github.com/slimm609/checksec.sh) - Checksec.sh
 - [Firefox-Security-Toolkit](https://github.com/mazen160/Firefox-Security-Toolkit) - A tool that transforms Firefox browsers into a penetration testing suite
 - [RepoSsessed](https://github.com/IOActive/RepoSsessed) - A project designed to parse public source code repositories and find various types of vulnerabilities.
 - [Dracnmap](https://github.com/Screetsec/Dracnmap) - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and difficult to follow for new users. Hence Dracnmap is designed to perform fast scaning with the utilizing script engine of nmap and nmap can perform various automatic scanning techniques with the advanced commands.
