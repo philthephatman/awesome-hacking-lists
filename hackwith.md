@@ -7,6 +7,7 @@
 
   - [Assembly](#assembly)
   - [Batchfile](#batchfile)
+  - [BitBake](#bitbake)
   - [Bro](#bro)
   - [C](#c)
   - [C#](#c#)
@@ -42,7 +43,6 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
-  - [SQLPL](#sqlpl)
   - [Scala](#scala)
   - [Shell](#shell)
   - [Smali](#smali)
@@ -62,6 +62,10 @@
 - [RDPInception](https://github.com/mdsecactivebreach/RDPInception) - A proof of concept for the RDP Inception Attack
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - A Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 
+## BitBake 
+
+- [IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
+
 ## Bro 
 
 - [bro](https://github.com/bro/bro) - Bro is a powerful network analysis framework that is much different from the typical IDS you may know.
@@ -72,9 +76,10 @@
 - [DECAF](https://github.com/sycurelab/DECAF) - DECAF(short for Dynamic Executable Code Analysis Framework) is a binary analysis platform based on QEMU.  This is also the home of the DroidScope dynamic Android malware analysis platform. DroidScope is now an extension to DECAF.
 - [fi6s](https://github.com/sfan5/fi6s) - IPv6 network scanner designed to be fast
 - [igoat](https://github.com/OWASP/igoat) - OWASP iGoat - A Learning Tool for iOS App Pentesting and Security by Swaroop Yermalkar
-- [SpecuCheck](https://github.com/ionescu007/SpecuCheck) - SpecuCheck is a Windows utility for checking the state of the software mitigations against CVE-2017-5754 (Meltdown) and hardware mitigations against CVE-2017-5715 (Spectre)
+- [SpecuCheck](https://github.com/ionescu007/SpecuCheck) - SpecuCheck is a Windows utility for checking the state of the software mitigations and hardware against  CVE-2017-5754 (Meltdown), CVE-2017-5715 (Spectre v2), CVE-2018-3260 (Foreshadow), and CVE-2018-3639 (Spectre v4)
 - [android-afl](https://github.com/ele7enxxh/android-afl) - Fuzzing Android program with american fuzzy lop (AFL)
 - [tsh](https://github.com/orangetw/tsh) - Tiny SHell is an open-source UNIX backdoor.
+- [exploits](https://github.com/0xdea/exploits) - A handy collection of my public exploits, all in one place.
 - [krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) - 
 - [WHID](https://github.com/whid-injector/WHID) - WiFi HID Injector - An USB Rubberducky / BadUSB On Steroids.
 - [yersinia](https://github.com/tomac/yersinia) - A framework for layer 2 attacks
@@ -262,6 +267,7 @@
 - [raven](https://github.com/0x09AL/raven) - raven is a Linkedin information gathering tool that  can be used by pentesters to gather information about an organization employees using Linkedin.
 - [emptynest](https://github.com/empty-nest/emptynest) - 
 - [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
+- [aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [net-Shield](https://github.com/fnzv/net-Shield) - An Easy and Simple Anti-DDoS solution for VPS,Dedicated Servers and IoT devices - Beta
 - [gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 - [clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
@@ -289,6 +295,7 @@
 - [ssh2docker](https://github.com/moul/ssh2docker) - :whale: standalone SSH server that connects you to your Docker containers
 - [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [doctl](https://github.com/digitalocean/doctl) - A command line tool for DigitalOcean services
+- [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
 
 ## Groff 
@@ -343,7 +350,6 @@
 - [devtools-detect](https://github.com/sindresorhus/devtools-detect) - Detect if DevTools is open and its orientation
 - [metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 - [OWASP-mth3l3m3nt-framework](https://github.com/alienwithin/OWASP-mth3l3m3nt-framework) - OWASP Mth3l3m3nt Framework is a penetration testing aiding tool and exploitation framework. It fosters a principle of attack the web using the web as well as pentest on the go through its responsive interface.
-- [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 
 ## Hack 
 
@@ -406,6 +412,7 @@
 
 ## JavaScript 
 
+- [aws-mfa-enforce](https://github.com/Chan9390/aws-mfa-enforce) - Serverless function to automate enforcement of Multi-Factor Authentication (MFA) to all AWS IAM users with access to AWS Management Console.
 - [DockerSecurityPlayground](https://github.com/giper45/DockerSecurityPlayground) - A Microservices-based framework for the study of network security
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [r2frida](https://github.com/nowsecure/r2frida) - Radare2 and Frida better together.
@@ -426,9 +433,8 @@
 - [xssor2](https://github.com/evilcos/xssor2) - XSS'OR - Hack with JavaScript.
 - [repo-supervisor](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets. :mag:
 - [pcapdb](https://github.com/dirtbags/pcapdb) - A Distributed, Search-Optimized Full Packet Capture System
-- [hawkeye](https://github.com/Stono/hawkeye) - A project security/vulnerability/risk scanning tool
+- [scanner-cli](https://github.com/hawkeyesec/scanner-cli) - A project security/vulnerability/risk scanning tool
 - [wssip](https://github.com/nccgroup/wssip) - Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa.
-- [intrigue-core](https://github.com/intrigueio/intrigue-core) - Discover your attack surface!
 - [retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities
 - [amiunique](https://github.com/DIVERSIFY-project/amiunique) - Learn how identifiable you are on the Internet
 - [WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat 8.0
@@ -623,7 +629,6 @@
 - [Resource-List](https://github.com/FuzzySecurity/Resource-List) - GitHub Project Resource List
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [CTF-tool](https://github.com/SandySekharan/CTF-tool) - A curated list of Capture The Flag (CTF) frameworks, libraries, resources and softwares.
-- [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
 - [awesome-windows-exploitation](https://github.com/enddo/awesome-windows-exploitation) - A curated list of awesome Windows Exploitation resources, and shiny things. Inspired by awesom
 - [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
 - [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
@@ -658,7 +663,6 @@
 - [ektotal](https://github.com/nao-sec/ektotal) - [BHUSA 2018 Arsenal] Integrated tool to analyze Drive-by Download attack
 - [kurukshetra](https://github.com/a0xnirudh/kurukshetra) - Kurukshetra - A framework for teaching secure coding by means of interactive problem solving.
 - [hashtopolis](https://github.com/s3inlc/hashtopolis) - A Hashcat wrapper for distributed hashcracking
-- [IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, fuzz lists and file uploads
 - [caesarRAT](https://github.com/0blio/caesarRAT) - An HTTP based RAT (Remote Administration Tool) that allows you to remotely control devices from your browser
 - [pentest-tools](https://github.com/gwen001/pentest-tools) - Custom pentesting tools
 - [NG-NetMS](https://github.com/Opt-OSS/NG-NetMS) - NG-NetMS is a new end-to-end network management platform for your Linux servers, Cisco, Juniper, HP and Extreme routers, switches and firewalls.
@@ -689,7 +693,7 @@
 - [PHP-backdoors](https://github.com/bartblaze/PHP-backdoors) - A collection of PHP backdoors. For educational or testing purposes only.
 - [php-webshells](https://github.com/JohnTroony/php-webshells) - Common php webshells. Do not host the file(s) on your server!
 - [php-exploit-scripts](https://github.com/mattiasgeniar/php-exploit-scripts) - A collection of PHP exploit scripts, found when investigating hacked servers. These are stored for educational purposes and to test fuzzers and vulnerability scanners. Feel free to contribute.
-- [Sn1per](https://github.com/1N3/Sn1per) - Automated Pentest Recon Scanner
+- [Sn1per](https://github.com/1N3/Sn1per) - Automated Pentest Framework for Offensive Security Experts
 - [waf-detector](https://github.com/shieldfy/waf-detector) - small script to detect web application firewall on any website
 
 ## Pascal 
@@ -847,7 +851,7 @@
 - [elasticintel](https://github.com/securityclippy/elasticintel) - Serverless, low cost, threat intel aggregation for enterprise or personal use, backed by ElasticSearch.
 - [LaZagneForensic](https://github.com/AlessandroZ/LaZagneForensic) - Windows passwords decryption from dump files
 - [AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
-- [Minesweeper](https://github.com/codingo/Minesweeper) - A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 9200+ malicious cryptocurrency mining domains (cryptojacking).
+- [Minesweeper](https://github.com/codingo/Minesweeper) - A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 14000+ malicious cryptocurrency mining domains (cryptojacking).
 - [lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
 - [CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind by CloudFlare using Internet-wide scan data from Censys.
 - [wavecrack](https://github.com/wavestone-cdt/wavecrack) - Wavestone's web interface for password cracking with hashcat
@@ -950,7 +954,7 @@
 - [owtf](https://github.com/owtf/owtf) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient @owtfp http://owtf.org
 - [pyfiscan](https://github.com/fgeek/pyfiscan) - Free web-application vulnerability and version scanner
 - [security_monkey](https://github.com/Netflix/security_monkey) - Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
-- [XSStrike](https://github.com/s0md3v/XSStrike) - XSS Scanner equipped with powerful fuzzing engine & intelligent payload generator
+- [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS detection suite.
 - [ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
 - [DropboxC2C](https://github.com/0x09AL/DropboxC2C) - DropboxC2C is a post-exploitation agent which uses Dropbox Infrastructure for command and control operations.
 - [LFISuite](https://github.com/D35m0nd142/LFISuite) - Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner
@@ -1395,8 +1399,8 @@
 - [timing_attack](https://github.com/ffleming/timing_attack) - Perform timing attacks against web applications
 - [dradis-ce](https://github.com/dradis/dradis-ce) - Dradis Framework: Colllaboration and reporting for IT Security teams
 - [metasploit-framework](https://github.com/godinezj/metasploit-framework) - Metasploit Framework
-- [aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [pentest-lab](https://github.com/Sliim/pentest-lab) - Pentest Lab on OpenStack with Heat, Chef provisioning and Docker
+- [intrigue-core](https://github.com/intrigueio/intrigue-core) - Discover your attack surface!
 - [HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability Scanner
 - [yasuo](https://github.com/0xsauby/yasuo) - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network
 - [Cartero](https://github.com/Section9Labs/Cartero) - Cartero - Social Engineering Framework
@@ -1432,10 +1436,6 @@
 - [bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
 - [syncookied](https://github.com/LTD-Beget/syncookied) - syn flood protection
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages
-
-## SQLPL 
-
-- [exploits](https://github.com/0xdea/exploits) - A handy collection of my public exploits, all in one place.
 
 ## Scala 
 
@@ -1513,6 +1513,7 @@
 - [LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
 - [airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
+- [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
 - [android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [docker-monitor](https://github.com/kentik/docker-monitor) - Scripts and configuration to help you monitor your Docker containers
 - [Mobile-MOV-Fuzz](https://github.com/Nexuist/Mobile-MOV-Fuzz) - Automated fuzzing of .mov files on iOS.
@@ -1537,7 +1538,7 @@
 
 ## TypeScript 
 
-- [injectify](https://github.com/samdenty99/injectify) - Perform advanced MiTM attacks on websites with ease 💉
+- [injectify](https://github.com/samdenty/injectify) - Perform advanced MiTM attacks on websites with ease 💉
 - [outbound-rules](https://github.com/hraban/outbound-rules) - Reinventing the wheel; Content-Security-Policy
 
 ## Visual Basic 
